@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-19T15:11:57.987799+00:00",
+  "generatedAt": "2026-02-19T15:25:47.117892+00:00",
   "newsByLang": {
     "zh": {
       "trending": [
@@ -307,10 +307,40 @@
       "ai": [
         {
           "title": "AI 领袖齐聚印度拍摄大合照，奥尔特曼、阿莫代伊却“貌合神离” - 新浪网",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNLU1Cd0pBdW1CT0dmby12TXF1Z184UzdmelNITTZDSm9Ma1ZIS3FNR2RKUm01X1VzOV9RVk5WeGNvTV8yREpyb25icjhxMkY2V0RmVlpNZEJlVTVjQ0RaajFPRWVNQ29OakVJXzdub3JlRWVlMzR6ajJfMkhzWFYyOXkxcGVjV0xhQ1RCYjdDV1JzNXM1bXpSRWt0T3AtOS1OQ3lYM0Y3d3FvMFF2djFJU1k5RWo0MXpQU2Q1VGh1MGhZNkpZZVVjRkJnWkJvYzFBU3kwTURRMlIxcWJ0aEVPR2JjZVVFbi1PV0Qyalk2Y2x6V0d5NWNocDM2RGYyMUxhMGhVV0FkU04?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNLU1Cd0pBdW1CT0dmby12TXF1Z184UzdmelNITTZDSm9Ma1ZIS3FNR2RKUm01X1VzOV9RVk5WeGNvTV8yREpyb25icjhxMkY2V0RmVlpNZEJlVTVjQ0RaajFPRWVNQ29OakVJXzdub3JlRWVlMzR6ajJfMkhzWFYyOXkxcGVjV0xhQ1RCYjdDV1JzNXM1bXpSRWt0T3AtOS1OQ3lYM0Y3d3FvMF",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQZU9tQVdmdW5uaGxDdy1mNTl4YnRKdUdXS2I0dDk5ZkZBeVA2UXpaTVBZWTNOaFZjQWIyRGNOYzZ5MUlxd3lBU01fNGxnU3lEWHJDLS00X0ljMEt1Ql8xNU0yMEI2dTBDOERoaHhZeTg0NWF5TTJpckxiU1kxeGZZRkt4LXV0Mzh6NGxfR2xzRjd1bVFGV2lMRlNfSUs0bmRhblNFb0ZSdjJocWJ1dlVmbjl5VEY5V3hJalpiNzIteDBmSUVQYUlBLTdwUW94cVduRkJJdmgzNUQzeXdEcFJqN3FQbUZibG5YbkdVVDJxZWdSMGZ0V1I4SlJVVFVNazhfUURQTA?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQZU9tQVdmdW5uaGxDdy1mNTl4YnRKdUdXS2I0dDk5ZkZBeVA2UXpaTVBZWTNOaFZjQWIyRGNOYzZ5MUlxd3lBU01fNGxnU3lEWHJDLS00X0ljMEt1Ql8xNU0yMEI2dTBDOERoaHhZeTg0NWF5TTJpckxiU1kxeGZZRkt4LXV0Mzh6NGxfR2xzRjd1bVFGV2lMRlNfSUs0bmRhblNFb0ZSdjJocW",
           "source": "新浪网",
-          "pubDate": "2026-02-19T15:08:34+00:00",
+          "pubDate": "2026-02-19T15:20:31+00:00",
+          "tag": "ai",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "OpenAI 奥尔特曼：AI 确实会影响就业，但有的公司却拿它“洗白”裁员计划 - 新浪网",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOQ0plMW9UdTNsb0R6MUQ1VGlRajFCRlFpanpKSmNUTHlESE54SmFCcVB5Zi1KQWl1WXRwSTBGVHFJNVhfelhLeG9TY09PeHFyYk1WdHNsbEpVS0xRdk9sTXJOS3pPNjFsOTBOQUpjR2I3QmtJZHdWT2d0VDRCUlJDOHBQdURXOVYzbEozdk9XVHEzcUdRcGJ5MzBYNVNVdEg4Y2t6dm1EY095UDV0VzdaaEd5dXk0SzQtc3JUWEdDcWNVeVA4ckwxU25DSC14aEx1WmhlRmhGVnpTQjBXZXZTczdRdVpLd0R5NW9QYktjQ3l3MzhlbnBxb2tYWTRtWXVMU2pKNDRzcEUxVGVMOVJBNDhB?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOQ0plMW9UdTNsb0R6MUQ1VGlRajFCRlFpanpKSmNUTHlESE54SmFCcVB5Zi1KQWl1WXRwSTBGVHFJNVhfelhLeG9TY09PeHFyYk1WdHNsbEpVS0xRdk9sTXJOS3pPNjFsOTBOQUpjR2I3QmtJZHdWT2d0VDRCUlJDOHBQdURXOVYzbEozdk9XVHEzcUdRcGJ5MzBYNVNVdEg4Y2t6dm1EY095UD",
+          "source": "新浪网",
+          "pubDate": "2026-02-19T15:14:47+00:00",
+          "tag": "ai",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "DA Davidson因AI不确定性下调Booking Holdings目标价 提供者 Investing.com - 英为财情 Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tM1RzYWl5NzZxVk51Ymk2SVQ4MW9jTklITmotSnRRUWc0STBmdHViUEpKaC16dXNRQVhZalQ4bkdRdW9LNWdITHpMMGlIY0lqcU16VldTR2daQlNqV2tjSmNrV1RTd3ZmUHZwaEp4cnAxUkNS?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5tM1RzYWl5NzZxVk51Ymk2SVQ4MW9jTklITmotSnRRUWc0STBmdHViUEpKaC16dXNRQVhZalQ4bkdRdW9LNWdITHpMMGlIY0lqcU16VldTR2daQlNqV2tjSmNrV1RTd3ZmUHZwaEp4cnAxUkNS?oc=5\" target=\"_blank\">DA Davidson因AI不确定性下调Booking Holdings目标价 提供者 Investi",
+          "source": "英为财情 Investing.com",
+          "pubDate": "2026-02-19T15:14:00+00:00",
+          "tag": "ai",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "Udemy与谷歌合作推出AI培训计划,培养职场就绪技能 提供者 Investing.com - 英为财情 Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zWHZLNWhveWdTX2p5TVd4TnZ0aXE0eHVtM3h4c2JUTGdTcnBwOVQ2dFJRRmxhYVJrMjFCSzNQMm5sSE5LRHY0RS1rM20wWkhaX0tyNW9WWVlTU01yZzg0MkhFelA3emVVLWI4dElGS3Q?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5zWHZLNWhveWdTX2p5TVd4TnZ0aXE0eHVtM3h4c2JUTGdTcnBwOVQ2dFJRRmxhYVJrMjFCSzNQMm5sSE5LRHY0RS1rM20wWkhaX0tyNW9WWVlTU01yZzg0MkhFelA3emVVLWI4dElGS3Q?oc=5\" target=\"_blank\">Udemy与谷歌合作推出AI培训计划,培养职场就绪技能 提供者 Investing.com</a>&nbsp;&",
+          "source": "英为财情 Investing.com",
+          "pubDate": "2026-02-19T15:06:00+00:00",
           "tag": "ai",
           "imageUrl": "",
           "imageAttribution": ""
@@ -331,26 +361,6 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQTHNpYUFERFd2UHl2YXNKdjVNbkJWV0FtNUh3UVBHQzRTcDllcW9XNE93ZmQwME1JRHNtaVRsVUJxZzBsWlotRElmVy0ySFdrLUM1cHVRQ2lMZ0tYOTJ0WVRQRDNTTkVOOUIyY3owUFZNT1RkUHZMQUpfeEYzUmVQYnhVaFlDc1M2Smk4dEwtbExMR3NmY1ZJUDF1X0xjemlKUkNVcnlSQW9oeT",
           "source": "新浪网",
           "pubDate": "2026-02-19T15:02:36+00:00",
-          "tag": "ai",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "OpenAI 奥尔特曼：AI 确实会影响就业，但有的公司却拿它“洗白”裁员计划 - 新浪网",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPXzdqZDdYNVNjb3hTZXRDaDVIclhsd2VMeDFLbDBWRC1QUlY4R0dEaGlHVk5rSjd4WE5Ya2hPVXh3NU1mUGYyUGlqYS1CeFRrcHJ6UGZUalBvNnIzcVhhYTNpazBjbTY5c2dDZktDdUJreDJuTjFDdGpvUzJ3WXNaTE9ua3F0M1dlaTFDSTVncUQxNDI0SVJFZWs0RXNGVnRfSURHMk93LUZjS3plZFkyLWh5TUFick5ZemE3c0JLdGRnZnVRWEhqc01NWHJoZ1VSdUFTX2dkaFcwMElUM3pjSXJ0NUVNQzdLZ2dZdWwwVnluQktaQzdjVGNTdElaSllfVFZsbkx4UkhTa1dLQkxJNmFpYlNydzYyOFJJSGJOMTBuN0ZrdTNRVDd2d29sZHdEVi1BMDV1eFRTcjl0SGpTV0VKQQ?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwJBVV95cUxPXzdqZDdYNVNjb3hTZXRDaDVIclhsd2VMeDFLbDBWRC1QUlY4R0dEaGlHVk5rSjd4WE5Ya2hPVXh3NU1mUGYyUGlqYS1CeFRrcHJ6UGZUalBvNnIzcVhhYTNpazBjbTY5c2dDZktDdUJreDJuTjFDdGpvUzJ3WXNaTE9ua3F0M1dlaTFDSTVncUQxNDI0SVJFZWs0RXNGVnRfSURHMk93LUZjS3",
-          "source": "新浪网",
-          "pubDate": "2026-02-19T14:56:30+00:00",
-          "tag": "ai",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "TD Cowen因AI投资下调Booking Holdings目标价 提供者 Investing.com - 英为财情 Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLRTJmSUFnM3N2YjVxWHYwVnc4cWxVTTNoSUNFdWJabEpHeWZoZmtvTlg4dXk0NHViZll1NHRXTG5Cc1pxSjUwTVdRV1BlMEVYSG5aSVNGTW00WmlET0dyY3lmT3VrRHoxLTM4NjFPaWRqR0Qw?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBLRTJmSUFnM3N2YjVxWHYwVnc4cWxVTTNoSUNFdWJabEpHeWZoZmtvTlg4dXk0NHViZll1NHRXTG5Cc1pxSjUwTVdRV1BlMEVYSG5aSVNGTW00WmlET0dyY3lmT3VrRHoxLTM4NjFPaWRqR0Qw?oc=5\" target=\"_blank\">TD Cowen因AI投资下调Booking Holdings目标价 提供者 Investing.co",
-          "source": "英为财情 Investing.com",
-          "pubDate": "2026-02-19T14:46:00+00:00",
           "tag": "ai",
           "imageUrl": "",
           "imageAttribution": ""
@@ -386,26 +396,6 @@
           "imageAttribution": ""
         },
         {
-          "title": "Endava第二财季业绩:人工智能投资拖累利润,公司处于转型期 提供者 Investing.com - 英为财情 Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ET1FEUXhDOHNMVjNTdHd4R1FNc2JfcnFQcUFCRzByaHdZai1kelhVS3l3eGk4eV82M0tZZ3FiTk1RZGphVjNZMXZmU05fUVBNY0lPdmFIQy00Q3JPQnc4dFRVdGJFdU9wN242NW5jSHg?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5ET1FEUXhDOHNMVjNTdHd4R1FNc2JfcnFQcUFCRzByaHdZai1kelhVS3l3eGk4eV82M0tZZ3FiTk1RZGphVjNZMXZmU05fUVBNY0lPdmFIQy00Q3JPQnc4dFRVdGJFdU9wN242NW5jSHg?oc=5\" target=\"_blank\">Endava第二财季业绩:人工智能投资拖累利润,公司处于转型期 提供者 Investing.com</a>&nb",
-          "source": "英为财情 Investing.com",
-          "pubDate": "2026-02-19T14:27:00+00:00",
-          "tag": "ai",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "春节 AI 模型大战，谁是最大赢家？ - 搜狐网",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNempOSWtyYTk3a296MlV0NTN5NTdHMUlmQjZjOUNabFEtR01TaUI4cGRYcloxY2twNkNKbUJKNEs2cUFKQXUxX0pNWEEzTjAtRWlPcnJJNWZSM3c3SV9qWThtcGVram94Uk5zaDB2a0ZobVVoRXkxQUdKeGw3U2hraEJaWDFKMDQ0SnY4?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNempOSWtyYTk3a296MlV0NTN5NTdHMUlmQjZjOUNabFEtR01TaUI4cGRYcloxY2twNkNKbUJKNEs2cUFKQXUxX0pNWEEzTjAtRWlPcnJJNWZSM3c3SV9qWThtcGVram94Uk5zaDB2a0ZobVVoRXkxQUdKeGw3U2hraEJaWDFKMDQ0SnY4?oc=5\" target=\"_blank\">春节 AI 模型大战，谁是最大赢家？<",
-          "source": "搜狐网",
-          "pubDate": "2026-02-19T14:14:35+00:00",
-          "tag": "ai",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
           "title": "中国将用电力优势重塑全球AI出口市场 绿电驱动未来竞争力 - 中华网",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FaGJNVDdJSDQtZmhPYzVkOXNUZGFmMXRJYUNkX2F0dFYyOUljZ1hKVXdaWmdOVlIxa1dDc25kcUR4NEtyOVZZQUJ4ZndUUlR5ME9aczh1S3hRcnNVeThDNFhmd0cwNU5QRDdGdE9NaXQ?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5FaGJNVDdJSDQtZmhPYzVkOXNUZGFmMXRJYUNkX2F0dFYyOUljZ1hKVXdaWmdOVlIxa1dDc25kcUR4NEtyOVZZQUJ4ZndUUlR5ME9aczh1S3hRcnNVeThDNFhmd0cwNU5QRDdGdE9NaXQ?oc=5\" target=\"_blank\">中国将用电力优势重塑全球AI出口市场 绿电驱动未来竞争力</a>&nbsp;&nbsp;<font color=",
@@ -421,16 +411,6 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOaFM1emhxVk5kZU96TDRjU1pkNjhHM203dHlpaGpSQ0dJalc4bGZmaVNNSXZPVmVoMElxSUh2akVzMEJrYUk4VjlHN0VMVmo2TGU2NUVSaUxocjFfUE53VDJOY1ZQX3RlSjFvSTBkMnNSUlhPeUwwR180UkM4MUZxeVJoN3ZuRTg?oc=5\" target=\"_blank\">暴涨242%！“AI除幻第一股”，市值突破370",
           "source": "搜狐网",
           "pubDate": "2026-02-19T14:05:20+00:00",
-          "tag": "ai",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "暴涨70%！估值狂飙，AI杀疯了！1.45万亿资金，突然涌来！ - 搜狐网",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWVhoNmhZZ1V4MUM4bENvbC1XNVI2Q0ZFU0FPQ0ZsZjB4dEJaR0NjZGVLZXo2M0l3LXI3NS1jWnhnSzY1VDdxeWhxNDVMN0UwWGxQczBCU0JZLXNMcExGZDlrYlVvVlBrZ1NRWjh6cWhOekNDSzhOYmRsY05iN29yTkF4QnJQcjg?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOWVhoNmhZZ1V4MUM4bENvbC1XNVI2Q0ZFU0FPQ0ZsZjB4dEJaR0NjZGVLZXo2M0l3LXI3NS1jWnhnSzY1VDdxeWhxNDVMN0UwWGxQczBCU0JZLXNMcExGZDlrYlVvVlBrZ1NRWjh6cWhOekNDSzhOYmRsY05iN29yTkF4QnJQcjg?oc=5\" target=\"_blank\">暴涨70%！估值狂飙，AI杀疯了！1.45万亿资",
-          "source": "搜狐网",
-          "pubDate": "2026-02-19T14:02:43+00:00",
           "tag": "ai",
           "imageUrl": "",
           "imageAttribution": ""
@@ -506,16 +486,6 @@
           "imageAttribution": ""
         },
         {
-          "title": "人们对AI到底是下一个风口还是纯属炒作争论不休 - 新浪网",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOMWx0MGgtZkRyNVlwN1BLVHVRejd2NlBodFQ3bmFTdXdzVVByM0o0QmVhcm80aDM3SVBsSUdMX2R6WExOdDF6Y0lhdUtNSElWMGl6ZV80TktlTjhDX1Y1czNfaTBDVXVfN3lYYllCSkJIWmJRMUxLdm9zM2h2RGdaTlBMTGt4YnRBT1Bhc2NpNWpSTmE1dEJFcnd2MjV2dGMyNk44elFNT29BX3dkaGstTkcwVWNWMGR3M2lWLXBNWXJzTmpjVXlzdHdiRm5wYVRaUjhIRzRfWVVMN0pEVXJxTEVhbllOVkpSS2dXZ1ptZHlhS05Udkt2QzFCVjlSMGIySnpoUE51aUozcnc?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxOMWx0MGgtZkRyNVlwN1BLVHVRejd2NlBodFQ3bmFTdXdzVVByM0o0QmVhcm80aDM3SVBsSUdMX2R6WExOdDF6Y0lhdUtNSElWMGl6ZV80TktlTjhDX1Y1czNfaTBDVXVfN3lYYllCSkJIWmJRMUxLdm9zM2h2RGdaTlBMTGt4YnRBT1Bhc2NpNWpSTmE1dEJFcnd2MjV2dGMyNk44elFNT29BX3",
-          "source": "新浪网",
-          "pubDate": "2026-02-19T13:30:00+00:00",
-          "tag": "ai",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
           "title": "沙特 AI 基金 HUMAIN 在 xAI 与 SpaceX 合并前向 xAI 投资 30 亿美元 - 新浪网",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95X2xyZG4xTTdzNDJORWVNUWFOV0tRMXdlQlVRWXRmM1g1SUk0WGFUcjI2MEdybGo1alRZc3pRd3Q4M3JjS1dMM3ZDNGhDY2dxa0xNYmQydTZoY1R2Mk15cU8xZ0c0U0lfQXdEVG5sUTlDNjZpd3lXcHBXU2FOMHM?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE95X2xyZG4xTTdzNDJORWVNUWFOV0tRMXdlQlVRWXRmM1g1SUk0WGFUcjI2MEdybGo1alRZc3pRd3Q4M3JjS1dMM3ZDNGhDY2dxa0xNYmQydTZoY1R2Mk15cU8xZ0c0U0lfQXdEVG5sUTlDNjZpd3lXcHBXU2FOMHM?oc=5\" target=\"_blank\">沙特 AI 基金 HUMAIN 在 xAI 与 SpaceX 合并前向 ",
@@ -541,6 +511,16 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNktFRnZ4dUd5ZDh0cl9TbTRpSUFyUDNTS1duLUlwbEIzNzg4aXBpMEk3bGc0MDlqSlVhM2hMZUZtTmQyejg2alJiMEpaa25mVEQzbFZxb3Y4dllNU0JhU1dFWUhMN3pKbjc0aGRERWgxa3JqUVJnUjVyYkpmTlVoSFhaOWw1cktReGpKMkVXUjQ1M3JaLUFhSklGTlc4QVZ0S2RJUE0zVEwyZk",
           "source": "富途牛牛",
           "pubDate": "2026-02-19T13:00:00+00:00",
+          "tag": "ai",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "人们对AI到底是下一个风口还是纯属炒作争论不休 - 新浪网",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS0pfN0hQVEt0X3hVYmpXUlZaWUdXb0I0ZTdaRFM5Z1g3VnUzTGdISzBka3lOQnJCdmZzbmlSU04xZVpjY0ljXzM2RXAtckFTUFlnTk1wRkJTU3lWTDZxTU5ralBzelRUQ2V6c1drRm1jOUR5U3VMaFBWTUlzejdHRzJ6Z0U3SG80V3dad1N4dVlSbHBFWks3YkVjNjdGLWk3clhFZVYySmN4cGFuQV9fSGdVZzgySGJVaEViZUlBWUJ5ckpkSFJqdHBoYUdtSVU5azFKRFhLYWZ1cWk5TmN3?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS0pfN0hQVEt0X3hVYmpXUlZaWUdXb0I0ZTdaRFM5Z1g3VnUzTGdISzBka3lOQnJCdmZzbmlSU04xZVpjY0ljXzM2RXAtckFTUFlnTk1wRkJTU3lWTDZxTU5ralBzelRUQ2V6c1drRm1jOUR5U3VMaFBWTUlzejdHRzJ6Z0U3SG80V3dad1N4dVlSbHBFWks3YkVjNjdGLWk3clhFZVYySmN4cG",
+          "source": "新浪网",
+          "pubDate": "2026-02-19T12:58:00+00:00",
           "tag": "ai",
           "imageUrl": "",
           "imageAttribution": ""
@@ -601,6 +581,26 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWVRMm1IQUJQY0l2YktKMWRiaFlKN3FWVWEwMHg1aVRzWS1sZVd6NTl0ZjNJTlVaQjFWVXNza19jVEFlZ3NJa0l0dlByb3EycVFzRmFGU0lzd3NmdEhDYUtGM3hqNkZ0TUpaVy0yR1hPWXl2Q1pGSlNtOTFUdlN0UHk3LW44cFQ5VlV3T1ViN2x2Q1EtV0JWLWljeHVpQWJsR0xyZWlFZW9WZw",
           "source": "富途牛牛",
           "pubDate": "2026-02-19T11:57:53+00:00",
+          "tag": "ai",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "谷歌与Sea达成协议，将开发智能体化AI工具 - 新浪网",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVjR0cndXMjJUSE5yVTBac2VFd3oyYzN3aDZkS1lyWnRZRmZxNVRjcFJqU1NvaDN5QktERzdqZGZ3czMwZ1V4RWt5UGU3TUZ2THBwLV93RTR4TEdVZEdHMnRoT1pxWU05bjdKOC1scEV6ZnJqdWFHOHdtS24zcVU2bUJpREVYMTE1ckEyaTVyTU1pazAwcG9sb1c5ZWRRNkF3QWNHVTBPQ09KUWVDaFBURDZULVpSV1dRZ2VoVE5TZGJDZDBpVmJEMmNvMzJYTGZUSUozRktBVEwwd3IyNWZLWE1BTVl4cXpYTThia2VKWFlkUDBlTGZOTXU3U09PYVUwMkFjelJkeFo1S3RWdEE?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQVjR0cndXMjJUSE5yVTBac2VFd3oyYzN3aDZkS1lyWnRZRmZxNVRjcFJqU1NvaDN5QktERzdqZGZ3czMwZ1V4RWt5UGU3TUZ2THBwLV93RTR4TEdVZEdHMnRoT1pxWU05bjdKOC1scEV6ZnJqdWFHOHdtS24zcVU2bUJpREVYMTE1ckEyaTVyTU1pazAwcG9sb1c5ZWRRNkF3QWNHVTBPQ09KUW",
+          "source": "新浪网",
+          "pubDate": "2026-02-19T10:41:15+00:00",
+          "tag": "ai",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "国际丨当着莫迪，美国两大人工智能巨头CEO拒绝牵手 - 新京报",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jc2VjUWdQR1FxMHNFN28zYnlyeURxQjBsZk9JalA2T21yd0NMcjdIM2pDaFUwY0xfSUVVdjRiU1pTWldhWUtHNnlMamlSRkJiQ0REUWxSLXFLclBWQnljZGJDclg?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jc2VjUWdQR1FxMHNFN28zYnlyeURxQjBsZk9JalA2T21yd0NMcjdIM2pDaFUwY0xfSUVVdjRiU1pTWldhWUtHNnlMamlSRkJiQ0REUWxSLXFLclBWQnljZGJDclg?oc=5\" target=\"_blank\">国际丨当着莫迪，美国两大人工智能巨头CEO拒绝牵手</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新京报</font",
+          "source": "新京报",
+          "pubDate": "2026-02-19T10:00:00+00:00",
           "tag": "ai",
           "imageUrl": "",
           "imageAttribution": ""
@@ -3095,8 +3095,8 @@
         },
         {
           "title": "《蛋仔派对》x《奶龙》联动返场！ - news.17173.com",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaZnAwS2RMeVY0WDNvVnZrVWJ5elJFVnR1c1l6ZW5iSVVqWGpOVjhGdVhPLXdMQnJCMDFRSkFXYlpEeGk1anRJSV90RThNN2REVzJLeTJlU2Y3M1VOZjBIdWJOZDg?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaZnAwS2RMeVY0WDNvVnZrVWJ5elJFVnR1c1l6ZW5iSVVqWGpOVjhGdVhPLXdMQnJCMDFRSkFXYlpEeGk1anRJSV90RThNN2REVzJLeTJlU2Y3M1VOZjBIdWJOZDg?oc=5\" target=\"_blank\">《蛋仔派对》x《奶龙》联动返场！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.17173.com</fo",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSc3ZpdE93UnhkMTBCZDZVY1pNeE5renNGUk1qdllOODB6TTJUYU9JaEZWajNWQzZmaWZUZmcxUGUwZ21KVkduNmwzT3VXc2JvbDdCMnoxTVdEZGxvdTdibzlRLUlMQQ?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSc3ZpdE93UnhkMTBCZDZVY1pNeE5renNGUk1qdllOODB6TTJUYU9JaEZWajNWQzZmaWZUZmcxUGUwZ21KVkduNmwzT3VXc2JvbDdCMnoxTVdEZGxvdTdibzlRLUlMQQ?oc=5\" target=\"_blank\">《蛋仔派对》x《奶龙》联动返场！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.17173.com<",
           "source": "news.17173.com",
           "pubDate": "2026-02-19T13:43:45+00:00",
           "tag": "gaming",
@@ -3215,8 +3215,8 @@
         },
         {
           "title": "《空间站工程师》燃烧式深层矿机更新 - news.17173.com",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KSWd5ckQ4ZWl6dG5SbEhmclJKMUdIY3dWaW1BZzVVeXlpQlNGa3hKWlktaHdMcEVmVi1PZjJ3UTl2MkpWOENjVzRwSEUtWXg0R1JLX3BpVVZnSVdUUTl3T292OFQxQQ?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KSWd5ckQ4ZWl6dG5SbEhmclJKMUdIY3dWaW1BZzVVeXlpQlNGa3hKWlktaHdMcEVmVi1PZjJ3UTl2MkpWOENjVzRwSEUtWXg0R1JLX3BpVVZnSVdUUTl3T292OFQxQQ?oc=5\" target=\"_blank\">《空间站工程师》燃烧式深层矿机更新</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.17173.com",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96QTltZ3pRWjAwR1JOMy1CdE0zUjAzTnNQQUpGQTNrNk5rNUYwYzh1YkRWdTE2ZXdJZFhzWGZqem5JWUZUOEMwRlpNWm8wRnhnanlKbmtrWkpGdGUyY2VkR2tKaDc?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE96QTltZ3pRWjAwR1JOMy1CdE0zUjAzTnNQQUpGQTNrNk5rNUYwYzh1YkRWdTE2ZXdJZFhzWGZqem5JWUZUOEMwRlpNWm8wRnhnanlKbmtrWkpGdGUyY2VkR2tKaDc?oc=5\" target=\"_blank\">《空间站工程师》燃烧式深层矿机更新</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.17173.com</f",
           "source": "news.17173.com",
           "pubDate": "2026-02-19T09:41:18+00:00",
           "tag": "gaming",
@@ -5744,11 +5744,31 @@
     "en": {
       "trending": [
         {
+          "title": "Man guilty of XL bully offence after dog killed mother-in-law in his home",
+          "link": "https://www.bbc.com/news/articles/c1e98d8l2l3o?at_medium=RSS&at_campaign=rss",
+          "description": "Ashley Warren, the first person to be prosecuted under XL bully laws, will be sentenced later.",
+          "source": "News Source",
+          "pubDate": "2026-02-19T15:21:17+00:00",
+          "tag": "trending",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
           "title": "U.S. Imports Grew in 2025, as Trump’s Tariffs Reshuffled Global Trade",
           "link": "https://www.nytimes.com/2026/02/19/business/economy/imports-tariffs-trade-deficit.html",
           "description": "Data released Thursday by the Census Bureau showed the overall trade deficit with the world narrowed, the result of an expanding trade surplus in services. The trade deficit in goods was the highest on record.",
           "source": "News Source",
-          "pubDate": "2026-02-19T15:03:47+00:00",
+          "pubDate": "2026-02-19T15:10:44+00:00",
+          "tag": "trending",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "Arrest after two teens found dead at holiday park",
+          "link": "https://www.bbc.com/news/articles/czx41qqgzlko?at_medium=RSS&at_campaign=rss",
+          "description": "A 33-year-old man has been arrested following the discovery at Little Eden Holiday Park.",
+          "source": "News Source",
+          "pubDate": "2026-02-19T15:07:50+00:00",
           "tag": "trending",
           "imageUrl": "",
           "imageAttribution": ""
@@ -5764,11 +5784,11 @@
           "imageAttribution": ""
         },
         {
-          "title": "Man guilty of XL bully offence after fatal attack",
-          "link": "https://www.bbc.com/news/articles/c1e98d8l2l3o?at_medium=RSS&at_campaign=rss",
-          "description": "Ashley Warren, the first person to be prosecuted under XL bully laws, will be sentenced later.",
+          "title": "KPop stars scored the biggest global hit songs of 2025",
+          "link": "https://www.bbc.com/news/articles/c5yrgmv6jd1o?at_medium=RSS&at_campaign=rss",
+          "description": "APT by Rosé and Bruno Mars and tracks from KPop Demon Hunters were among the biggest hits of the year.",
           "source": "News Source",
-          "pubDate": "2026-02-19T15:01:38+00:00",
+          "pubDate": "2026-02-19T15:00:16+00:00",
           "tag": "trending",
           "imageUrl": "",
           "imageAttribution": ""
@@ -5865,7 +5885,7 @@
         },
         {
           "title": "After Avalanche Warnings, a Sierra Nevada Tragedy",
-          "link": "https://www.nytimes.com/2026/02/19/nyregion/avalanche-lake-tahoe-deaths.html",
+          "link": "https://www.nytimes.com/2026/02/19/us/avalanche-lake-tahoe-deaths.html",
           "description": "Eight skiers were killed and one other was presumed dead in the deadliest snow disaster in modern California history. Six were found alive.",
           "source": "News Source",
           "pubDate": "2026-02-19T13:48:18+00:00",
@@ -5984,16 +6004,6 @@
           "imageAttribution": ""
         },
         {
-          "title": "Chagossians trying to resettle on islands defy removal order",
-          "link": "https://www.bbc.com/news/articles/ce8w2jknnk0o?at_medium=RSS&at_campaign=rss",
-          "description": "One says the British will have to \"drag me from my beach\" if they want him to leave the Chagos Islands.",
-          "source": "News Source",
-          "pubDate": "2026-02-19T11:42:00+00:00",
-          "tag": "trending",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
           "title": "Europe Worries About Another Trump Blowup, This One on Tech",
           "link": "https://www.nytimes.com/2026/02/19/world/europe/europe-united-states-trump-digital-services-act.html",
           "description": "Even as trade tensions between the United States and the European Union seem to calm, officials are concerned that a showdown is brewing over the bloc’s digital rules.",
@@ -6032,19 +6042,79 @@
           "tag": "trending",
           "imageUrl": "",
           "imageAttribution": ""
-        },
-        {
-          "title": "What is ski mountaineering, the sport making its Winter Olympics debut?",
-          "link": "https://www.bbc.com/sport/articles/cj0dzvzl25ro?at_medium=RSS&at_campaign=rss",
-          "description": "BBC Sport's Ask Me Anything team explains what ski mountaineering is ahead of its debut at the 2026 Winter Olympics",
-          "source": "News Source",
-          "pubDate": "2026-02-19T10:35:52+00:00",
-          "tag": "trending",
-          "imageUrl": "",
-          "imageAttribution": ""
         }
       ],
       "ai": [
+        {
+          "title": "TxDOT expands artificial intelligence for highway analysis - KTEN",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOThJeU9DeGFEbzByNnRORGhIaW9LS3g0UW9COW5ZQUh5RU5ETGpNaU0zZWJsaGRsb3J1UktGMnd1ZVMwVkQ4bURYNjQxVHN5QVZxUndLVjBfUkxONXlsdTRyQVIwUk12bU1Yc2JuNHJ6cGtlcFBkN2VVeEFlQVd0dFQ0VU15SklFVlQxcEx0YnNMRmlxbjdhMXVpOGlVOWtJRGpwVFRCMlZFMzdSUEpDTFlhRDZxbmVWQUFPUWFjQmc4VjE3MF9QaWdYeHlvVy1CWERwd1FMOHhLekFwSEp4V3Y5ZlQ?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOThJeU9DeGFEbzByNnRORGhIaW9LS3g0UW9COW5ZQUh5RU5ETGpNaU0zZWJsaGRsb3J1UktGMnd1ZVMwVkQ4bURYNjQxVHN5QVZxUndLVjBfUkxONXlsdTRyQVIwUk12bU1Yc2JuNHJ6cGtlcFBkN2VVeEFlQVd0dFQ0VU15SklFVlQxcEx0YnNMRmlxbjdhMXVpOGlVOWtJRGpwVFRCMlZFMz",
+          "source": "KTEN",
+          "pubDate": "2026-02-19T15:19:12+00:00",
+          "tag": "ai",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "Denver turns to artificial intelligence to help fix permitting speed, consistency - The Business Journals",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUHdMVHhIUk41Uk9oM3o1Z3Q2d3d2aUdPR283eFhMaDZsWUVSTXJCREZCcmxTUUprZWJiV2VsaTNYZ1pSX05PenczMFhiR0YyY2FEQURfZEhnRW9xV3QycUZ0UlpRZmxWQW14VUYtVThNcDE4enpoMHZPekM2Q09oQkNpR25zWEFrcUR6NWJPcmwyaUN3MHNHSmt6M0JzUE1kdnFJX2lkNVVRQQ?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUHdMVHhIUk41Uk9oM3o1Z3Q2d3d2aUdPR283eFhMaDZsWUVSTXJCREZCcmxTUUprZWJiV2VsaTNYZ1pSX05PenczMFhiR0YyY2FEQURfZEhnRW9xV3QycUZ0UlpRZmxWQW14VUYtVThNcDE4enpoMHZPekM2Q09oQkNpR25zWEFrcUR6NWJPcmwyaUN3MHNHSmt6M0JzUE1kdnFJX2lkNVVRQQ",
+          "source": "The Business Journals",
+          "pubDate": "2026-02-19T15:19:00+00:00",
+          "tag": "ai",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "Ransomware Report Finds AI Accelerating, Not Replacing Human-Led Attacks - Industrial Equipment News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlNpdnNZSXU0b2dWNmlsZGZZZm5GRXJoTUF3XzZWVmhFZGFDSzVIY2JsemR3TmdueldSWFJWMVhtdExvZm9kbXQ5d3hBMXZrVEJZREVrc2FNWW93N0NERlhwVUFsVGV5aUVwRFFPLXhxN1VKQWE5S0JzZHAweFhuOERVLU1Fd2dZckFIWHpfR25NdDcydVBiU1ZfSENmNW00XzN3ME1KbURaMEFrd1o1V1h4NUZ1eVlxbkRicnc3d3k5bWJOcmhR?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlNpdnNZSXU0b2dWNmlsZGZZZm5GRXJoTUF3XzZWVmhFZGFDSzVIY2JsemR3TmdueldSWFJWMVhtdExvZm9kbXQ5d3hBMXZrVEJZREVrc2FNWW93N0NERlhwVUFsVGV5aUVwRFFPLXhxN1VKQWE5S0JzZHAweFhuOERVLU1Fd2dZckFIWHpfR25NdDcydVBiU1ZfSENmNW00XzN3ME1KbURaME",
+          "source": "Industrial Equipment News",
+          "pubDate": "2026-02-19T15:18:07+00:00",
+          "tag": "ai",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "Fed officials at odds over AI’s impacts on monetary policy - Scotsman Guide",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRVIwUURvVHpyY3N5S1VpMWRCOFpBemp3WDVxaWF6UHY3dU5RQ25VYkhFM1BGNXU3QnFFV09ZVF9RWkp1YnZYY21wN0lqRE5kWFE3a1E3TWFKOEprLVNTYXpZWkJCMHBIZnhxYmFkTXd1VXdLTmtwQVVTQzkyc2tqRE9vY2JZMkR1cVdBX2xTS0Y5WW1JY2FMSg?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPRVIwUURvVHpyY3N5S1VpMWRCOFpBemp3WDVxaWF6UHY3dU5RQ25VYkhFM1BGNXU3QnFFV09ZVF9RWkp1YnZYY21wN0lqRE5kWFE3a1E3TWFKOEprLVNTYXpZWkJCMHBIZnhxYmFkTXd1VXdLTmtwQVVTQzkyc2tqRE9vY2JZMkR1cVdBX2xTS0Y5WW1JY2FMSg?oc=5\" target=\"_blank\">F",
+          "source": "Scotsman Guide",
+          "pubDate": "2026-02-19T15:18:04+00:00",
+          "tag": "ai",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "2 AI Stocks to Buy Before They Soar 37% and 108%, According to Wall Street Analysts - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2taNTZEMEt2RkIxdXRSQndIQXVMdUVDQmZUWmdBSFdfeDZ1UjRhQ243cXhxREpMenAzcjgzanZSUThNVi0tWDNxUGhZWXNZWEJacDFydU9TdFF0bmtjRkJ6bDh5VzFEcVJPWWxOZTdoeXdETGlKUmVDdi1hdjBrTGlmM3AxNWlPWi1ZOGdSOA?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2taNTZEMEt2RkIxdXRSQndIQXVMdUVDQmZUWmdBSFdfeDZ1UjRhQ243cXhxREpMenAzcjgzanZSUThNVi0tWDNxUGhZWXNZWEJacDFydU9TdFF0bmtjRkJ6bDh5VzFEcVJPWWxOZTdoeXdETGlKUmVDdi1hdjBrTGlmM3AxNWlPWi1ZOGdSOA?oc=5\" target=\"_blank\">2 AI Stocks t",
+          "source": "The Motley Fool",
+          "pubDate": "2026-02-19T15:15:00+00:00",
+          "tag": "ai",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "A Huge Survey of CEOs and Other Execs Just Found Something Damning About AI's Effects on Productivity - Futurism",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93eUdPLTVWOVhYMlMwLU1RcUJYby1hN2hpMTU2U2N0U19laHhyVkV6cFdHS3VZZmpRUjFldXBLS3UyN09RTEFLZ1RBekxUMGRHS0I2YnJxdVhfWHI3RWdqRm1OaWtYZ0twYl85bDZiQU14bG9lREh6Rw?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE93eUdPLTVWOVhYMlMwLU1RcUJYby1hN2hpMTU2U2N0U19laHhyVkV6cFdHS3VZZmpRUjFldXBLS3UyN09RTEFLZ1RBekxUMGRHS0I2YnJxdVhfWHI3RWdqRm1OaWtYZ0twYl85bDZiQU14bG9lREh6Rw?oc=5\" target=\"_blank\">A Huge Survey of CEOs and Other Execs Just Fo",
+          "source": "Futurism",
+          "pubDate": "2026-02-19T15:12:13+00:00",
+          "tag": "ai",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "Europe’s artificial intelligence strategy should be built on European strengths - Bruegel",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZk1XRnYxTWpBTGhaRWE2U3hYR0czTFNjZWM1elprdVZ4cmhtTkttTlNsZGVqOE9FR3Y5SmpXWW9OZmdHOTJDeEplVHNabTdTSVQ5OTIwZzRjb05USXNvUExhaTloWldTS3J3TF9rSHRTa1pXWmdDMzVCd1U0eGZiaGFnMlZVTnRkWHBpMS1VQ2dZWWNUbWY5bHN3LU83cjZDUzZITVI2REMyekI4SWxPM1dR?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOZk1XRnYxTWpBTGhaRWE2U3hYR0czTFNjZWM1elprdVZ4cmhtTkttTlNsZGVqOE9FR3Y5SmpXWW9OZmdHOTJDeEplVHNabTdTSVQ5OTIwZzRjb05USXNvUExhaTloWldTS3J3TF9rSHRTa1pXWmdDMzVCd1U0eGZiaGFnMlZVTnRkWHBpMS1VQ2dZWWNUbWY5bHN3LU83cjZDUzZITVI2REMyek",
+          "source": "Bruegel",
+          "pubDate": "2026-02-19T15:11:54+00:00",
+          "tag": "ai",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
         {
           "title": "AI Deepfake Bill Clears Criminal Judiciary Committee Unanimously - Oklahoma House of Representatives (.gov)",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NdWtNWWR1b3FmdEU4YWFoR2FhalVQWlpfRl82Nkg2UFZnZVJfZTVYRTJOQVYySVQtbmZveFotNGlhX2lySjk2UzVQc1Uxcm9GY3d5VVRidUk?oc=5",
@@ -6066,11 +6136,11 @@
           "imageAttribution": ""
         },
         {
-          "title": "PartnerOne Continues Investment in AI with XYPRO Applied AI Technology - PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTTJHRUlsdkdDTThvWWszejkwcVRaeUJudkJBNXZHcGZEZVRTdmdnRFF5cWQ2cDVfQVVxODEtbFRLOEt4U0FiV1dmZjBpbS11QWFnaU9Na0JUcUxZNmM1b3VWOHhEZncxRkZQam0waS1LWUVQYVBDUC0zVWFPUlo1NksxanNQZmg1TDBHZUYzRmxwS2IxN0MwU09PaGk4Wl9KWEJxOFFBemJiblJWblJUanN1Z0RQRVNveHc4U3d2RlJudFJ3?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNTTJHRUlsdkdDTThvWWszejkwcVRaeUJudkJBNXZHcGZEZVRTdmdnRFF5cWQ2cDVfQVVxODEtbFRLOEt4U0FiV1dmZjBpbS11QWFnaU9Na0JUcUxZNmM1b3VWOHhEZncxRkZQam0waS1LWUVQYVBDUC0zVWFPUlo1NksxanNQZmg1TDBHZUYzRmxwS2IxN0MwU09PaGk4Wl9KWEJxOFFBemJibl",
+          "title": "AI Under Control: Link11 Launches AI Management Dashboard for Clean Traffic - PR Newswire",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOenFzbGw1NkhpWEN2THdVaTFYamxDMVJoTEM2alI2Z29td29mZXpUZ19yTml4S1JWN1JzN0RaelJQeXpYR3ZPOXljMTRFb21aeFYyUFVpZjNiSV8yYy02U2hrRzhFZHI5OE53d2NQamkzbldBTTNyRHFTTWRvMlg3RHBiX1MtS3RPTkp0Wk9JQzJNalU4dnhoeV9oWEcybGk3TURXdUZYZndiaUFUNUJ0bkhfN2FqNHotS1BOcmJOS0Y1NVhVTHB5c0ZB?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOenFzbGw1NkhpWEN2THdVaTFYamxDMVJoTEM2alI2Z29td29mZXpUZ19yTml4S1JWN1JzN0RaelJQeXpYR3ZPOXljMTRFb21aeFYyUFVpZjNiSV8yYy02U2hrRzhFZHI5OE53d2NQamkzbldBTTNyRHFTTWRvMlg3RHBiX1MtS3RPTkp0Wk9JQzJNalU4dnhoeV9oWEcybGk3TURXdUZYZndiaU",
           "source": "PR Newswire",
-          "pubDate": "2026-02-19T15:00:00+00:00",
+          "pubDate": "2026-02-19T14:55:00+00:00",
           "tag": "ai",
           "imageUrl": "",
           "imageAttribution": ""
@@ -6216,21 +6286,21 @@
           "imageAttribution": ""
         },
         {
-          "title": "Navigating the hazy intersection of generative artificial intelligence and intellectual property - technicianonline.com",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNmhMUmtOWWxEX0VBWXY5bDlZUlFGQjZGLWU0eVFoNkFUYW5oclFoUmRGSkp1cHJDR3dLQVR4Z1pVREhwQXFlNjJQUmNZNjI1Q3dWNk5KQ3B1VTIyYWs3RzZQalhGMDQ4YXA2MzFmb0dyekhwbE55c0pRakFtMXRaSjBFYXctU0lrOEQxdFlfdGNCOGRyWXU1YTlfNlFETzY4X0pBU3FjTFZEN0xwMTY5MGpKd1prWUhpRlcwR3ZadGc1czFiaGl5RXUwZXhXMG1Vd0lEdzRYUEI?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNmhMUmtOWWxEX0VBWXY5bDlZUlFGQjZGLWU0eVFoNkFUYW5oclFoUmRGSkp1cHJDR3dLQVR4Z1pVREhwQXFlNjJQUmNZNjI1Q3dWNk5KQ3B1VTIyYWs3RzZQalhGMDQ4YXA2MzFmb0dyekhwbE55c0pRakFtMXRaSjBFYXctU0lrOEQxdFlfdGNCOGRyWXU1YTlfNlFETzY4X0pBU3FjTFZEN0",
-          "source": "technicianonline.com",
-          "pubDate": "2026-02-19T14:08:01+00:00",
+          "title": "Accenture ‘links staff promotions to use of AI tools’ - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmdud1ZnczZWMjBqZElQSW80TXM3ZEd2Q2plUWtXeGVmNGJPamNYdmdrY0MydW5GOFZ4X0xUSmotNWZ4VXR4azVjWWVpYXROcXo3REJPZEYxbms1SG85dzBzQVlzejBxSVd5SVo3M1ozZmY5ZndyOWJGT3NJS1ZUZzZGNkM0bHBETkswcU9YaXRyOEF3SlozaG1tcGw2YURYOGk4?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmdud1ZnczZWMjBqZElQSW80TXM3ZEd2Q2plUWtXeGVmNGJPamNYdmdrY0MydW5GOFZ4X0xUSmotNWZ4VXR4azVjWWVpYXROcXo3REJPZEYxbms1SG85dzBzQVlzejBxSVd5SVo3M1ozZmY5ZndyOWJGT3NJS1ZUZzZGNkM0bHBETkswcU9YaXRyOEF3SlozaG1tcGw2YURYOGk4?oc=5\" tar",
+          "source": "The Guardian",
+          "pubDate": "2026-02-19T14:23:00+00:00",
           "tag": "ai",
           "imageUrl": "",
           "imageAttribution": ""
         },
         {
-          "title": "Merck collaborates with Mayo Clinic to support AI-enabled drug discovery and development - ROI-NJ",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORWlEQjBzOVc3Wi1jRG1MYnBCdWJuRnItN2twX2NEZlF4OFdaTXZJNzFiY2JwdWZfbDVLVHRYclRTYThqQ0k1U0VfaGthenNFNVlyZ1FYQWkyZWI5OHR0eGNlb3dpNWFWVy1nM0d0VjVjNVFheWctUGlKWVR2Z1FWMkIxQjlaWHVLcEIyVU5rbGkxV0Z1UzNSWUc1bjJ0NmRwekZrNkt5Uzd2TFNCSkdCdUtLSUF5OVQxLW1WUHZRb1F3NGRmUElKWUdKX1o3a2c?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxORWlEQjBzOVc3Wi1jRG1MYnBCdWJuRnItN2twX2NEZlF4OFdaTXZJNzFiY2JwdWZfbDVLVHRYclRTYThqQ0k1U0VfaGthenNFNVlyZ1FYQWkyZWI5OHR0eGNlb3dpNWFWVy1nM0d0VjVjNVFheWctUGlKWVR2Z1FWMkIxQjlaWHVLcEIyVU5rbGkxV0Z1UzNSWUc1bjJ0NmRwekZrNkt5Uzd2TF",
-          "source": "ROI-NJ",
-          "pubDate": "2026-02-19T14:00:27+00:00",
+          "title": "Navigating the hazy intersection of generative artificial intelligence and intellectual property - technicianonline.com",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNmhMUmtOWWxEX0VBWXY5bDlZUlFGQjZGLWU0eVFoNkFUYW5oclFoUmRGSkp1cHJDR3dLQVR4Z1pVREhwQXFlNjJQUmNZNjI1Q3dWNk5KQ3B1VTIyYWs3RzZQalhGMDQ4YXA2MzFmb0dyekhwbE55c0pRakFtMXRaSjBFYXctU0lrOEQxdFlfdGNCOGRyWXU1YTlfNlFETzY4X0pBU3FjTFZEN0xwMTY5MGpKd1prWUhpRlcwR3ZadGc1czFiaGl5RXUwZXhXMG1Vd0lEdzRYUEI?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNmhMUmtOWWxEX0VBWXY5bDlZUlFGQjZGLWU0eVFoNkFUYW5oclFoUmRGSkp1cHJDR3dLQVR4Z1pVREhwQXFlNjJQUmNZNjI1Q3dWNk5KQ3B1VTIyYWs3RzZQalhGMDQ4YXA2MzFmb0dyekhwbE55c0pRakFtMXRaSjBFYXctU0lrOEQxdFlfdGNCOGRyWXU1YTlfNlFETzY4X0pBU3FjTFZEN0",
+          "source": "technicianonline.com",
+          "pubDate": "2026-02-19T14:08:01+00:00",
           "tag": "ai",
           "imageUrl": "",
           "imageAttribution": ""
@@ -6256,16 +6326,6 @@
           "imageAttribution": ""
         },
         {
-          "title": "Benefits and Risks of AI-Driven Social Media Ecosystems - vocal.media",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZkd3VjdfdmpxbzEwbEtWWUI1TjhDcDR6Uy1kR2l2RHJCYXIzZ3h6VGc1UHhwSXpEVGlpMEdXWHZNVXBtaXNBWjhwUTI4VkJJYVNXN1djajdsa2FCZEYyRDVhTmNFTWJYcUVOaUREMjRJVkNNby1kUDJZdmh4UjBNRkZzRU9GaHYwYlJhbQ?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOZkd3VjdfdmpxbzEwbEtWWUI1TjhDcDR6Uy1kR2l2RHJCYXIzZ3h6VGc1UHhwSXpEVGlpMEdXWHZNVXBtaXNBWjhwUTI4VkJJYVNXN1djajdsa2FCZEYyRDVhTmNFTWJYcUVOaUREMjRJVkNNby1kUDJZdmh4UjBNRkZzRU9GaHYwYlJhbQ?oc=5\" target=\"_blank\">Benefits and Risk",
-          "source": "vocal.media",
-          "pubDate": "2026-02-19T13:49:56+00:00",
-          "tag": "ai",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
           "title": "Is this man for real? The perils of trying to detect AI use while online dating - Pique Newsmagazine",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODJtR0RTeHpPWGtzRjZOV2gydGxlc3FmQ1lsZ2V3YUFlWF84OG9vWkg1VDU0UzB6NDBJTm5tdEhfNHFYYU5rX1VhdzB5ekVhQWhRTC0tMzd0SmVhNEdsOEs4OGl3elBDLVIwcW1UdG1OV3cxeWRFbTQ4REtHOEJlaFE5RTFac0lZUmJGVjQ0OFozZDNYaWNRNHVLUUNXYmJ1SzBEQ1ZEWVdINzBjRmFjNVpDMFRsYVZMakJTU2Y4Y2REcjNQSmMwSA?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODJtR0RTeHpPWGtzRjZOV2gydGxlc3FmQ1lsZ2V3YUFlWF84OG9vWkg1VDU0UzB6NDBJTm5tdEhfNHFYYU5rX1VhdzB5ekVhQWhRTC0tMzd0SmVhNEdsOEs4OGl3elBDLVIwcW1UdG1OV3cxeWRFbTQ4REtHOEJlaFE5RTFac0lZUmJGVjQ0OFozZDNYaWNRNHVLUUNXYmJ1SzBEQ1ZEWVdINz",
@@ -6281,66 +6341,6 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbk4yVW5IcUFfUEdGTF9kS0x6ekNUOVBtZllfcmNfQk9XMDZZVnlocVZMS01MSVNSMnE3ekxRUU5BOXVDQVlLbVdMQTYwZzM1SDZZWjY1Mkc3Tkg1MlNnYTJsOHVnQnM0dUdaTHVKWUs1QkF3QlZFN3E2eXBzaFhCd1d2RFZydTN6UldlT2FOMjY2RHlkcXRxcG5jVVAzRm9VRnBsVjFGUzBHNE",
           "source": "The Economist",
           "pubDate": "2026-02-19T13:47:16+00:00",
-          "tag": "ai",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "Accenture ‘links staff promotions to use of AI tools’ - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmdud1ZnczZWMjBqZElQSW80TXM3ZEd2Q2plUWtXeGVmNGJPamNYdmdrY0MydW5GOFZ4X0xUSmotNWZ4VXR4azVjWWVpYXROcXo3REJPZEYxbms1SG85dzBzQVlzejBxSVd5SVo3M1ozZmY5ZndyOWJGT3NJS1ZUZzZGNkM0bHBETkswcU9YaXRyOEF3SlozaG1tcGw2YURYOGk4?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmdud1ZnczZWMjBqZElQSW80TXM3ZEd2Q2plUWtXeGVmNGJPamNYdmdrY0MydW5GOFZ4X0xUSmotNWZ4VXR4azVjWWVpYXROcXo3REJPZEYxbms1SG85dzBzQVlzejBxSVd5SVo3M1ozZmY5ZndyOWJGT3NJS1ZUZzZGNkM0bHBETkswcU9YaXRyOEF3SlozaG1tcGw2YURYOGk4?oc=5\" tar",
-          "source": "The Guardian",
-          "pubDate": "2026-02-19T13:23:00+00:00",
-          "tag": "ai",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "3 Unstoppable Artificial Intelligence (AI) Stocks to Buy Right Now for Less Than $3,000 - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZW1HRG5IOElsSmVvMnVxYzVaS081TzdTcGdyeUJ5TTJHTTlsS3hqX2w3X3BNWFhhME5DdTk4OS1vVXZlUU1XX2RZcktLQ29OYm54bDZqNk4wWVhwYWxEU2VYd2h3amVmZ0lRZlJnbmZDbHk1Y1lGVjB6Vk40WUhjUkN0NUh2TjdwNXBIb21NdUxtb3lsUEFEcA?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQZW1HRG5IOElsSmVvMnVxYzVaS081TzdTcGdyeUJ5TTJHTTlsS3hqX2w3X3BNWFhhME5DdTk4OS1vVXZlUU1XX2RZcktLQ29OYm54bDZqNk4wWVhwYWxEU2VYd2h3amVmZ0lRZlJnbmZDbHk1Y1lGVjB6Vk40WUhjUkN0NUh2TjdwNXBIb21NdUxtb3lsUEFEcA?oc=5\" target=\"_blank\">3",
-          "source": "The Motley Fool",
-          "pubDate": "2026-02-19T13:21:00+00:00",
-          "tag": "ai",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "NAIC group nearly set to kick off pilot test to evaluate insurers’ use of AI - InsuranceNewsNet",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMzVCX0hTVEJOUjhoTW1KdlUwWmx6T0xFQlluci1TWUlIa19yblNJNE4tb2o1bkd3T0pfdTRvNUVMOFlwaGZuOVMwVWZNQjZEZjBlM3M5Yk1nMXFqN09Ya2xtcmJDUzZvd1JLai1pR0JQV1ZUNlh2OFRUajZoYjRiOXBiLWVLcU5rMGpKRFRyZld5cVJpZ1pHVTd4d0d4SmxvZzY0XzhMOXBBTWFXNVotOHFNM3JNZw?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNMzVCX0hTVEJOUjhoTW1KdlUwWmx6T0xFQlluci1TWUlIa19yblNJNE4tb2o1bkd3T0pfdTRvNUVMOFlwaGZuOVMwVWZNQjZEZjBlM3M5Yk1nMXFqN09Ya2xtcmJDUzZvd1JLai1pR0JQV1ZUNlh2OFRUajZoYjRiOXBiLWVLcU5rMGpKRFRyZld5cVJpZ1pHVTd4d0d4SmxvZzY0XzhMOXBBTW",
-          "source": "InsuranceNewsNet",
-          "pubDate": "2026-02-19T13:12:33+00:00",
-          "tag": "ai",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "Albania, Europe’s laboratory where AI combats (or hides) corruption - EL PAÍS English",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeDFDV1dQOWREUFhObFk5TVhyY1M0a3BYZzlkMzVOVW5sR1RLdjV6eHdnbmE4VDVFLXlSNE56VU9pT1dMQ0NfNWpiSkhGNVB5U0MtcEpFYkhPZkQxdmVfalJSTUplS1V1YjU5R1VVUER1Q1BNUHlqdlFMYUFNQXRjRUtWLTk2X1NhSTFzYzl4Y1BDSWU2RW5CR3RMWkVHakVJNXVMSjg5YW1BWEpkWEdvdlhEWDNpMUlKc0NSZtIB0AFBVV95cUxNUUg5cno0N0E5MGVmanE4S0dNYjJYVXNkYW1CSmVud1BsOHNNbUVDbHNaTUFwbEllT2txajdZalhiVjhrX2tESlNjeDUtVG9RNjJBR0RaVV9hT29GRzYxZUtqQU1HMHNFR1gxeEZNaWlkVUNuN0JOMUh0d1hZS0xYYVBwZXhGck5Mc01pSkVjcng3NE5GeWZPRDJOUTlzNEVDZGNLa0NyTW0xVTktNDB6SzNnMDBHY0FDSDB5VkpqWGpEZEJFQkdGcmpBbzE5VGJU?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNeDFDV1dQOWREUFhObFk5TVhyY1M0a3BYZzlkMzVOVW5sR1RLdjV6eHdnbmE4VDVFLXlSNE56VU9pT1dMQ0NfNWpiSkhGNVB5U0MtcEpFYkhPZkQxdmVfalJSTUplS1V1YjU5R1VVUER1Q1BNUHlqdlFMYUFNQXRjRUtWLTk2X1NhSTFzYzl4Y1BDSWU2RW5CR3RMWkVHakVJNXVMSjg5YW1BWE",
-          "source": "EL PAÍS English",
-          "pubDate": "2026-02-19T13:03:48+00:00",
-          "tag": "ai",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "Agentic AI systems don’t fail suddenly — they drift over time - cio.com",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVVzZ1VLVzhDX2ZEYm1FTU9BRG9xX2xkY0J5YnF1bzh1NFMzN2Y1OE5OUUZob29GVm95ZDRnWHBMd0pfMXVrRnBnR2loSGhZUExSQWxWVV9UN1BRQTdJOW5BR0MzbUNJeHZCZWRUR3BIeHJCRTFsOGJDRVlKd2ktX29ja2I3TVVhU3NCU2dIZkg4blREbXFPWkFqTi1YRVJw?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVVzZ1VLVzhDX2ZEYm1FTU9BRG9xX2xkY0J5YnF1bzh1NFMzN2Y1OE5OUUZob29GVm95ZDRnWHBMd0pfMXVrRnBnR2loSGhZUExSQWxWVV9UN1BRQTdJOW5BR0MzbUNJeHZCZWRUR3BIeHJCRTFsOGJDRVlKd2ktX29ja2I3TVVhU3NCU2dIZkg4blREbXFPWkFqTi1YRVJw?oc=5\" target=",
-          "source": "cio.com",
-          "pubDate": "2026-02-19T13:02:42+00:00",
-          "tag": "ai",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "The rise of AI is making the future of work look bleak – but it could be an opportunity - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU3k4U0t1TkpNQy1yQzRidnIyMFAwZWc3XzY1aW12b2ZfYlpRZVc0X3d0Mm5wM1F2X3R0MEJaMm1PUGhJN05lZzlBUmFyTmpMa1l0TDJmN1NSZzJ6YjNmbzd4cnFzREVLb1FWVTU0bk92WV9aOWQwMjF1MzQxVm5wSWtDeXFFZzA?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOU3k4U0t1TkpNQy1yQzRidnIyMFAwZWc3XzY1aW12b2ZfYlpRZVc0X3d0Mm5wM1F2X3R0MEJaMm1PUGhJN05lZzlBUmFyTmpMa1l0TDJmN1NSZzJ6YjNmbzd4cnFzREVLb1FWVTU0bk92WV9aOWQwMjF1MzQxVm5wSWtDeXFFZzA?oc=5\" target=\"_blank\">The rise of AI is making",
-          "source": "The Guardian",
-          "pubDate": "2026-02-19T13:02:00+00:00",
           "tag": "ai",
           "imageUrl": "",
           "imageAttribution": ""
@@ -6650,6 +6650,26 @@
       ],
       "social": [
         {
+          "title": "Meta CEO Mark Zuckerberg testifies in major social media addiction case - AZ Family",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcTVMa3o0alp3eUdMdXc3WTdBUi04NkFxajkzcnZFLTdYX0VxdGgwNl9UbXlNTVN5Ry1YaGZzZGQwZVU1TnBzWFMwVHZaUUxFRzJ6bzhPRmVMa1UzOXdkZ2ZfT19FaVJZbE5sX2dWejFXejdJTnFEcTJKSE1QNFV1eEpfMzl5UHk3WDdKel9JQ01oSlNhNlR0ZTQxc0Q4Wk5jTi1GbmNIREQ5bXVrZGpMbQ?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcTVMa3o0alp3eUdMdXc3WTdBUi04NkFxajkzcnZFLTdYX0VxdGgwNl9UbXlNTVN5Ry1YaGZzZGQwZVU1TnBzWFMwVHZaUUxFRzJ6bzhPRmVMa1UzOXdkZ2ZfT19FaVJZbE5sX2dWejFXejdJTnFEcTJKSE1QNFV1eEpfMzl5UHk3WDdKel9JQ01oSlNhNlR0ZTQxc0Q4Wk5jTi1GbmNIREQ5bX",
+          "source": "AZ Family",
+          "pubDate": "2026-02-19T15:17:00+00:00",
+          "tag": "social",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "Zuckerberg Testifies on Social Media Addiction: California Brief - Bloomberg Law News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSXBnOEdqWjdxcUdhT18wSTJpb1N2TFVmWFAwZk1IOWRlU3pLMjN6RGtqRTRjd1BiTXFVZ0NFTGFHanUwMlBpcVZwNmdRN3Jla3ZGbkpKdVh5Z0ZQTzBpM0hpYmNXLWR2TU5OaTctUmxwWTN2Q19tZk1pbUpxX2RlNGh6OGpNM0o2Rk1fci13M0ZsZTFKamVJcGpISXVDLThLYWk1ckFBU0c0U21fSWQw?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQSXBnOEdqWjdxcUdhT18wSTJpb1N2TFVmWFAwZk1IOWRlU3pLMjN6RGtqRTRjd1BiTXFVZ0NFTGFHanUwMlBpcVZwNmdRN3Jla3ZGbkpKdVh5Z0ZQTzBpM0hpYmNXLWR2TU5OaTctUmxwWTN2Q19tZk1pbUpxX2RlNGh6OGpNM0o2Rk1fci13M0ZsZTFKamVJcGpISXVDLThLYWk1ckFBU0c0U2",
+          "source": "Bloomberg Law News",
+          "pubDate": "2026-02-19T15:04:00+00:00",
+          "tag": "social",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
           "title": "Zuckerberg Forced to Defend Meta’s Actions Toward Kids in Front of a Jury - Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTjRWeEUyaFA1MEw3MUI1Q21YU2daWnQtYkRZLW5BUzFSV01JNVV0UzQ1dEZrYXN3cjJJVE56eVNhUWRfVlVzNjk0bzdFVHYybmRKRXE4WmpqWmE0NlluUjhhUEFlNkxzOHdaSDMwSXF4Z1VxdzRJUzV1TXlSUm9ab240M2pYc1VkQW1LTUFERlJRY21BREdBSkVxTHBQOGstc0xqREZwM1djZWhCRXlLc1NQY2FHQTF1WDdpYTFWeDdlOFVkMDZmYkFzdWl2Q0E?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOTjRWeEUyaFA1MEw3MUI1Q21YU2daWnQtYkRZLW5BUzFSV01JNVV0UzQ1dEZrYXN3cjJJVE56eVNhUWRfVlVzNjk0bzdFVHYybmRKRXE4WmpqWmE0NlluUjhhUEFlNkxzOHdaSDMwSXF4Z1VxdzRJUzV1TXlSUm9ab240M2pYc1VkQW1LTUFERlJRY21BREdBSkVxTHBQOGstc0xqREZwM1djZW",
@@ -6780,16 +6800,6 @@
           "imageAttribution": ""
         },
         {
-          "title": "Meta CEO Mark Zuckerberg testifies in landmark trial over social media addiction claims - 101.3 KFDI",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOENRYkRwaHUxckdOR2N0TmsxX2ZNVmdwalNmYU1sT3VOSF95YWEtV1BQZ0RSLUotN1piczJVWWotS09CejdtSk1PcUhaeGRLS2lHazVBd09kQWJqNmMyQlVsYm8xTWlPdF92d3dNbWxYcDJOY1lLZzNFOGVTc29USGxCRjkyWkdNMXdFcmVGTzFRRExiOGxnSko0dGo2MzhIUTdKQ3VhZTdlTkdpTW43UVdKaHJZaHRBOFNPWA?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPOENRYkRwaHUxckdOR2N0TmsxX2ZNVmdwalNmYU1sT3VOSF95YWEtV1BQZ0RSLUotN1piczJVWWotS09CejdtSk1PcUhaeGRLS2lHazVBd09kQWJqNmMyQlVsYm8xTWlPdF92d3dNbWxYcDJOY1lLZzNFOGVTc29USGxCRjkyWkdNMXdFcmVGTzFRRExiOGxnSko0dGo2MzhIUTdKQ3VhZTdlTk",
-          "source": "101.3 KFDI",
-          "pubDate": "2026-02-19T13:31:27+00:00",
-          "tag": "social",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
           "title": "Pritzker Recommends Tax On Social Media Firms To Pay For Education In Illinois 02/19/2026 - MediaPost",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbnY4TnExcmpSZnF1OS05SlEyWFJaNkxvcVJPVTlzRTFDQU1Ndm5lOHNkSmJCaUhZT0RRYTRGWWZIbEh6OEs1WEdQdWxzSmlJQktjVTgybnR1eDRfTW0td0h1MDNSelU1U2drNExZcWFkbFVjTUVyNUJpbTZWeDlYb09yM29Ub0dPTXJRWXpvMHRmenBqeHlKX04ydkMxMHpPNzdiM0NXSUZBUnNHR0cwdXlGcHoyZ2ZZNkt0bUEyR2xmUQ?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbnY4TnExcmpSZnF1OS05SlEyWFJaNkxvcVJPVTlzRTFDQU1Ndm5lOHNkSmJCaUhZT0RRYTRGWWZIbEh6OEs1WEdQdWxzSmlJQktjVTgybnR1eDRfTW0td0h1MDNSelU1U2drNExZcWFkbFVjTUVyNUJpbTZWeDlYb09yM29Ub0dPTXJRWXpvMHRmenBqeHlKX04ydkMxMHpPNzdiM0NXSUZBUn",
@@ -6820,21 +6830,21 @@
           "imageAttribution": ""
         },
         {
-          "title": "Social media reaction to Mick Cronin's ejection of Steven Jamerson - UCLA Wire",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQ1QtVDBTSWs2T3l4V0gtX2E3U1FzWHd2aWhuMTlPRTh1VzZXcHd2X2FXMElVdXFwcHoxbHY3bVpXdDVZTDlQa0xUME5feEZlMUZORFBWcVpCSDAwMlJTYWE0RGxVdERkMWMwazNIb2s2aWd3TkNtd1BBZGRhMzI2a3ozNE5sMkhkSTZ4Sy1iVlFXOEtPaVVXR2J2aE1zV3Ayby01ekFRbU9hemM3VzBVclZZemhBZlZGWXZkaHdVU3VWZ1gzNmt5SHMyUFB6b3NSSG5QR21SM0VKOGpIQi1QM29ZTHlsZVFF?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQ1QtVDBTSWs2T3l4V0gtX2E3U1FzWHd2aWhuMTlPRTh1VzZXcHd2X2FXMElVdXFwcHoxbHY3bVpXdDVZTDlQa0xUME5feEZlMUZORFBWcVpCSDAwMlJTYWE0RGxVdERkMWMwazNIb2s2aWd3TkNtd1BBZGRhMzI2a3ozNE5sMkhkSTZ4Sy1iVlFXOEtPaVVXR2J2aE1zV3Ayby01ekFRbU9hem",
-          "source": "UCLA Wire",
-          "pubDate": "2026-02-19T13:05:00+00:00",
-          "tag": "social",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
           "title": "Can social media age verification really protect kids? - Rest of World",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04dGo0OU9mZl9rTmdiNnNMM1dzT2w4XzNlQjV6ZzBzX2RqR3NhdTVyZVpfd3J0QUUybTBKMjBaQUd1aHBzcmtHaU5CU19fSmxOamhZVzVOWWxkejZzLWgycWRUWXZ0d0xLcDdna2swX2hvUU0?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE04dGo0OU9mZl9rTmdiNnNMM1dzT2w4XzNlQjV6ZzBzX2RqR3NhdTVyZVpfd3J0QUUybTBKMjBaQUd1aHBzcmtHaU5CU19fSmxOamhZVzVOWWxkejZzLWgycWRUWXZ0d0xLcDdna2swX2hvUU0?oc=5\" target=\"_blank\">Can social media age verification really protect kid",
           "source": "Rest of World",
           "pubDate": "2026-02-19T13:04:25+00:00",
+          "tag": "social",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "Meta CEO Mark Zuckerberg testifies in landmark trial over social media addiction claims - 947 KTTS",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN291OFJsMFNZMnNHUXBqdHdwSU1Zbzc5bkhTZHA1clliam1xTDRjalBEbF8zN3lNVDFEVGxIOEVZaWN3QU9QMVNLaGh5SnFOTE1sVEVRSjU4eC1jbWhDNS1VR0VoNFJIR3loMjFkcHdtbFpZWW96OF9ydGdoTEJuSGdsVFJpS1NBaFMwUlMxRlBXQXBuT3llZTQ4aVhxSkcyU082eF9KS1pFNm5zU3NVR0VhN1VIV010NGxXUQ?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPN291OFJsMFNZMnNHUXBqdHdwSU1Zbzc5bkhTZHA1clliam1xTDRjalBEbF8zN3lNVDFEVGxIOEVZaWN3QU9QMVNLaGh5SnFOTE1sVEVRSjU4eC1jbWhDNS1VR0VoNFJIR3loMjFkcHdtbFpZWW96OF9ydGdoTEJuSGdsVFJpS1NBaFMwUlMxRlBXQXBuT3llZTQ4aVhxSkcyU082eF9KS1pFNm",
+          "source": "947 KTTS",
+          "pubDate": "2026-02-19T12:57:50+00:00",
           "tag": "social",
           "imageUrl": "",
           "imageAttribution": ""
@@ -6938,19 +6948,29 @@
           "tag": "social",
           "imageUrl": "",
           "imageAttribution": ""
-        },
-        {
-          "title": "Mark Zuckerberg's social media trial begins - WCNC",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPckRvOEdmamFsZjgwdXpDRTVTWEFReF9PUmpfc0tWX3Z2R1Vmb0l1STN2RGdENW1BN1dibXR1VkN0TTlXRENnWTE4clY1eENJZFc0QU1UcXFDeG94enAtM1N5dC1NbzJmSnR1V09LUmhBcjlmZldKZThadGs3RTFmNUxpTUNtd05ySTA1c3lueDFpU0stNE9Bc29NcFdJVElnb19iZGxFNDVwcTFSRmJhcA?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPckRvOEdmamFsZjgwdXpDRTVTWEFReF9PUmpfc0tWX3Z2R1Vmb0l1STN2RGdENW1BN1dibXR1VkN0TTlXRENnWTE4clY1eENJZFc0QU1UcXFDeG94enAtM1N5dC1NbzJmSnR1V09LUmhBcjlmZldKZThadGs3RTFmNUxpTUNtd05ySTA1c3lueDFpU0stNE9Bc29NcFdJVElnb19iZGxFNDVwcT",
-          "source": "WCNC",
-          "pubDate": "2026-02-19T11:57:00+00:00",
-          "tag": "social",
-          "imageUrl": "",
-          "imageAttribution": ""
         }
       ],
       "news": [
+        {
+          "title": "Man guilty of XL bully offence after dog killed mother-in-law in his home",
+          "link": "https://www.bbc.com/news/articles/c1e98d8l2l3o?at_medium=RSS&at_campaign=rss",
+          "description": "Ashley Warren, the first person to be prosecuted under XL bully laws, will be sentenced later.",
+          "source": "News Source",
+          "pubDate": "2026-02-19T15:21:17+00:00",
+          "tag": "news",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "Arrest after two teens found dead at holiday park",
+          "link": "https://www.bbc.com/news/articles/czx41qqgzlko?at_medium=RSS&at_campaign=rss",
+          "description": "A 33-year-old man has been arrested following the discovery at Little Eden Holiday Park.",
+          "source": "News Source",
+          "pubDate": "2026-02-19T15:07:50+00:00",
+          "tag": "news",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
         {
           "title": "Why has Andrew Mountbatten-Windsor been arrested?",
           "link": "https://www.bbc.com/news/articles/cn9e1q4797wo?at_medium=RSS&at_campaign=rss",
@@ -6962,11 +6982,11 @@
           "imageAttribution": ""
         },
         {
-          "title": "Man guilty of XL bully offence after fatal attack",
-          "link": "https://www.bbc.com/news/articles/c1e98d8l2l3o?at_medium=RSS&at_campaign=rss",
-          "description": "Ashley Warren, the first person to be prosecuted under XL bully laws, will be sentenced later.",
+          "title": "KPop stars scored the biggest global hit songs of 2025",
+          "link": "https://www.bbc.com/news/articles/c5yrgmv6jd1o?at_medium=RSS&at_campaign=rss",
+          "description": "APT by Rosé and Bruno Mars and tracks from KPop Demon Hunters were among the biggest hits of the year.",
           "source": "News Source",
-          "pubDate": "2026-02-19T15:01:38+00:00",
+          "pubDate": "2026-02-19T15:00:16+00:00",
           "tag": "news",
           "imageUrl": "",
           "imageAttribution": ""
@@ -7072,16 +7092,6 @@
           "imageAttribution": ""
         },
         {
-          "title": "Chagossians trying to resettle on islands defy removal order",
-          "link": "https://www.bbc.com/news/articles/ce8w2jknnk0o?at_medium=RSS&at_campaign=rss",
-          "description": "One says the British will have to \"drag me from my beach\" if they want him to leave the Chagos Islands.",
-          "source": "News Source",
-          "pubDate": "2026-02-19T11:42:00+00:00",
-          "tag": "news",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
           "title": "Etsy sells second-hand fashion app Depop to eBay for $1.2bn",
           "link": "https://www.bbc.com/news/articles/cx240kme2k8o?at_medium=RSS&at_campaign=rss",
           "description": "The \"pre-loved\" fashion firm has been sold by Etsy just five years after it bought the firm.",
@@ -7127,16 +7137,6 @@
           "description": "Team GB's men's curlers are now just two victories away from a remarkable Winter Olympic gold after sneaking into Thursday's semi-finals in Cortina.",
           "source": "News Source",
           "pubDate": "2026-02-19T10:27:36+00:00",
-          "tag": "news",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "South Korea's ex-president jailed for life over martial law attempt",
-          "link": "https://www.bbc.com/news/articles/cx28y8xd1vjo?at_medium=RSS&at_campaign=rss",
-          "description": "Yoon Suk Yeol's December 2024 martial law bid fundamentally damaged South Korea's democracy, a judge told the court.",
-          "source": "News Source",
-          "pubDate": "2026-02-19T09:46:55+00:00",
           "tag": "news",
           "imageUrl": "",
           "imageAttribution": ""
@@ -7556,6 +7556,16 @@
       ],
       "technology": [
         {
+          "title": "West Virginia Claims That Apple Allows Child Sexual Abuse Material",
+          "link": "https://www.nytimes.com/2026/02/19/technology/apple-west-virginia-lawsuit-child-sexual-abuse.html",
+          "description": "The state’s attorney general said in a lawsuit filed on Thursday that the company declined to use tools that recognize the material stored on iCloud.",
+          "source": "News Source",
+          "pubDate": "2026-02-19T15:09:17+00:00",
+          "tag": "technology",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
           "title": "Etsy sells second-hand fashion app Depop to eBay for $1.2bn",
           "link": "https://www.bbc.com/news/articles/cx240kme2k8o?at_medium=RSS&at_campaign=rss",
           "description": "The \"pre-loved\" fashion firm has been sold by Etsy just five years after it bought the firm.",
@@ -7641,16 +7651,6 @@
           "description": "We interviewed our bot about what it learned on Moltbook, the A.I.-only social network.",
           "source": "News Source",
           "pubDate": "2026-02-18T18:20:50+00:00",
-          "tag": "technology",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "Elon Musk’s xAI Gets $3 Billion Investment From Saudi-Backed A.I. Firm",
-          "link": "https://www.nytimes.com/2026/02/18/business/xai-humain-saudi-musk-spacex.html",
-          "description": "Humain, which was created by Crown Prince Mohammed bin Salman last year, said it made the investment just before xAI was acquired by SpaceX, Mr. Musk’s rocket company.",
-          "source": "News Source",
-          "pubDate": "2026-02-18T14:35:12+00:00",
           "tag": "technology",
           "imageUrl": "",
           "imageAttribution": ""
@@ -8462,6 +8462,26 @@
       ],
       "music": [
         {
+          "title": "Night Ritualz to play album release show, plus more Austin music picks - CultureMap Austin",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbnBCYVg2MExMVTROWVpqV1BXZFZQWHpmc2dqME12cW45N3lsTnMwWnI1XzlEVGFBVnJpck9ZMDIzRFFrenhhMktjblY3cEdwemk3MC1UN0xreUpFeFhhbjlzakYyNHU1WG40c3FGcW53amN4NVdYTkNPczFrZ3hXYUlSZzV6UW8?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQbnBCYVg2MExMVTROWVpqV1BXZFZQWHpmc2dqME12cW45N3lsTnMwWnI1XzlEVGFBVnJpck9ZMDIzRFFrenhhMktjblY3cEdwemk3MC1UN0xreUpFeFhhbjlzakYyNHU1WG40c3FGcW53amN4NVdYTkNPczFrZ3hXYUlSZzV6UW8?oc=5\" target=\"_blank\">Night Ritualz to play al",
+          "source": "CultureMap Austin",
+          "pubDate": "2026-02-19T15:20:00+00:00",
+          "tag": "music",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "7 Of The South’s Most Legendary Music Venues - Southern Living",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3X2VTVldESDY2aG8xUDFISzhkTzBpRnhmYS1uRnBBdXJMcm8wX1JYLVFWekkwNUJQaTVxbm1jV055YXFibllpTVUyRWdyRmE1eVY2LXJKRExoYW5aNFVydnhiODdtdjRuamp6dmpXOA?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFB3X2VTVldESDY2aG8xUDFISzhkTzBpRnhmYS1uRnBBdXJMcm8wX1JYLVFWekkwNUJQaTVxbm1jV055YXFibllpTVUyRWdyRmE1eVY2LXJKRExoYW5aNFVydnhiODdtdjRuamp6dmpXOA?oc=5\" target=\"_blank\">7 Of The South’s Most Legendary Music Venues</a>&nbsp;&nb",
+          "source": "Southern Living",
+          "pubDate": "2026-02-19T15:12:00+00:00",
+          "tag": "music",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
           "title": "Auction for Northampton Community Music Center remains open until March 7 - The Reminder",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPekIxTTZOeTc0NWZMSEVEOFpBZkQyTTR2eE5iLVM4SWlCN3pEbUVhVk9rTjJGQ3JjNHZCN1pfVERHZTRCcVdIR1V2WG0yd3NFNEtTc1ZkMlVwVWNHSzA4SG83cnAzQkpQaVdJTjh5THlPaGNKZ2F2MW1USGloTjBMeGdfeVFIVHVGbkotUGhidmVVMURlTkVvNzlSZmM3YzJveElUVEFDZTZfdWtYNVE?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPekIxTTZOeTc0NWZMSEVEOFpBZkQyTTR2eE5iLVM4SWlCN3pEbUVhVk9rTjJGQ3JjNHZCN1pfVERHZTRCcVdIR1V2WG0yd3NFNEtTc1ZkMlVwVWNHSzA4SG83cnAzQkpQaVdJTjh5THlPaGNKZ2F2MW1USGloTjBMeGdfeVFIVHVGbkotUGhidmVVMURlTkVvNzlSZmM3YzJveElUVEFDZTZfdW",
@@ -8487,6 +8507,16 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBZUzdKcjB2T0RPUV8ySTRDQmZVMmRzc1NaTDJsWDZkMHpWX3BkdlY4LTNaYi1hbFhMb3RFcG96RFk5LU52Zkt3M3NlVUx0QWhQYmZRcDFfZ3lQVmdzbENZWlA3WHNzZXRuV0JWTElBdVYtZ1Z0aEE?oc=5\" target=\"_blank\">Music Briefs: Feb. 19-25</a>&nbsp;&nbsp;<font co",
           "source": "Main Street Media of Tennessee",
           "pubDate": "2026-02-19T15:04:22+00:00",
+          "tag": "music",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "Country music artist returns to Corbin | - thenewsjournal.net",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZSmxKd0E5c1JDTWVtLXFxMDF1VlRaaEhzcDRiUnBHaXQ1S2hHQUN5RmdQQkdsZWp1M3VveDJpTXRocUxIbmdLZ01qZkplblZ2UWdZc0dzNGZlWWtnekJZaWpZOEdlVHRHanhxekxUdmRZYUR5?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZSmxKd0E5c1JDTWVtLXFxMDF1VlRaaEhzcDRiUnBHaXQ1S2hHQUN5RmdQQkdsZWp1M3VveDJpTXRocUxIbmdLZ01qZkplblZ2UWdZc0dzNGZlWWtnekJZaWpZOEdlVHRHanhxekxUdmRZYUR5?oc=5\" target=\"_blank\">Country music artist returns to Corbin |</a>&nbsp;&",
+          "source": "thenewsjournal.net",
+          "pubDate": "2026-02-19T15:02:55+00:00",
           "tag": "music",
           "imageUrl": "",
           "imageAttribution": ""
@@ -8597,6 +8627,16 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9jZU9YOVNwQkxEYjNlV0JCUy1aUDhsZXc0ZmNNUWRSVllQV2c1SWZHMXQza3M1MEdKV0dVcnpOb0puWDk4cHYwVnVsQWtzVmhFQ1NDaXlIRU96RFc0UlFvM2NFZVp4UmFSTjNyRnhXYnpqRTRCOVpMbEUwRzJ4UQ?oc=5\" target=\"_blank\">Op-Ed | Reclaiming creativity: The ca",
           "source": "amNewYork",
           "pubDate": "2026-02-19T14:00:38+00:00",
+          "tag": "music",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "Hilary Duff Is Ready for Her Pop Return - Rolling Stone",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTVzZ3MtbnlaMlNISU1lNy1Wa1lQeTlHempZdzV6WEdScWhCR1NJUUVMVzJJcHVQOUI2V29MbmNnNDFJY3lNZ0lnakp6M0lVNnI1OFEzRks1eWVOQzVkWkd6Znl1ZmM5MkFWOWlwRTN0cFJWTnBuLXNIOWIxUHY4ZmlnV0ZZOXFPbnJNRkthakFSUjczbW5qSElNRzFVNldENndTVlNnYW9sUW1CazRVVg?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTVzZ3MtbnlaMlNISU1lNy1Wa1lQeTlHempZdzV6WEdScWhCR1NJUUVMVzJJcHVQOUI2V29MbmNnNDFJY3lNZ0lnakp6M0lVNnI1OFEzRks1eWVOQzVkWkd6Znl1ZmM5MkFWOWlwRTN0cFJWTnBuLXNIOWIxUHY4ZmlnV0ZZOXFPbnJNRkthakFSUjczbW5qSElNRzFVNldENndTVlNnYW9sUW",
+          "source": "Rolling Stone",
+          "pubDate": "2026-02-19T14:00:00+00:00",
           "tag": "music",
           "imageUrl": "",
           "imageAttribution": ""
@@ -8717,46 +8757,6 @@
           "description": "Paolo Petrecca, whose gaffe-ridden commentary of the event went viral, stands down from his job.",
           "source": "News Source",
           "pubDate": "2026-02-19T13:10:43+00:00",
-          "tag": "music",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "What Gen X Thinks of Millennial Metalheads - PopMatters",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHNWxlZ0hVZk4xWXBmaHlBWDJfelp6VWJNVmJyRmFKcUlKMGdLMHNlbGRsQW9jM1dGWTJKZmZ0cmV1TnNCSjdOY3BwRUp3cmVYMHRJMUlwR29vRTB3VWdkZXh3?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHNWxlZ0hVZk4xWXBmaHlBWDJfelp6VWJNVmJyRmFKcUlKMGdLMHNlbGRsQW9jM1dGWTJKZmZ0cmV1TnNCSjdOY3BwRUp3cmVYMHRJMUlwR29vRTB3VWdkZXh3?oc=5\" target=\"_blank\">What Gen X Thinks of Millennial Metalheads</a>&nbsp;&nbsp;<font color=\"#6f6",
-          "source": "PopMatters",
-          "pubDate": "2026-02-19T13:08:23+00:00",
-          "tag": "music",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "Albion music instructor releases CD - Albion College",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKREpqbDBLWEpaWFFUcUJzaHJvWG5wRTdzUXJFeVpPaVo5QVdFOWlPMlVhMlVLMkVjbXF2Nnoxd1lUNmxMdUtwWVg0dExZWDZhaUJxTlVXYkd2MGZJY3pCLWpnNVJRbmdIaXV1U0xjWjk5SDdjb1lLNmxUNlU?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBKREpqbDBLWEpaWFFUcUJzaHJvWG5wRTdzUXJFeVpPaVo5QVdFOWlPMlVhMlVLMkVjbXF2Nnoxd1lUNmxMdUtwWVg0dExZWDZhaUJxTlVXYkd2MGZJY3pCLWpnNVJRbmdIaXV1U0xjWjk5SDdjb1lLNmxUNlU?oc=5\" target=\"_blank\">Albion music instructor releases CD</a>&",
-          "source": "Albion College",
-          "pubDate": "2026-02-19T13:01:23+00:00",
-          "tag": "music",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "Topeka Clementine performs live at KPBS and talks cooking, art, viral moments and music as action - KPBS",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX3duNmlJQ2ExOVotcERTTk1ORDlhbUpjQUJKLWhDaTlQVjlaNzZucWRyOF9JOEV2QXM1SDFfWUNBWU04NjE4YUFCeHhteFlISjFjLTV2dHo3VWcySTFUY3pWZlhCSTVkUWhtQ3c2ejg4cnNGbnZTcDZFWGlOOEttZEczRUVucmtpVC02azYzRzN3bEVwNWJzMlI3cENRVms4YUNqbWRnU1J4aUtnLV9MNnVsYUhRcDVnZlJJUUVLc0ZRazZPa2lYd29XMFc4TXdQTEE?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX3duNmlJQ2ExOVotcERTTk1ORDlhbUpjQUJKLWhDaTlQVjlaNzZucWRyOF9JOEV2QXM1SDFfWUNBWU04NjE4YUFCeHhteFlISjFjLTV2dHo3VWcySTFUY3pWZlhCSTVkUWhtQ3c2ejg4cnNGbnZTcDZFWGlOOEttZEczRUVucmtpVC02azYzRzN3bEVwNWJzMlI3cENRVms4YUNqbWRnU1J4aU",
-          "source": "KPBS",
-          "pubDate": "2026-02-19T13:00:00+00:00",
-          "tag": "music",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "‘Warming the Roots’ Music and Poetry Contest - Pierce County Journal",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYW02NkRTQ2hfR2gzRkRhdkFNdzdvTFBTZzhLZ2ZzR3VWSFVBcHpXSzZhb3lOSnJ6NWJrc1RPWmJaMjhfcEkwMFFOLW9Ib1FDMDFQMmo4czZ3ek1UQzB5dm1mZnpaRERDb1k3RDltellKV1diMTJkNjFOeVNnNHNRbVFHT3ZwaXo1d3NlSlZYSnZ5c3ZTR3dtYk5B?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQYW02NkRTQ2hfR2gzRkRhdkFNdzdvTFBTZzhLZ2ZzR3VWSFVBcHpXSzZhb3lOSnJ6NWJrc1RPWmJaMjhfcEkwMFFOLW9Ib1FDMDFQMmo4czZ3ek1UQzB5dm1mZnpaRERDb1k3RDltellKV1diMTJkNjFOeVNnNHNRbVFHT3ZwaXo1d3NlSlZYSnZ5c3ZTR3dtYk5B?oc=5\" target=\"_blank\"",
-          "source": "Pierce County Journal",
-          "pubDate": "2026-02-19T12:40:33+00:00",
           "tag": "music",
           "imageUrl": "",
           "imageAttribution": ""
@@ -9066,6 +9066,26 @@
       ],
       "sports": [
         {
+          "title": "The NBA's 10 biggest offseason questions: Why this summer could get wild",
+          "link": "https://www.espn.com/nba/story/_/id/47969549/nba-offseason-storylines-watching-lebron-reaves-giannis-trade-talk-more",
+          "description": "How will teams such as the Lakers, Bucks, Warriors and Knicks attack the offseason? Here's everything Bobby Marks is watching.",
+          "source": "News Source",
+          "pubDate": "2026-02-19T15:20:10+00:00",
+          "tag": "sports",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "One proposal fixes the NBA’s tanking problem: Turning losses into wins",
+          "link": "https://www.espn.com/nba/story/_/id/47967591/solution-nba-fix-tanking-problem-ahead-draft-count-wins-record-picks-2026",
+          "description": "The league has a problem, but there's a clear solution to consider. Let us explain.",
+          "source": "News Source",
+          "pubDate": "2026-02-19T15:20:09+00:00",
+          "tag": "sports",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
           "title": "Which players can you count on to play the most down the stretch?",
           "link": "https://www.espn.com/fantasy/basketball/story/_/id/47971727/espn-nba-fantasy-basketball-players-lineups-which-players-start",
           "description": "The best ability is availability, and while some stars are shut down, here are players to count on down the stretch.",
@@ -9151,26 +9171,6 @@
           "description": "Now that spring training is underway, let's hand out offseason report cards for every club.",
           "source": "News Source",
           "pubDate": "2026-02-19T14:21:53+00:00",
-          "tag": "sports",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "10 storylines that will define the summer: LeBron, Giannis, trade decisions and a loaded draft",
-          "link": "https://www.espn.com/nba/story/_/id/47969549/nba-offseason-storylines-watching-lebron-reaves-giannis-trade-talk-more",
-          "description": "How will teams such as the Lakers, Bucks, Warriors and Knicks attack the offseason? Here's everything Bobby Marks is watching.",
-          "source": "News Source",
-          "pubDate": "2026-02-19T14:21:01+00:00",
-          "tag": "sports",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "Here's how the NBA can fix its tanking problem -- and incentivize teams to win",
-          "link": "https://www.espn.com/nba/story/_/id/47967591/solution-nba-fix-tanking-problem-ahead-draft-count-wins-record-picks-2026",
-          "description": "The league has a tanking problem, but there's a clear solution it should consider.",
-          "source": "News Source",
-          "pubDate": "2026-02-19T14:21:01+00:00",
           "tag": "sports",
           "imageUrl": "",
           "imageAttribution": ""
@@ -9372,7 +9372,7 @@
           "link": "https://www.nytimes.com/2026/02/19/business/economy/imports-tariffs-trade-deficit.html",
           "description": "Data released Thursday by the Census Bureau showed the overall trade deficit with the world narrowed, the result of an expanding trade surplus in services. The trade deficit in goods was the highest on record.",
           "source": "News Source",
-          "pubDate": "2026-02-19T15:03:47+00:00",
+          "pubDate": "2026-02-19T15:10:44+00:00",
           "tag": "finance",
           "imageUrl": "",
           "imageAttribution": ""
@@ -9670,6 +9670,16 @@
       ],
       "travel": [
         {
+          "title": "Weekend getaways just got better as new travel hacks report reveals Friday is now the cheapest day of the week to fly - New York Post",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZTJQdHFGZzBoand5bVB1aE8tYjNIZ2VNQmhzeUpxdzlWMUZiakc2b3dfY3Q5Z3pYZEFHUTRyOWpncFJ6OVdMQVBBUlU4aG5uYU0yeUdjZEswX0pEVjdYenB6cEpXaWo3RmRrck1SMFY2S1g2RVVZSFBBeUtEdjRsRVllYzlRZk1QNUFqZXgzYjk0cHVXXzFxc2w3Rk1TVjR4TW9JVk5fcw?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQZTJQdHFGZzBoand5bVB1aE8tYjNIZ2VNQmhzeUpxdzlWMUZiakc2b3dfY3Q5Z3pYZEFHUTRyOWpncFJ6OVdMQVBBUlU4aG5uYU0yeUdjZEswX0pEVjdYenB6cEpXaWo3RmRrck1SMFY2S1g2RVVZSFBBeUtEdjRsRVllYzlRZk1QNUFqZXgzYjk0cHVXXzFxc2w3Rk1TVjR4TW9JVk5fcw?oc=",
+          "source": "New York Post",
+          "pubDate": "2026-02-19T15:17:00+00:00",
+          "tag": "travel",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
           "title": "Opinion | Time periods I would love to travel to - The News Record",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSy10YkNQVmdfNE1YUXUzU01wQlVEY1hFcUprQ1ZqeDd6UVBmalZkRklnX0h5SkNteXVDOE01Mk5SLU9mTklJdmJIQ3F4enBaV2FFdW5waXN3WVVGanA5aWpEWF8wWTU3TXNPZzhYVDR6alAzaFhQVG1fenItN0tzWUUwYkFWTEpZc05JZlQ5ZjRWR29IdVhuSkN1bUNWU0ptSHJBX1FBOXhwNUJZdFpBMjN5V05iREdiQUd3NGFXSDl4SkdZb2FpeW9HMA?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNSy10YkNQVmdfNE1YUXUzU01wQlVEY1hFcUprQ1ZqeDd6UVBmalZkRklnX0h5SkNteXVDOE01Mk5SLU9mTklJdmJIQ3F4enBaV2FFdW5waXN3WVVGanA5aWpEWF8wWTU3TXNPZzhYVDR6alAzaFhQVG1fenItN0tzWUUwYkFWTEpZc05JZlQ5ZjRWR29IdVhuSkN1bUNWU0ptSHJBX1FBOXhwNU",
@@ -9690,11 +9700,11 @@
           "imageAttribution": ""
         },
         {
-          "title": "Spring Travel Essentials to Help You Stay Clean and Organized - TODAY.com",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZFRBVU82UjZ1MC1fUzF5NzFFUlBnS2RyZ3QtOTlkejAzS180TDZvWnhES3dFYV8xSVVXbjRBMVF2MHNwUVJWOVU0RTF0bElwOFNsUk9sSlNHSGk1NndiMWZuUFBkbW1JejJ4SXk2RkhILUdZWm9DYWViSnFJMEFYNUZRVklsQ2tOMUlGUS1ZV1hBbVkwZENnWWR4dUpLSUE?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPZFRBVU82UjZ1MC1fUzF5NzFFUlBnS2RyZ3QtOTlkejAzS180TDZvWnhES3dFYV8xSVVXbjRBMVF2MHNwUVJWOVU0RTF0bElwOFNsUk9sSlNHSGk1NndiMWZuUFBkbW1JejJ4SXk2RkhILUdZWm9DYWViSnFJMEFYNUZRVklsQ2tOMUlGUS1ZV1hBbVkwZENnWWR4dUpLSUE?oc=5\" target=\"",
-          "source": "TODAY.com",
-          "pubDate": "2026-02-19T14:35:40+00:00",
+          "title": "Spring Travel Essentials to Help You Stay Clean and Organized - Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbTBpX2tpaHNSMnFSMXVENDl6aW1mdXRGUXRfdFZLVHZCYW5KUmkzY1VpOUJubnIyRkF3QkYxUG1qalhGVVVKMGhVRnVZVm1pd0xwbGJrY0VlNTFDd3N0RGlYcHRZMTI4ZF93dVFRQlVJcllpZm5HZVZFVHVWemdXRzh0eFhGSnZ1VmVB?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbTBpX2tpaHNSMnFSMXVENDl6aW1mdXRGUXRfdFZLVHZCYW5KUmkzY1VpOUJubnIyRkF3QkYxUG1qalhGVVVKMGhVRnVZVm1pd0xwbGJrY0VlNTFDd3N0RGlYcHRZMTI4ZF93dVFRQlVJcllpZm5HZVZFVHVWemdXRzh0eFhGSnZ1VmVB?oc=5\" target=\"_blank\">Spring Travel Essen",
+          "source": "Yahoo",
+          "pubDate": "2026-02-19T14:32:53+00:00",
           "tag": "travel",
           "imageUrl": "",
           "imageAttribution": ""
@@ -9710,10 +9720,10 @@
           "imageAttribution": ""
         },
         {
-          "title": "January U.S. Travel Agency Air Ticket Sales Top $10 Billion - PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdnZUbDNPOV9uTm1XR3BRUGRYaXdySXcyV1RaSkJzTnl0YnoyOUZ5d0d2bzU4eXA2WVlhOHlobkk0X19kQ1I1Uy1kRksxTktZRmdmdUZ4Y1Z1NWthRFh3MExLZ3p0WkIzY0o3c3NVbDNUNGc5c0s1b0JjaHgzZDd2dFFBbnlFMVJrUndxQ1J0b1B0cjJXLU56bTVVU1VTa2lYckFTTjR3MHVTb3d2ZzFFTmN3?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNdnZUbDNPOV9uTm1XR3BRUGRYaXdySXcyV1RaSkJzTnl0YnoyOUZ5d0d2bzU4eXA2WVlhOHlobkk0X19kQ1I1Uy1kRksxTktZRmdmdUZ4Y1Z1NWthRFh3MExLZ3p0WkIzY0o3c3NVbDNUNGc5c0s1b0JjaHgzZDd2dFFBbnlFMVJrUndxQ1J0b1B0cjJXLU56bTVVU1VTa2lYckFTTjR3MHVTb3",
-          "source": "PR Newswire",
+          "title": "January U.S. Travel Agency Air Ticket Sales Top $10 Billion - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWTJCcFMzWG5hYXZYZTJueGllaFdma21CQjR0YUdvWTVnOEotYmdJbDUzNmZLeTA1TFZKeTR5V19BeWxHYVlHclVPVnVrTlhfUTNZcE5haXZha2dZQklCbXZKbUllVEFQWFlkYWNHTXdnWWVlMWhnZ09zcWxxWG9TMDhxRWdVcXZxOHJKWWhoX1pvRktOWjFQNktQRVdaUDg4UVlwdkRvdGlaX3oxTm14SDJNTlRfZmF3?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWTJCcFMzWG5hYXZYZTJueGllaFdma21CQjR0YUdvWTVnOEotYmdJbDUzNmZLeTA1TFZKeTR5V19BeWxHYVlHclVPVnVrTlhfUTNZcE5haXZha2dZQklCbXZKbUllVEFQWFlkYWNHTXdnWWVlMWhnZ09zcWxxWG9TMDhxRWdVcXZxOHJKWWhoX1pvRktOWjFQNktQRVdaUDg4UVlwdkRvdGlaX3",
+          "source": "Morningstar",
           "pubDate": "2026-02-19T14:29:00+00:00",
           "tag": "travel",
           "imageUrl": "",
@@ -9795,6 +9805,16 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoNXZWSURfVm80Qld4TERrX1hYc3piaUZPZGxUOW5PdHNHTzN2cWs0UXlVRlkzQmZTbjhEVkl1N1VIU1Zhd1RIRWtnS1JfRWwxb2ltVTg1Mm84QlBOUXY3Ug?oc=5\" target=\"_blank\">\"False Spring\" Ends With Hundreds of Crashes and Impressive Snowfall Reports ",
           "source": "KROC-AM",
           "pubDate": "2026-02-19T13:48:32+00:00",
+          "tag": "travel",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "Uber Expands Life360 Deal to Enhance Family Travel: Upside Ahead? - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVmNqWEgwTXFiZ3NMcTQ3emk0bG5ZRk9QWmV6Q1VhMUJLWUc2UlEyZHpfdm1pTXA2Z1puZ2xEVFJaLUtHeTQxcGRON3p0M3V6OEQtR2pSV0VKUE1FSUdCNGJfa29WSjV3WjllazlDYmJtSHlPSWZfbkRkLUdPQ0lRUXdYSUF0amJSNzhRZDcxNG0zeVdya2FPc1A5Z3hwakdVTGpaRlQ2M1ZqcE5QVk96WDl5N3RJbmtzYXRn?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVmNqWEgwTXFiZ3NMcTQ3emk0bG5ZRk9QWmV6Q1VhMUJLWUc2UlEyZHpfdm1pTXA2Z1puZ2xEVFJaLUtHeTQxcGRON3p0M3V6OEQtR2pSV0VKUE1FSUdCNGJfa29WSjV3WjllazlDYmJtSHlPSWZfbkRkLUdPQ0lRUXdYSUF0amJSNzhRZDcxNG0zeVdya2FPc1A5Z3hwakdVTGpaRlQ2M1ZqcE",
+          "source": "TradingView",
+          "pubDate": "2026-02-19T13:46:00+00:00",
           "tag": "travel",
           "imageUrl": "",
           "imageAttribution": ""
@@ -9948,29 +9968,59 @@
           "tag": "travel",
           "imageUrl": "",
           "imageAttribution": ""
-        },
-        {
-          "title": "Booking Holdings CEO Glenn Fogel on Q4 earnings, state of travel and impact of AI - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbGx4eHdhQzBnazBZS19QU19vdHdGcGFndzFncmF6RGF2WnRiX1lqODl1SGRsQ0NhUkwxcmdJUDA5NDIxdFZUaWtvSEVLMkVMLUJJeXFYMFJzZkRQek1fNGtDSFIyTkpyRmozdkRtYkFlUWlsZ3hvNFBneWlqRGlOblFrOTBJMWNjdDBMaU95QUJlZ2UtdnJQRmluTkZNZHdJR2l4dElybnNudFhCWlpMdG9PdWV4WEJIZEFLemdaUEE?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbGx4eHdhQzBnazBZS19QU19vdHdGcGFndzFncmF6RGF2WnRiX1lqODl1SGRsQ0NhUkwxcmdJUDA5NDIxdFZUaWtvSEVLMkVMLUJJeXFYMFJzZkRQek1fNGtDSFIyTkpyRmozdkRtYkFlUWlsZ3hvNFBneWlqRGlOblFrOTBJMWNjdDBMaU95QUJlZ2UtdnJQRmluTkZNZHdJR2l4dElybnNudF",
-          "source": "CNBC",
-          "pubDate": "2026-02-19T12:52:07+00:00",
-          "tag": "travel",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "Facial 'Cleansing Melts', a Toothbrush Sanitizer and More Spring Travel Picks Starting at $10 - TODAY.com",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YY281LXZRdm04dFJUWmtSMXhJX2lzWjJ6bjNlZ09VbXplR3YwaDBvWmRKcWI2Q19BcU1PZER1dF95ZjNfdkE5MUcxZDhLQWw1VTZQQ0g3SlVkMk1iVXpMVEktanc2cDVuZ05QOEJPRG1yUGV3dHc?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1YY281LXZRdm04dFJUWmtSMXhJX2lzWjJ6bjNlZ09VbXplR3YwaDBvWmRKcWI2Q19BcU1PZER1dF95ZjNfdkE5MUcxZDhLQWw1VTZQQ0g3SlVkMk1iVXpMVEktanc2cDVuZ05QOEJPRG1yUGV3dHc?oc=5\" target=\"_blank\">Facial 'Cleansing Melts', a Toothbrush Sanitizer",
-          "source": "TODAY.com",
-          "pubDate": "2026-02-19T12:47:24+00:00",
-          "tag": "travel",
-          "imageUrl": "",
-          "imageAttribution": ""
         }
       ],
       "food": [
+        {
+          "title": "Toast courts fast food - Payments Dive",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZWp5Rk41Z0ExNXRnSEdjR2JjQjVTWWRDbmhwVHhUVm9NM2xUdTZqOW1LVFprSHNMYThqTFV4S2l6RXExdFVGb3NQUW1WVm1sdE1TVWdIYkw2YjhLeHRGRGpRN3dRRmpmNnhrYjliMkJkSHI4YTFiZEwyZElIX2drdkFpYmRaU09Sc205bHUtdTBGcGs?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOZWp5Rk41Z0ExNXRnSEdjR2JjQjVTWWRDbmhwVHhUVm9NM2xUdTZqOW1LVFprSHNMYThqTFV4S2l6RXExdFVGb3NQUW1WVm1sdE1TVWdIYkw2YjhLeHRGRGpRN3dRRmpmNnhrYjliMkJkSHI4YTFiZEwyZElIX2drdkFpYmRaU09Sc205bHUtdTBGcGs?oc=5\" target=\"_blank\">Toast co",
+          "source": "Payments Dive",
+          "pubDate": "2026-02-19T15:23:01+00:00",
+          "tag": "food",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "DACC hosts a pickleball tournament for their food pantry - KRWG Public Media",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1RicmE5VG5UNVdrcHM3bDg2SXZiNUJJR2IwRzBVdFU2am95eXNnMzJwREYyUzdFTzU0bjUtbDJnTDd0bWlENFZBR3owNWc4WjJiSjdMNDNKWnRDUjFjdUVyV1lzVHZKU1czTnZyNFBqOG92VTgweGJXY2FPMHFyUzVqU3B5d3V2X2xPN3p5TWZuZmM0Wk02R2hBSTJqMTA?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1RicmE5VG5UNVdrcHM3bDg2SXZiNUJJR2IwRzBVdFU2am95eXNnMzJwREYyUzdFTzU0bjUtbDJnTDd0bWlENFZBR3owNWc4WjJiSjdMNDNKWnRDUjFjdUVyV1lzVHZKU1czTnZyNFBqOG92VTgweGJXY2FPMHFyUzVqU3B5d3V2X2xPN3p5TWZuZmM0Wk02R2hBSTJqMTA?oc=5\" target=\"",
+          "source": "KRWG Public Media",
+          "pubDate": "2026-02-19T15:18:00+00:00",
+          "tag": "food",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "Human Appeal reaches over 862,000 people with food, water and life-saving emergency response amid ongoing Sudan conflict - markets.businessinsider.com",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSWltZHgxSGRGc1FVV0ZJOTMwNnRZclFjU0JGMVlnZlU3bU5uQU1tZkFMSTNBS1p3WHNFbmtNa1M0cjhqelFOUFJFazhZVUVWdm1aRTU4bVZZc2M0TVZ0eG9QN2tUdzhNRW9lYmxYWHA2dnZkdzJfS2E3UEhHU0VqNGdTVzBIVlFncDJ3THV1LUdGQlF6NjZUektlc0haMWNWOUJzMmh0c2pjOF9hQTdxTERwUG50dTkza0MwZ3ZfN2ZfZGw5RUhSOU9UTjlKdi1QMDhPOHAzZ1VqMlNNWlNoVkxwcUQ4OWwtODBtM1NDcHZGNUpqblJxbEI5RkpfZFlIT1ZOQ0wyY0o1UQ?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQSWltZHgxSGRGc1FVV0ZJOTMwNnRZclFjU0JGMVlnZlU3bU5uQU1tZkFMSTNBS1p3WHNFbmtNa1M0cjhqelFOUFJFazhZVUVWdm1aRTU4bVZZc2M0TVZ0eG9QN2tUdzhNRW9lYmxYWHA2dnZkdzJfS2E3UEhHU0VqNGdTVzBIVlFncDJ3THV1LUdGQlF6NjZUektlc0haMWNWOUJzMmh0c2pjOF",
+          "source": "markets.businessinsider.com",
+          "pubDate": "2026-02-19T15:16:23+00:00",
+          "tag": "food",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "Tennessee Senate moves to expand school food dye ban - WKRN News 2",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbUh1SGU1TjduMjRqQUJoVU1mVnBIejFKaHlHdVAtdWo3OVFpTUZXWnppcWdqVHBQU3VzNFJKbW0xUllrRjBNc1BSeFNsTUZ3MklVM2djZGMyWjVFY2Z0M0tzNi1lelBxX3p1Ym1nLTB0OHliaEd0TmdGLVh3RDZpbjlfMWlraktFa0RJSXBKcVRZcDA?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPbUh1SGU1TjduMjRqQUJoVU1mVnBIejFKaHlHdVAtdWo3OVFpTUZXWnppcWdqVHBQU3VzNFJKbW0xUllrRjBNc1BSeFNsTUZ3MklVM2djZGMyWjVFY2Z0M0tzNi1lelBxX3p1Ym1nLTB0OHliaEd0TmdGLVh3RDZpbjlfMWlraktFa0RJSXBKcVRZcDA?oc=5\" target=\"_blank\">Tennesse",
+          "source": "WKRN News 2",
+          "pubDate": "2026-02-19T15:12:07+00:00",
+          "tag": "food",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
+          "title": "Democrats revive a once-taboo idea: Capping grocery prices - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd29DNjZFbVgzVTJfQ3dzQ2gtTURFU29zX2lLU2x5M3JNSUtDTFRpQUpENkF6UHNvbHVzWXVxOS14dzZfUll6SWxDRzhjUHFSTTBORFJ5cEdCdHQ4eEZLMHoxeG1ObVlEVkNIUjFiSjdJMTVLcDlMdnYxWHFDRmZMbXdZa19jZTFkbmZpZw?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNd29DNjZFbVgzVTJfQ3dzQ2gtTURFU29zX2lLU2x5M3JNSUtDTFRpQUpENkF6UHNvbHVzWXVxOS14dzZfUll6SWxDRzhjUHFSTTBORFJ5cEdCdHQ4eEZLMHoxeG1ObVlEVkNIUjFiSjdJMTVLcDlMdnYxWHFDRmZMbXdZa19jZTFkbmZpZw?oc=5\" target=\"_blank\">Democrats revive ",
+          "source": "The Washington Post",
+          "pubDate": "2026-02-19T15:01:47+00:00",
+          "tag": "food",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
         {
           "title": "Study links employee food insecurity to reduced work engagement - News-Medical",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOXRUN2hMWDFxaEVyX3FTOWtIVWVtRUoyWlFOVHZBNmE1NDFsZXktQVVOdHM4aGVNTDJ2V0NHRUhXVFVZdkVhblpXQUhrWVVzOEhPUWlCWkgtaExtZFVmUVVuRXI4bmFIdzJrRHp6WUtBUTlkNlJqNjlJLXVqMGlfWFdsazl2VHlOVjNSQXVFY1FDUWZGaldkWDI5X0RoWGV2eFNqeERUNGx3YjUzck1QaA?oc=5",
@@ -10057,16 +10107,6 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUN6UUlZUXpvU1BBRm5DVTRvLUJGN0czVVFDRUFTRzhkSnBOamtLWkpJY0ltbWt0RkhYNzRteDVPOWNPeW41Z05yOExPZU9wTURTTlJ3QnI1Z3Q2alo0cmdqLVU2eUI5cjJ1alBnN05ZS19zdFRjVDdVY3VGSzl6WGF5TkdYVkp2eUw4TThzRjRsYUFjdnJiQm10eERTeGJTbXRB?oc=5\" tar",
           "source": "Cornell Chronicle",
           "pubDate": "2026-02-19T14:35:54+00:00",
-          "tag": "food",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "Human Appeal reaches over 862,000 people with food, water and life-saving emergency response amid ongoing Sudan conflict - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHRkVkVRX2tWQmkwMEM4MHd4aDduTThzcW42Q3JZWlR5NlhyZU9ZR2FsUmYtZDBYRUpWQVNKcThYeHBoWXZoM2EwemczZDBtMi1rSGtESzZUUmwxMm1HeFV1V2FPM2dRYVZRQ01wb3BqQ0ZtRGI4enpPelZ4Z3Y4eTEwZjQ?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHRkVkVRX2tWQmkwMEM4MHd4aDduTThzcW42Q3JZWlR5NlhyZU9ZR2FsUmYtZDBYRUpWQVNKcThYeHBoWXZoM2EwemczZDBtMi1rSGtESzZUUmwxMm1HeFV1V2FPM2dRYVZRQ01wb3BqQ0ZtRGI4enpPelZ4Z3Y4eTEwZjQ?oc=5\" target=\"_blank\">Human Appeal reaches over 86",
-          "source": "Yahoo Finance Singapore",
-          "pubDate": "2026-02-19T14:32:00+00:00",
           "tag": "food",
           "imageUrl": "",
           "imageAttribution": ""
@@ -10212,16 +10252,6 @@
           "imageAttribution": ""
         },
         {
-          "title": "SeaWorld Orlando unveils final artist lineup for its most ambitious Seven Seas Food Festival Concert Series - Amusement Today",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc2h4aXYta3B5X1pwbnRaaThONjNvT0d6LUl3S3pKN01wU05QVVJkNEpqVFBKNkhIc2lIcjduRnE3UnRXd2Q5TGZyTERsUmk5UEtFalZVN2ZPWkZ2aXA2eHA2Qlh1eEdlWFZGQng4LXFrazFTZjdZSWpqQ3huaFNRaVYxRnVmak94YnZpMktZajJGc0FfQ1A0ME1NQ1BXNHdpc09zUG9ld3pOWHFNMFVSTFlXRVliZTJuaklCWWZfNFMySWloZ0F0N0ZvT2JKSWFHWHlOSnpwQ2dtbEE?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc2h4aXYta3B5X1pwbnRaaThONjNvT0d6LUl3S3pKN01wU05QVVJkNEpqVFBKNkhIc2lIcjduRnE3UnRXd2Q5TGZyTERsUmk5UEtFalZVN2ZPWkZ2aXA2eHA2Qlh1eEdlWFZGQng4LXFrazFTZjdZSWpqQ3huaFNRaVYxRnVmak94YnZpMktZajJGc0FfQ1A0ME1NQ1BXNHdpc09zUG9ld3pOWH",
-          "source": "Amusement Today",
-          "pubDate": "2026-02-19T13:31:41+00:00",
-          "tag": "food",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
           "title": "Where Food Comes From, Inc. Expands Premium Protein - GlobeNewswire",
           "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNNGRSSzliaEswQnhqYkdQOHpiX0JhNzI2cUE1Z0hobzJuc3JxVE9qajZPZVZKamJzRUR6bElENGd1SjlrTWl3U2lKWFBRcjhvTWNEbEo1WXZVTFlTNVBzTmZRdEg0Z1dZeGhTUUZJSkhNak5FS0p5UnNQZWZlR3ZlVGJQMG5WOFVkMFlMSXNCX2xLcm04THM2U0JQQ1B4MkJPYlRLSlJhTDE2Z0FBQ2JtZGtRcFFVVFVnN1FmQ1NmQTlZU0xEdnhnV185U1kwalo3alJWczctZmMtS3d2TzVBUHVDaXZpMW9PZkVjRmlYT3FkeGtFR3psbExnbG1EUk5odVhXLXV1RnY1N3JTcWUxanNCeVFMVkVwUm5xb0pQYTlIQQ?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxNNGRSSzliaEswQnhqYkdQOHpiX0JhNzI2cUE1Z0hobzJuc3JxVE9qajZPZVZKamJzRUR6bElENGd1SjlrTWl3U2lKWFBRcjhvTWNEbEo1WXZVTFlTNVBzTmZRdEg0Z1dZeGhTUUZJSkhNak5FS0p5UnNQZWZlR3ZlVGJQMG5WOFVkMFlMSXNCX2xLcm04THM2U0JQQ1B4MkJPYlRLSlJhTDE2Z0",
@@ -10237,36 +10267,6 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyWlA3RTZ1VGNvMmpBSTZhTmVQTjRzTHFqQXluTXJsWkgyWFI2MVJSbTkxZnk2UV9qVXpLZzVHYWRxVjllbGpTanNkeUhiTi1idV9JT0o1WERwa2E3eFVER1FVUmxLYWVI?oc=5\" target=\"_blank\">“Souper” Food bank donation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fo",
           "source": "Forks Forum",
           "pubDate": "2026-02-19T13:29:10+00:00",
-          "tag": "food",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "Where to find the best food under $20 in Waltham - Boston.com",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSXF4VHlWNWg4Ui1JbVdYcjg5V0k1US1wYnp4RnNYNzY5WHctUnp3bkw1WUhRbW96X19vb0JYVVhSYzVEWE8tV2dVamw3N21HQmh6eUhfT0ZGRHBmT1B3X2dyeE9VbTZzTHY2TURGUEVaeTBZdEgtT2h5WmV0RjRKRg?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNSXF4VHlWNWg4Ui1JbVdYcjg5V0k1US1wYnp4RnNYNzY5WHctUnp3bkw1WUhRbW96X19vb0JYVVhSYzVEWE8tV2dVamw3N21HQmh6eUhfT0ZGRHBmT1B3X2dyeE9VbTZzTHY2TURGUEVaeTBZdEgtT2h5WmV0RjRKRg?oc=5\" target=\"_blank\">Where to find the best food under",
-          "source": "Boston.com",
-          "pubDate": "2026-02-19T13:27:00+00:00",
-          "tag": "food",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "Where you can find African fusion food right in Grand Rapids - WZZM13.com",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSHlwUG1DRXpyazV5VG1icXFvZlVXbGRtRFh1MmtneURkMmJmQk16c2EtZ3ZFMzl5Y1lLX0dZRWlSLTJFWUhvTXBNd1dscDFTOUhScTNvZEdnVjZ2YWtlQTVtTngxeEh0ZU5QN2YzeExJMUROZlJaandFalc5S0lfbXhBUXpucDIxVk0zMXJnWnE5TzBZQldyLS1FVDFfbmZLY1hqeHdKdi1uS096WHV0a0JRTUNNVGtiSlQzZlFuMnFHQkhVTUFmNk9rUVgzVnM3akgxeHgtcw?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSHlwUG1DRXpyazV5VG1icXFvZlVXbGRtRFh1MmtneURkMmJmQk16c2EtZ3ZFMzl5Y1lLX0dZRWlSLTJFWUhvTXBNd1dscDFTOUhScTNvZEdnVjZ2YWtlQTVtTngxeEh0ZU5QN2YzeExJMUROZlJaandFalc5S0lfbXhBUXpucDIxVk0zMXJnWnE5TzBZQldyLS1FVDFfbmZLY1hqeHdKdi1uS0",
-          "source": "WZZM13.com",
-          "pubDate": "2026-02-19T13:21:00+00:00",
-          "tag": "food",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "I Tried Stasher’s New Silicone Stretch Lids and They Made Food Storage SO Easy - Dengarden",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjlRYUpJcEhvRE9nTDItcHp6N0x0VXptS3NlWVRiME8xTk1vZ2JHbDR4bWI0VlU4UEtNbWQ5VGtSTmVHOURZb083bUlIS2tjbFNBVm8yM2J1NHRBeHpaaTI0TGVWSThEQ05xb05kODdRYjFrME5NWVE5by00REYxLWNhQnlfVHhyaTBxZVJQeUFBQnNzUWppZG5yYk5PaXQ3ay1NQ19ZRlIzSnZYVTFhU2t5TQ?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjlRYUpJcEhvRE9nTDItcHp6N0x0VXptS3NlWVRiME8xTk1vZ2JHbDR4bWI0VlU4UEtNbWQ5VGtSTmVHOURZb083bUlIS2tjbFNBVm8yM2J1NHRBeHpaaTI0TGVWSThEQ05xb05kODdRYjFrME5NWVE5by00REYxLWNhQnlfVHhyaTBxZVJQeUFBQnNzUWppZG5yYk5PaXQ3ay1NQ19ZRlIzSn",
-          "source": "Dengarden",
-          "pubDate": "2026-02-19T13:15:00+00:00",
           "tag": "food",
           "imageUrl": "",
           "imageAttribution": ""
@@ -11180,6 +11180,16 @@
       ],
       "charity": [
         {
+          "title": "Tomball Emergency Assistance Ministries celebrating 40 years of service - Community Impact | News",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOLWpnQV91U195QzM1MExTLXdoYjByMTdsQ0dCdlhMeS1sTVlqNFJ0bmFDbk5zc2pUX2NZXzRCMDE4Nng5d0Z4dVF3UlZfZk52LW04cEVuaU5zTGQzREpvVl9xM3pDckw5SjVrV2RtWmlYcFFVdWxSNXJOVVBsRlpSZ3hSWlRmWmZuZFNYRGlIYWktcWxtaDhpYnhZYXB2R2ZiY0FFeTdVV2g5MjRobVZ0YjRlNmFDRjIyVXRETzh6Z1R4SlA0T1BFTDM0MFFPWS1YZmcwa3BnaXc5MDNVNC04?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOLWpnQV91U195QzM1MExTLXdoYjByMTdsQ0dCdlhMeS1sTVlqNFJ0bmFDbk5zc2pUX2NZXzRCMDE4Nng5d0Z4dVF3UlZfZk52LW04cEVuaU5zTGQzREpvVl9xM3pDckw5SjVrV2RtWmlYcFFVdWxSNXJOVVBsRlpSZ3hSWlRmWmZuZFNYRGlIYWktcWxtaDhpYnhZYXB2R2ZiY0FFeTdVV2g5Mj",
+          "source": "Community Impact | News",
+          "pubDate": "2026-02-19T15:15:00+00:00",
+          "tag": "charity",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
           "title": "Drink and dine for a good cause at the South Walton Beaches Wine & Food Festival - WJHG",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTlZQTduODhzaWxVaEtpSlhUekFUQVMtd1ZOOUx6R0ZaUS1GV3VTQmxOTjM0RmdaNUZGMGVhd3J0UjU4WHR0em5EREFfelNwZ0dER21pTXBpLXFMOEdkQnBZTDNRTDZnQjF1bEtDX0tBSFNCWF9aWHhaR2NraUw2NTZ0aU1vZzdlMThGM1BqOWxhMG1CWGhsMkhB0gGuAUFVX3lxTFA0Wi1PZHlYVzdGdGMwTzl4SU10dERyTUU2ejV0OXZUaUdUdnI3UlhoMkR2ejRLTzJXWUNFU291Zm9RQ2dfa2o2ZWRveTc1ekM0dXNnUkN0M2plZ3AzWUttQlJRMGdlQWx5NlNNOUZabEdTa0FYVjJFNWZySUxhUGRrSVJvQ3dDX2l1Ny1qTGRESl8xSlRVWF80QVhyOFpzOExvd3B5V3FMVzc5cDhpUQ?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOQTlZQTduODhzaWxVaEtpSlhUekFUQVMtd1ZOOUx6R0ZaUS1GV3VTQmxOTjM0RmdaNUZGMGVhd3J0UjU4WHR0em5EREFfelNwZ0dER21pTXBpLXFMOEdkQnBZTDNRTDZnQjF1bEtDX0tBSFNCWF9aWHhaR2NraUw2NTZ0aU1vZzdlMThGM1BqOWxhMG1CWGhsMkhB0gGuAUFVX3lxTFA0Wi1PZH",
@@ -11410,6 +11420,16 @@
           "imageAttribution": ""
         },
         {
+          "title": "Homelessness organizations dealing with increasing legal attacks, anti-poverty rhetoric: Ontario Nonprofit Network - Future of Good",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdjlYbEhJdldvcF9IWGhTcVl5YmRFMTczT3VGLUhVajR0aHBHcGZwTHpveXB3X3M4YjJJM1djcU8tSUg1M2JOY2RyelNuTkszNkZwcnlzczVDVFhkZmo2MDQwNXJDb25oaGt0djNlSVA5YmR6WGVpdS1CRkJjSjlQbHFGbmctcVhTLUxwYzRjNnNySXF4OEJ4bVlOS0V1ZC1VSml4eExreDY2NmlVT3ZYUjdYMVVQUktiX01wSGRyM2xNM0tEdmp3a3VXdldTU25MZmhZ?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdjlYbEhJdldvcF9IWGhTcVl5YmRFMTczT3VGLUhVajR0aHBHcGZwTHpveXB3X3M4YjJJM1djcU8tSUg1M2JOY2RyelNuTkszNkZwcnlzczVDVFhkZmo2MDQwNXJDb25oaGt0djNlSVA5YmR6WGVpdS1CRkJjSjlQbHFGbmctcVhTLUxwYzRjNnNySXF4OEJ4bVlOS0V1ZC1VSml4eExreDY2Nm",
+          "source": "Future of Good",
+          "pubDate": "2026-02-19T11:01:59+00:00",
+          "tag": "charity",
+          "imageUrl": "",
+          "imageAttribution": ""
+        },
+        {
           "title": "Billionaire Les Wexner tells US lawmakers he was 'naive' and 'conned' by Epstein",
           "link": "https://www.bbc.com/news/articles/cy57rrrpvg7o?at_medium=RSS&at_campaign=rss",
           "description": "Testifying before Congress, the former CEO of Victoria's Secret lingerie brand accused Epstein of stealing \"vast sums\" of money from his family.",
@@ -11450,31 +11470,11 @@
           "imageAttribution": ""
         },
         {
-          "title": "BingX Charity Unveils New Logo to Strengthen Its Global Mission - The AI Journal",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGVTS3VxalJVOXd2aDZ6M2YwQWVnR18zbFQycXdVRlhTSUFzdkswRjRaUjF0a3lvZVVpRUZmaWtlY3BJXzhLYUk5dC1YaTQ1NWs2ZlZ1cDVnUk5MOGpIVXRRWXJuaWlveS1pZldrZ05GZmFoY19NTzk2UDludnNydUMyZTIzSnNwbUVBWQ?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGVTS3VxalJVOXd2aDZ6M2YwQWVnR18zbFQycXdVRlhTSUFzdkswRjRaUjF0a3lvZVVpRUZmaWtlY3BJXzhLYUk5dC1YaTQ1NWs2ZlZ1cDVnUk5MOGpIVXRRWXJuaWlveS1pZldrZ05GZmFoY19NTzk2UDludnNydUMyZTIzSnNwbUVBWQ?oc=5\" target=\"_blank\">BingX Charity Unv",
-          "source": "The AI Journal",
-          "pubDate": "2026-02-19T10:49:15+00:00",
-          "tag": "charity",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
           "title": "Samba school that praised Brazil's Lula  at Rio Carnival relegated",
           "link": "https://www.bbc.com/news/articles/c3ewvz0j87zo?at_medium=RSS&at_campaign=rss",
           "description": "See the floats from the famous festival as the city's top samba schools compete for first prize.",
           "source": "News Source",
           "pubDate": "2026-02-19T10:47:09+00:00",
-          "tag": "charity",
-          "imageUrl": "",
-          "imageAttribution": ""
-        },
-        {
-          "title": "Pittsburgh-area nonprofit co-founder remembers visits with Rev. Jesse Jackson - 90.5 WESA",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDVROTBQb29aRVFMY2hxZXlUV2ptXzhpVkJDS1JWd3Z2NWNNOUNGeFdsQ2xxM2swZlJ5OWpBYXp2bWRZUDlWMFc5VG5sbjJZNmN0VVZ4d0RqQXV5Z0Y1OGx4R1YwRS04b0VidEh2X0ZtZXo2ekNRLTNtSm9KS3h5amNVcGZQeW5IR0pzYUFmUERia0E?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDVROTBQb29aRVFMY2hxZXlUV2ptXzhpVkJDS1JWd3Z2NWNNOUNGeFdsQ2xxM2swZlJ5OWpBYXp2bWRZUDlWMFc5VG5sbjJZNmN0VVZ4d0RqQXV5Z0Y1OGx4R1YwRS04b0VidEh2X0ZtZXo2ekNRLTNtSm9KS3h5amNVcGZQeW5IR0pzYUFmUERia0E?oc=5\" target=\"_blank\">Pittsbur",
-          "source": "90.5 WESA",
-          "pubDate": "2026-02-19T10:30:00+00:00",
           "tag": "charity",
           "imageUrl": "",
           "imageAttribution": ""
