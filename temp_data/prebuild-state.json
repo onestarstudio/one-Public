@@ -1,9 +1,10 @@
 {
-  "lastRssFetchAt": "2026-02-19T05:26:48.409400+00:00",
-  "lastRunAt": "2026-02-19T05:26:48.409400+00:00",
-  "rssIntervalMinutes": 15,
+  "lastRssFetchAt": "2026-02-19T06:29:33.902685+00:00",
+  "lastAiSlot": "2026-02-19@06",
+  "lastRunAt": "2026-02-19T06:29:33.902685+00:00",
   "aiHours": [
     6,
     22
-  ]
+  ],
+  "aiWindowMinutes": 30
 }
