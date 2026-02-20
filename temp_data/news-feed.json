@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-20T04:08:29.665651+00:00",
+  "generatedAt": "2026-02-20T04:26:37.901696+00:00",
   "newsByLang": {
     "zh": {
       "trending": [
@@ -306,6 +306,46 @@
       ],
       "ai": [
         {
+          "title": "禁⽤Claude、强推自研：亚马逊打响AI生态主权战 - i.ifeng.com",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2ZUpKaXlBd1QzTEFXWjF3Q0FvRjN0MzZ4WUhEcW95dDJfdUEzQWFFX1B6Y2RuSTFJOERFSm0xclBRWm1McjlMTQ?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2ZUpKaXlBd1QzTEFXWjF3Q0FvRjN0MzZ4WUhEcW95dDJfdUEzQWFFX1B6Y2RuSTFJOERFSm0xclBRWm1McjlMTQ?oc=5\" target=\"_blank\">禁⽤Claude、强推自研：亚马逊打响AI生态主权战</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">i.ifeng.com</font>",
+          "source": "i.ifeng.com",
+          "pubDate": "2026-02-20T04:20:09+00:00",
+          "tag": "ai",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
+          "title": "港股午评：恒指收跌0.61% AI应用、机器人概念股逆势走强 - 新浪财经",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ISDJCUmlmT2hjRFU1NjBYMlR3NkJEd2tVbmFLOUpwWElYVmc3UlRoLVlNWHRwLXhzOUZpVGdMOGRlUkd0TFBFak83OA?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ISDJCUmlmT2hjRFU1NjBYMlR3NkJEd2tVbmFLOUpwWElYVmc3UlRoLVlNWHRwLXhzOUZpVGdMOGRlUkd0TFBFak83OA?oc=5\" target=\"_blank\">港股午评：恒指收跌0.61% AI应用、机器人概念股逆势走强</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+          "source": "新浪财经",
+          "pubDate": "2026-02-20T04:19:25+00:00",
+          "tag": "ai",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
+          "title": "港股AI应用、存储芯片股，集体爆发！ - 新浪财经",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPS0NwNXV5Tm1jakx4cmlaLTc2NTFoWDdZQ25fMVI4cXlvMFRxME5BR0czbFJ4bTUxTVFDeHl1NnQtcF9QdllCSEZfSW9aaU1Vam4yQ2JmZnZCTjBKZzVkbEI4cG1WVDgyVm1XUlNKVE0tNjZ3MVctLTBGeWgwcEM3cTRoWkVZYXFBX1FQNmVGem9RTDk4M0hmOVZ6REU5RjBvX3ZUTHZ6WUFXbV9Tbk0zWEgyMklDNXZEbXRveXFOLXZiSnBKc1dwZzBMcEs5SzV0dmNzNm1Sei1KVjA2TEFxNmc0aXpiMnAwNFo1U0FiaHNEb0wyeGJjRXpR?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPS0NwNXV5Tm1jakx4cmlaLTc2NTFoWDdZQ25fMVI4cXlvMFRxME5BR0czbFJ4bTUxTVFDeHl1NnQtcF9QdllCSEZfSW9aaU1Vam4yQ2JmZnZCTjBKZzVkbEI4cG1WVDgyVm1XUlNKVE0tNjZ3MVctLTBGeWgwcEM3cTRoWkVZYXFBX1FQNmVGem9RTDk4M0hmOVZ6REU5RjBvX3ZUTHZ6WUFXbV",
+          "source": "新浪财经",
+          "pubDate": "2026-02-20T04:18:45+00:00",
+          "tag": "ai",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
+          "title": "首例安卓Runtime AI病毒曝光，实时分析手机屏幕对抗查杀 - 搜狐网",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOHppUERNS0lvSllJZmJ5LU44MnhxemhiSGVRc3hfdWR4aWJHczZLNVptNGxkWHJDb2d2cWxIMm8td0VPeW5JclZhSUNHTDNXQnFOVnB2RF9GeXV0bEdJeWdSX3RsLXZHZHZCVmVXazctZkNadFoxTXN3VGJqRlBmV0hSUUdkQUU?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQOHppUERNS0lvSllJZmJ5LU44MnhxemhiSGVRc3hfdWR4aWJHczZLNVptNGxkWHJDb2d2cWxIMm8td0VPeW5JclZhSUNHTDNXQnFOVnB2RF9GeXV0bEdJeWdSX3RsLXZHZHZCVmVXazctZkNadFoxTXN3VGJqRlBmV0hSUUdkQUU?oc=5\" target=\"_blank\">首例安卓Runtime AI病毒曝光，实时分析手",
+          "source": "搜狐网",
+          "pubDate": "2026-02-20T04:09:21+00:00",
+          "tag": "ai",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
           "title": "袁和平揭秘《镖人》使用 AI 工具 Seedance 2.0 打造片尾彩蛋 - 新浪财经",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2xXWGxRMWtDSmEzQzk5aHQzUHdGMjlCbkl5SFh1cnY0SWhMOS1hZTVpanN6Q2k5UmpUd3Z2cTFvbG5GbEx1QWtBOVFsb2hlUjJtN2VnNlg2aGpFMS1vU0tpUXFIdVJQSzhjSktJT0xPcXJNX0d3aC11SXBfVVd2LWtOQjZBYnlsTndYY1ItbjZ5M1lpWFIzcXpwVFFKcTZPUE5qZmVORQ?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2xXWGxRMWtDSmEzQzk5aHQzUHdGMjlCbkl5SFh1cnY0SWhMOS1hZTVpanN6Q2k5UmpUd3Z2cTFvbG5GbEx1QWtBOVFsb2hlUjJtN2VnNlg2aGpFMS1vU0tpUXFIdVJQSzhjSktJT0xPcXJNX0d3aC11SXBfVVd2LWtOQjZBYnlsTndYY1ItbjZ5M1lpWFIzcXpwVFFKcTZPUE5qZmVORQ?oc=",
@@ -376,6 +416,16 @@
           "imageAttribution": "Google News"
         },
         {
+          "title": "存储三巨头疯狂建厂：产能填补AI缺口，消费者恐继续缺货 - 搜狐网",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZDlmMFdMNFdrMkp4VTZGMkE4UHJyeXJJdk16WFpzS2NuSmJZRHhTUjVTdVNFRDlyTW83M3oxUHJPbVFOdVhhRlUtc0lLcERXek44SkZ0d0hrS1BZV0lLaDlaaTJaZjY0R25FVmZ4d0tUVm4zUTBjNVk3QkUtMW1ocDVCeTVfRHM?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNZDlmMFdMNFdrMkp4VTZGMkE4UHJyeXJJdk16WFpzS2NuSmJZRHhTUjVTdVNFRDlyTW83M3oxUHJPbVFOdVhhRlUtc0lLcERXek44SkZ0d0hrS1BZV0lLaDlaaTJaZjY0R25FVmZ4d0tUVm4zUTBjNVk3QkUtMW1ocDVCeTVfRHM?oc=5\" target=\"_blank\">存储三巨头疯狂建厂：产能填补AI缺口，消费者恐继",
+          "source": "搜狐网",
+          "pubDate": "2026-02-20T03:47:27+00:00",
+          "tag": "ai",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
           "title": "又一家AI芯片公司：另辟蹊径挑战英伟达 - 富途牛牛",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLRzdDSlJSSUtIUlNCOEl3VHJVcHVXMF85cXJ5end5VnhJMko5YjhyTGZLRVF3ZmlRRzVPeU5adU9MUlFrcy1rZVhidUNfUQ?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLRzdDSlJSSUtIUlNCOEl3VHJVcHVXMF85cXJ5end5VnhJMko5YjhyTGZLRVF3ZmlRRzVPeU5adU9MUlFrcy1rZVhidUNfUQ?oc=5\" target=\"_blank\">又一家AI芯片公司：另辟蹊径挑战英伟达</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
@@ -401,16 +451,6 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1FbEg5MDd1clBBUmxmal83U3hSRUoxSE00NHJqOGh3OGhFWmstQnRUQlFyM2l6LTdCQUpJMVVPbHNiY1gtV19icg?oc=5\" target=\"_blank\">首例安卓Runtime AI病毒曝光，实时分析手机屏幕对抗查杀</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">i.ifeng.com</font>",
           "source": "i.ifeng.com",
           "pubDate": "2026-02-20T03:40:42+00:00",
-          "tag": "ai",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
-        },
-        {
-          "title": "重塑体验，AI搜索企业Perplexity停止广告投放 - 搜狐网",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVjA1UUpNVjd6STNDRnU0V1RjLXIyV1h4RkZNakxFNmZWcUwzSC0zdGF2Ym9OcnRzOExPbmlfS0lMZzB0VWZtMlNQT0ExVFVIZl9Kd0RNaFFQcWZxNEdIUW1CZjVyeFVReW9TNEdFSnRYdHdDS3plOW1rU29UVnhVQ1lBMnhZRFZPV2c?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQVjA1UUpNVjd6STNDRnU0V1RjLXIyV1h4RkZNakxFNmZWcUwzSC0zdGF2Ym9OcnRzOExPbmlfS0lMZzB0VWZtMlNQT0ExVFVIZl9Kd0RNaFFQcWZxNEdIUW1CZjVyeFVReW9TNEdFSnRYdHdDS3plOW1rU29UVnhVQ1lBMnhZRFZPV2c?oc=5\" target=\"_blank\">重塑体验，AI搜索企业Perplexit",
-          "source": "搜狐网",
-          "pubDate": "2026-02-20T03:36:55+00:00",
           "tag": "ai",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "imageAttribution": "Google News"
@@ -466,31 +506,11 @@
           "imageAttribution": "Google News"
         },
         {
-          "title": "两大AI掌门人拒绝握手 - 新浪财经",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbEdmRnRPWFNzcDNjWWljSG5kWnREYU1SaXdrYnRHdVZUUk1nNFdOVWJJNmpsUVNueXY2YnN4RmJqZHNwbXhzV0FwajBzMC1ZQUg0dlVwTjNHS0pIRW1JVzZJUlJXU2Q1TWtmOWxuMG1yMHYwQkZHVmtJMDgtbTAzeFNYb0RBUDRHUmFaRlU2WVFpOUIzNzZ5WEhYMndVbFh0M0JxUnl3NngzTF9Tb19HUjRrLURDeWlUSl9pM2pYRnZHaFl3VE9sY055Nk5JWXE2cmtuMl8tUG9yXzRHRjhHdkVQbGlGbnFxdkNLMnl4WnRvaHVQZ29za2JpUTJCbzN5M3c?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPbEdmRnRPWFNzcDNjWWljSG5kWnREYU1SaXdrYnRHdVZUUk1nNFdOVWJJNmpsUVNueXY2YnN4RmJqZHNwbXhzV0FwajBzMC1ZQUg0dlVwTjNHS0pIRW1JVzZJUlJXU2Q1TWtmOWxuMG1yMHYwQkZHVmtJMDgtbTAzeFNYb0RBUDRHUmFaRlU2WVFpOUIzNzZ5WEhYMndVbFh0M0JxUnl3NngzTF",
-          "source": "新浪财经",
-          "pubDate": "2026-02-20T03:18:04+00:00",
-          "tag": "ai",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
-        },
-        {
           "title": "首个！中国团队研发出一款AI看病系统，成功破解世界难题 - 新浪财经",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94RUkzZHRkVkxkdHFScnhVOS05bFFBLTlTSEdJSnRVRF9DWkJVNmIySW1GZjRWV3lSVnBPck1BTi1FMTl6QlpMdlVqOG9JSjdrcGFDaUZEX1lLa0xzQ3lIYVkxeWd4bmZJNl9XZGF5MVA2N2xIdVpaUg?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE94RUkzZHRkVkxkdHFScnhVOS05bFFBLTlTSEdJSnRVRF9DWkJVNmIySW1GZjRWV3lSVnBPck1BTi1FMTl6QlpMdlVqOG9JSjdrcGFDaUZEX1lLa0xzQ3lIYVkxeWd4bmZJNl9XZGF5MVA2N2xIdVpaUg?oc=5\" target=\"_blank\">首个！中国团队研发出一款AI看病系统，成功破解世界难题</a>&nbsp;&nbsp;<f",
           "source": "新浪财经",
           "pubDate": "2026-02-20T03:18:00+00:00",
-          "tag": "ai",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
-        },
-        {
-          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？ - 华尔街见闻",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wUndrVXdtQXJBaVplNm1odWxub3JWbzB0eGk1bnpLSndGb2pFYkZWdUJWOFpVc3dZX2dsSzJwZndrMFhxTXBXOVR3c2I4ejh0YXVv?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wUndrVXdtQXJBaVplNm1odWxub3JWbzB0eGk1bnpLSndGb2pFYkZWdUJWOFpVc3dZX2dsSzJwZndrMFhxTXBXOVR3c2I4ejh0YXVv?oc=5\" target=\"_blank\">一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
-          "source": "华尔街见闻",
-          "pubDate": "2026-02-20T03:12:58+00:00",
           "tag": "ai",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "imageAttribution": "Google News"
@@ -546,21 +566,21 @@
           "imageAttribution": "Google News"
         },
         {
-          "title": "【视频】嘉梁AI体验，宝骏华境S，搭载华为驾驶辅助和鸿蒙座舱，抢先解读 - 汽车之家",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ESHplbEFWRmhKTW5xVDhJN29UbU5jTEIzMGtqaHJrdVVfLWYyaGtKTFZFV1owRFNzV0VuZ2w4czhBdWtiVzlYano2TmpYSTlXQjdwdzFqMHU5ZlU?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ESHplbEFWRmhKTW5xVDhJN29UbU5jTEIzMGtqaHJrdVVfLWYyaGtKTFZFV1owRFNzV0VuZ2w4czhBdWtiVzlYano2TmpYSTlXQjdwdzFqMHU5ZlU?oc=5\" target=\"_blank\">【视频】嘉梁AI体验，宝骏华境S，搭载华为驾驶辅助和鸿蒙座舱，抢先解读</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">汽车之家</font>",
-          "source": "汽车之家",
-          "pubDate": "2026-02-20T02:50:42+00:00",
-          "tag": "ai",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
-        },
-        {
           "title": "我在河南用AI鉴定玉石，8个月收入上百万 - 36 Kr",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhV2syQ3RobWxjQ3NIYU4zY2RNby1fRVlTZkE4UlFvWlB1QzRrbEkyLThSSDQ3OHdZRDNuYkZaU0NJQmt5dVpWYzdGRzdpdw?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhV2syQ3RobWxjQ3NIYU4zY2RNby1fRVlTZkE4UlFvWlB1QzRrbEkyLThSSDQ3OHdZRDNuYkZaU0NJQmt5dVpWYzdGRzdpdw?oc=5\" target=\"_blank\">我在河南用AI鉴定玉石，8个月收入上百万</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36 Kr</font>",
           "source": "36 Kr",
           "pubDate": "2026-02-20T02:49:00+00:00",
+          "tag": "ai",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
+          "title": "《镖人》AI彩蛋出圈，81岁袁和平借豆包Seedance 2.0积极探索 - 新浪财经",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WRWRDNjZreWtacnA1ajVyUG1pMzZRc1g4UmFKVTZhV0IwcktRYnZlOE41Y1RVVm5ZVHJoZ0hmMzUydlNXYTlXWlU5Y1MxVnJCRWlxd3hCeGp2ck9VV3hPcF96QmRYcGFDQ1JlTWNNYmxjUmVWeURDVg?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9WRWRDNjZreWtacnA1ajVyUG1pMzZRc1g4UmFKVTZhV0IwcktRYnZlOE41Y1RVVm5ZVHJoZ0hmMzUydlNXYTlXWlU5Y1MxVnJCRWlxd3hCeGp2ck9VV3hPcF96QmRYcGFDQ1JlTWNNYmxjUmVWeURDVg?oc=5\" target=\"_blank\">《镖人》AI彩蛋出圈，81岁袁和平借豆包Seedance 2.0积极探索</a>&nbsp",
+          "source": "新浪财经",
+          "pubDate": "2026-02-20T02:41:00+00:00",
           "tag": "ai",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "imageAttribution": "Google News"
@@ -581,26 +601,6 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE8zNkI2QjFrSVNGSHpOVWZ4eXlvRXRDcnUwSTJEekpNWWN6eUVWTk5aYmVib1FCTGc3Y09WeTZ4MVNTQ1hRSVkwVzh1bXRrLXd0V2JkLUhqV3hKMWNfaE5oSFNnbjVuUGVhQWhtX2dn?oc=5\" target=\"_blank\">AI赋能古籍活化 “十二花神”绽放在数字新春</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
           "source": "人民网财经",
           "pubDate": "2026-02-20T02:40:00+00:00",
-          "tag": "ai",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
-        },
-        {
-          "title": "《镖人》AI彩蛋出圈，81岁袁和平借豆包Seedance 2.0积极探索 - jfdaily.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oejVtQUIzVnhMSHJMYk52TkJOekVZdVJkczVmbmt5dmV1RWd2SlJBWEV6a3RaUFdKMHI5ZWhVMk9ZS3ZaLUx3cjh0VU5qaDNmd1BaZWxidkVLZw?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oejVtQUIzVnhMSHJMYk52TkJOekVZdVJkczVmbmt5dmV1RWd2SlJBWEV6a3RaUFdKMHI5ZWhVMk9ZS3ZaLUx3cjh0VU5qaDNmd1BaZWxidkVLZw?oc=5\" target=\"_blank\">《镖人》AI彩蛋出圈，81岁袁和平借豆包Seedance 2.0积极探索</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jfdaily.com",
-          "source": "jfdaily.com",
-          "pubDate": "2026-02-20T02:37:00+00:00",
-          "tag": "ai",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
-        },
-        {
-          "title": "港股AI应用股走强 智谱涨超16% - 同花顺",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FQlFEcTBqTDFXRHVwWE9wOXB2QzNxSlhLamE3M3BUZ0hlb1lmNi1fUi00aFZ1Y0FMdGNYWjAxUVNrODM5YTh4MmxiUTlZck55TDk5Q3VNNzE2U3hQakE?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FQlFEcTBqTDFXRHVwWE9wOXB2QzNxSlhLamE3M3BUZ0hlb1lmNi1fUi00aFZ1Y0FMdGNYWjAxUVNrODM5YTh4MmxiUTlZck55TDk5Q3VNNzE2U3hQakE?oc=5\" target=\"_blank\">港股AI应用股走强 智谱涨超16%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-          "source": "同花顺",
-          "pubDate": "2026-02-20T02:33:07+00:00",
           "tag": "ai",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "imageAttribution": "Google News"
@@ -1816,6 +1816,56 @@
       ],
       "technology": [
         {
+          "title": "港股AI应用、存储芯片股，集体爆发！ - 新浪财经",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPS0NwNXV5Tm1jakx4cmlaLTc2NTFoWDdZQ25fMVI4cXlvMFRxME5BR0czbFJ4bTUxTVFDeHl1NnQtcF9QdllCSEZfSW9aaU1Vam4yQ2JmZnZCTjBKZzVkbEI4cG1WVDgyVm1XUlNKVE0tNjZ3MVctLTBGeWgwcEM3cTRoWkVZYXFBX1FQNmVGem9RTDk4M0hmOVZ6REU5RjBvX3ZUTHZ6WUFXbV9Tbk0zWEgyMklDNXZEbXRveXFOLXZiSnBKc1dwZzBMcEs5SzV0dmNzNm1Sei1KVjA2TEFxNmc0aXpiMnAwNFo1U0FiaHNEb0wyeGJjRXpR?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPS0NwNXV5Tm1jakx4cmlaLTc2NTFoWDdZQ25fMVI4cXlvMFRxME5BR0czbFJ4bTUxTVFDeHl1NnQtcF9QdllCSEZfSW9aaU1Vam4yQ2JmZnZCTjBKZzVkbEI4cG1WVDgyVm1XUlNKVE0tNjZ3MVctLTBGeWgwcEM3cTRoWkVZYXFBX1FQNmVGem9RTDk4M0hmOVZ6REU5RjBvX3ZUTHZ6WUFXbV",
+          "source": "新浪财经",
+          "pubDate": "2026-02-20T04:18:45+00:00",
+          "tag": "technology",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
+          "title": "揭秘春晚“人机共武”武术盛宴 科技与传统的完美融合 - 中华网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nenJlVWJyTlpUbDZnLVBWQXZTX2Q4Tk84ZlVKbUNZWW9FMGpZWEJFT1VMNElxdk1IdkpjSnNhb28zX1A0dTN2RTZBOGEtN21hWi0yby1uRTFEcFhMaEhNblBjQ2V2ZnNKdW5yZXMzcTA?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1nenJlVWJyTlpUbDZnLVBWQXZTX2Q4Tk84ZlVKbUNZWW9FMGpZWEJFT1VMNElxdk1IdkpjSnNhb28zX1A0dTN2RTZBOGEtN21hWi0yby1uRTFEcFhMaEhNblBjQ2V2ZnNKdW5yZXMzcTA?oc=5\" target=\"_blank\">揭秘春晚“人机共武”武术盛宴 科技与传统的完美融合</a>&nbsp;&nbsp;<font color=\"#6",
+          "source": "中华网",
+          "pubDate": "2026-02-20T04:15:36+00:00",
+          "tag": "technology",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
+          "title": "150亿美元+100兆瓦！科技巨头在印度签下AI基建大单 - 搜狐网",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSExhOTYybU9mOGpTdXNhUE1HejA1YlBGYXFjaXl6MmhCZGtmSUZvUUdpeHVKdHYtOHM4WjZxeHFhLVllTmgwR3I1QlktTzMzWklHUXRUZjVTTFZ3THZzNHRVUW5FMEdzU2xMUHBqMXJ2ckUzVG00R3lfRXdNTUtFVjRNT1JwdjA?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPSExhOTYybU9mOGpTdXNhUE1HejA1YlBGYXFjaXl6MmhCZGtmSUZvUUdpeHVKdHYtOHM4WjZxeHFhLVllTmgwR3I1QlktTzMzWklHUXRUZjVTTFZ3THZzNHRVUW5FMEdzU2xMUHBqMXJ2ckUzVG00R3lfRXdNTUtFVjRNT1JwdjA?oc=5\" target=\"_blank\">150亿美元+100兆瓦！科技巨头在印度签下AI",
+          "source": "搜狐网",
+          "pubDate": "2026-02-20T04:11:16+00:00",
+          "tag": "technology",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
+          "title": "#其它# 孙女用“科技”找饺子里硬币 没想到最后在爷爷那儿 \"其乐融融这就是过年的意义” - 搜狐网",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNczZxbVVVVVVIQ01IaGhWdEZyVFVsRUhEOUpLQ0FNbWZ5QTJiaUc5Wk9WUk1wbnplMVhLVjIteGZROXlOaXZ0WHNRZTQ3NjRDd0VibWV6NDhhUXlzY1BEamhqa19xY2lac29uWHVLVEZRcTNiYjBWWkt4aUNrbjh3V1V1TDhIUVRQYWlJ?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNczZxbVVVVVVIQ01IaGhWdEZyVFVsRUhEOUpLQ0FNbWZ5QTJiaUc5Wk9WUk1wbnplMVhLVjIteGZROXlOaXZ0WHNRZTQ3NjRDd0VibWV6NDhhUXlzY1BEamhqa19xY2lac29uWHVLVEZRcTNiYjBWWkt4aUNrbjh3V1V1TDhIUVRQYWlJ?oc=5\" target=\"_blank\">#其它# 孙女用“科技”找饺子里硬币 ",
+          "source": "搜狐网",
+          "pubDate": "2026-02-20T04:10:46+00:00",
+          "tag": "technology",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
+          "title": "恒生科技指数早盘收跌2.28% 机器人概念逆势上涨 - 东方财富",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94SU5YQW9TUHVrUVJPbzJ6a3lvemlMenZtd1NaUDgzY3dXRDNrMVFQQ19CWUZhVml1QW50ZW1uYUtndU5Sd01QalNjZzRXbjNFczdLanVYbXZQUWRnV1VVag?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE94SU5YQW9TUHVrUVJPbzJ6a3lvemlMenZtd1NaUDgzY3dXRDNrMVFQQ19CWUZhVml1QW50ZW1uYUtndU5Sd01QalNjZzRXbjNFczdLanVYbXZQUWRnV1VVag?oc=5\" target=\"_blank\">恒生科技指数早盘收跌2.28% 机器人概念逆势上涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+          "source": "东方财富",
+          "pubDate": "2026-02-20T04:09:25+00:00",
+          "tag": "technology",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
           "title": "突传利好，集体飙涨！ - 新浪财经",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSGF0RG1jdllzekZINm5tVkRyaUNwR1dxQldSMjNBRFhEaVM1bV9ZN292U3QzYk9pbmYxcGVuQXNlZ3A0VExzU3NSNEZGQ1hiYTR6NWpWTXV1R2sxSDduTUwtNVlfX2lLWlkzdmQyOUdnRmRpUmJvQnVxMHVOQjNCVktrX0Z3bW9yRVVza01OWXhYcmh6YzRtX3JkY0pKWmFLX1ZYRFotR2FwSE9wUURqbUZ5d29QRjFfQ1ZDSGlQS2hrdDlkMGVDV3A5ZXF4c2pZVXQwaW5hbHM5Tk5RSFZmQ0Z1dk9XeE9JaXRzX0JtRGpuV3ZvWXBEZlVPaGRFc1VfOFE?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQSGF0RG1jdllzekZINm5tVkRyaUNwR1dxQldSMjNBRFhEaVM1bV9ZN292U3QzYk9pbmYxcGVuQXNlZ3A0VExzU3NSNEZGQ1hiYTR6NWpWTXV1R2sxSDduTUwtNVlfX2lLWlkzdmQyOUdnRmRpUmJvQnVxMHVOQjNCVktrX0Z3bW9yRVVza01OWXhYcmh6YzRtX3JkY0pKWmFLX1ZYRFotR2FwSE",
@@ -1831,16 +1881,6 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8wdC11eEh2bGFmanB3T19MejY3RDFUMHl0aHpPLWs0QjBwbXFJcmhUb3hycWJfZVkwdlczaFotaU5vbTM2c1VuR0xaYjFMVWRSQ3hCSzU4eUdEZ2lUcl9ZU0Nlc282Yy0xWER4ZlBFVy1RY0VnakE?oc=5\" target=\"_blank\">济南方特“新春灯会”火热进行中 国风科技点亮马年新春</a>&nbsp;&nbsp;<font ",
           "source": "齐鲁网",
           "pubDate": "2026-02-20T03:40:02+00:00",
-          "tag": "technology",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
-        },
-        {
-          "title": "多视角解锁新春归途上科技“新”变 智慧赋能为百姓团圆之路注入科技动能 - 搜狐网",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY0hzd2ZuRW1JdDlacDVlQy1lWjY5U1FVcEt6c3ktbUdlMksxU2pJMWc3RVZfbFN4dlNzT0lmcEthSzdXNkJtWWpKQTQ1anNJTTNSUVduOG9IbklCZmVSV29icDhSVFUwNmdtWmN0Y1FJR3dYdW8yVUQtNWFSZWtvdHlFOG1YUk0?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOY0hzd2ZuRW1JdDlacDVlQy1lWjY5U1FVcEt6c3ktbUdlMksxU2pJMWc3RVZfbFN4dlNzT0lmcEthSzdXNkJtWWpKQTQ1anNJTTNSUVduOG9IbklCZmVSV29icDhSVFUwNmdtWmN0Y1FJR3dYdW8yVUQtNWFSZWtvdHlFOG1YUk0?oc=5\" target=\"_blank\">多视角解锁新春归途上科技“新”变 智慧赋能为百姓",
-          "source": "搜狐网",
-          "pubDate": "2026-02-20T03:30:23+00:00",
           "tag": "technology",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "imageAttribution": "Google News"
@@ -1886,16 +1926,6 @@
           "imageAttribution": "Google News"
         },
         {
-          "title": "汇聚科技(01729)出现大手买入37.3万股，成交价$16.34，涉资609.482万 - AASTOCKS.com",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vNXZpUDdiN3B3U3h0NFBlbDNoa3MxNUhrTXNHYTFLVGlJVTRrY2w5bVgwYl82Q05rb1dSZTBSYmlzUElpblFuQ1NQSW5ySmdwSkxsendvb09fc3BYQkJXdGNXaEg2WTh5ckNwZk5HMmdlZw?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1vNXZpUDdiN3B3U3h0NFBlbDNoa3MxNUhrTXNHYTFLVGlJVTRrY2w5bVgwYl82Q05rb1dSZTBSYmlzUElpblFuQ1NQSW5ySmdwSkxsendvb09fc3BYQkJXdGNXaEg2WTh5ckNwZk5HMmdlZw?oc=5\" target=\"_blank\">汇聚科技(01729)出现大手买入37.3万股，成交价$16.34，涉资609.482万</a>&nbsp",
-          "source": "AASTOCKS.com",
-          "pubDate": "2026-02-20T03:20:34+00:00",
-          "tag": "technology",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
-        },
-        {
           "title": "新思科技 IP 专场(3.18北京，3.19深圳 席位有限 先报先得)！ - 电子工程专辑",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHUkZwQ3JpODN2ZnVzVlhBZkxpQmZQREdBajBvTnpLWHJzeE1jd0VkUy1CWFFBSjBIRDFwVlFJV19WcENHcVZEQzlJOTlaeWJFZ3ZB?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHUkZwQ3JpODN2ZnVzVlhBZkxpQmZQREdBajBvTnpLWHJzeE1jd0VkUy1CWFFBSjBIRDFwVlFJV19WcENHcVZEQzlJOTlaeWJFZ3ZB?oc=5\" target=\"_blank\">新思科技 IP 专场(3.18北京，3.19深圳 席位有限 先报先得)！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">电子工程专辑</font>",
@@ -1936,6 +1966,16 @@
           "imageAttribution": "Google News"
         },
         {
+          "title": "恒生科技走势分析_新浪新闻 - 手机新浪网",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rY21mT0kyb2UyNGlwd0diRHJYX2NrZVlKamx4eFdMYkdZbHlybExGUU9iazIxOVVTQW1TdGRwbm5HU2M5U0R0Vzc4NkNVVUZBRDdUREpiM3ZtOUJ6cGk5YWJlOA?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rY21mT0kyb2UyNGlwd0diRHJYX2NrZVlKamx4eFdMYkdZbHlybExGUU9iazIxOVVTQW1TdGRwbm5HU2M5U0R0Vzc4NkNVVUZBRDdUREpiM3ZtOUJ6cGk5YWJlOA?oc=5\" target=\"_blank\">恒生科技走势分析_新浪新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+          "source": "手机新浪网",
+          "pubDate": "2026-02-20T02:57:00+00:00",
+          "tag": "technology",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
           "title": "从\"港版纳斯达克\"到\"中国科技标杆\"，汇添富恒生科技C(013128)以软硬科技均衡捕获长期红利 - FX168财经",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13MWowVlRuWk8xUFdiQXVUamJabkR0ZkMxZ0JWa1ZSbFRKQUlYamItRW1EdE9oNDZRYzF4ZUdwdURuRGVQNm5LbnlvdWE5NXN4SXRCUThZZ05pWWQ1U0RxVjgzLXZyeDdXUDlr?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE13MWowVlRuWk8xUFdiQXVUamJabkR0ZkMxZ0JWa1ZSbFRKQUlYamItRW1EdE9oNDZRYzF4ZUdwdURuRGVQNm5LbnlvdWE5NXN4SXRCUThZZ05pWWQ1U0RxVjgzLXZyeDdXUDlr?oc=5\" target=\"_blank\">从\"港版纳斯达克\"到\"中国科技标杆\"，汇添富恒生科技C(013128)以软硬科技均衡捕获长期红利</a>&nbsp;&nbsp",
@@ -1946,21 +1986,11 @@
           "imageAttribution": "Google News"
         },
         {
-          "title": "（新春走基层·民企这一年）科技育种数字大棚，不一样的田间地头 - chinanews.com.cn",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sTUhzMFRac0lpWlhqVy15Unk2Nmt5NmZsMm9SeS1rUWNscnpwVFBaUFphMFRDN1VhZWd6UVRCWWN5VElrRGNpU2JUWlE2M0p6ckRoZnE2REdKWjBhcjhVS2xOa0IxaGdy?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sTUhzMFRac0lpWlhqVy15Unk2Nmt5NmZsMm9SeS1rUWNscnpwVFBaUFphMFRDN1VhZWd6UVRCWWN5VElrRGNpU2JUWlE2M0p6ckRoZnE2REdKWjBhcjhVS2xOa0IxaGdy?oc=5\" target=\"_blank\">（新春走基层·民企这一年）科技育种数字大棚，不一样的田间地头</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
-          "source": "chinanews.com.cn",
-          "pubDate": "2026-02-20T02:47:37+00:00",
-          "tag": "technology",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
-        },
-        {
-          "title": "海致科技集团(02706)继续破顶高位较招股价累升4.7倍财经新闻Financial News - AASTOCKS.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSzF4ckNKZ19QMjF4UkxoekNnMUpEMk43amdfMWcxZllfbmVOSmdrcFFMT2hxOHhJbXZZS1lDcXBJZHZpYVlmQjExckxldmhra2dLVEdxdUduZThLd1NkTE9KeHcwdkdGZWlNNzI4SXdweVJ2WlJzbW90RTNtTEp0dnRHUVRXaTk3?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSzF4ckNKZ19QMjF4UkxoekNnMUpEMk43amdfMWcxZllfbmVOSmdrcFFMT2hxOHhJbXZZS1lDcXBJZHZpYVlmQjExckxldmhra2dLVEdxdUduZThLd1NkTE9KeHcwdkdGZWlNNzI4SXdweVJ2WlJzbW90RTNtTEp0dnRHUVRXaTk3?oc=5\" target=\"_blank\">海致科技集团(02706)继续破顶高位较招股价",
-          "source": "AASTOCKS.com",
-          "pubDate": "2026-02-20T02:43:00+00:00",
+          "title": "多视角解锁新春归途上科技“新”变 智慧赋能为百姓团圆之路注入科技动能 - 央视网",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtR1dNMnZOajY2b09iQUFXYW54SjY4RTRaV1dPalBVekU1dy1vdFBGeDRqZ3FyX1pldlNnb2RacXVMNEJjMFVXVUN3bEpRTHNYVDZvNlJYVUpERFhIeEtuN0hZSXBjTmhLeVJ2XzJKbFZKX08tRzY4?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBtR1dNMnZOajY2b09iQUFXYW54SjY4RTRaV1dPalBVekU1dy1vdFBGeDRqZ3FyX1pldlNnb2RacXVMNEJjMFVXVUN3bEpRTHNYVDZvNlJYVUpERFhIeEtuN0hZSXBjTmhLeVJ2XzJKbFZKX08tRzY4?oc=5\" target=\"_blank\">多视角解锁新春归途上科技“新”变 智慧赋能为百姓团圆之路注入科技动能</a>&nbsp;&nb",
+          "source": "央视网",
+          "pubDate": "2026-02-20T02:39:01+00:00",
           "tag": "technology",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "imageAttribution": "Google News"
@@ -1976,11 +2006,11 @@
           "imageAttribution": "Google News"
         },
         {
-          "title": "科技赋能 首都城管队员为春节“年味儿”护航 - 搜狐网",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVWczWV9OamhodnJBZDV0aFJfcXlfYk9UbVZfQllObERCRVZWTjE0TFRSbldJSTRia2dBdHVkSUc2YTBTU1hId3Y5NXlfWTh1MmxieEFWRjJRejVLZy1fQTZJMVMyS0N1bTBXNENPaTUzYUoxMWs2VFhGcEJYTVpSaXEyWW1KanZKVHdR?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVWczWV9OamhodnJBZDV0aFJfcXlfYk9UbVZfQllObERCRVZWTjE0TFRSbldJSTRia2dBdHVkSUc2YTBTU1hId3Y5NXlfWTh1MmxieEFWRjJRejVLZy1fQTZJMVMyS0N1bTBXNENPaTUzYUoxMWs2VFhGcEJYTVpSaXEyWW1KanZKVHdR?oc=5\" target=\"_blank\">科技赋能 首都城管队员为春节“年味儿”",
-          "source": "搜狐网",
-          "pubDate": "2026-02-20T02:32:01+00:00",
+          "title": "（新春走基层·民企这一年）科技育种数字大棚，不一样的田间地头 - 新浪财经",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tUFlLb3JyalhYdEZJUUFIR2xrNnhzcWItWEFCRkNNbXZod1VPZGN2S3pMZVRGMFB1MFRrQmU0REQ0Y0VtckJTX0pJZFhzVGRUUDFvSUlzd2F0LUk0dFpkWXhPWml3eThWaHBGNno5QS02Q0ZjTW92MA?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE0tUFlLb3JyalhYdEZJUUFIR2xrNnhzcWItWEFCRkNNbXZod1VPZGN2S3pMZVRGMFB1MFRrQmU0REQ0Y0VtckJTX0pJZFhzVGRUUDFvSUlzd2F0LUk0dFpkWXhPWml3eThWaHBGNno5QS02Q0ZjTW92MA?oc=5\" target=\"_blank\">（新春走基层·民企这一年）科技育种数字大棚，不一样的田间地头</a>&nbsp;&nbsp",
+          "source": "新浪财经",
+          "pubDate": "2026-02-20T02:32:00+00:00",
           "tag": "technology",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "imageAttribution": "Google News"
@@ -2011,16 +2041,6 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNRkNNTFBWZEtfRlFDalRqQzY0OHJaSU5mUU4wbkxuYVBSaGNXSWRrSTdNdmJJSjRRMXdiMUhvYWlUcS0tNUV3YUpLbVB2UG5GNXkzcl9uSEFwS3lMY25oVU9NcWpPSENMV1ZBclZlejlTVWZObF8wRkZiOWl2NmVWMDFHVkZjRkxZZGtOaWhpVzVWSXlIeER2cw?oc=5\" target=\"_blank\">楠",
           "source": "新浪财经",
           "pubDate": "2026-02-20T02:23:45+00:00",
-          "tag": "technology",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
-        },
-        {
-          "title": "港股延续下跌，恒生科技指数跌超2％ - 搜狐网",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTDFGeDhWVjhHWklZUVR1cXBuc1V2RE9ZeHdpemFoVFJSNjBiNEFwYzJWNmIydkFkcXk0T01ITUUwdU9McGxZMkMtMllUUHk1eWtiN0w3SkdoZENrcURCNnRTdE04V1BUODdLRkNYREExY1RBZ0toa1hzNm43X09KYkJfSlBMNDRIdktZ?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTDFGeDhWVjhHWklZUVR1cXBuc1V2RE9ZeHdpemFoVFJSNjBiNEFwYzJWNmIydkFkcXk0T01ITUUwdU9McGxZMkMtMllUUHk1eWtiN0w3SkdoZENrcURCNnRTdE04V1BUODdLRkNYREExY1RBZ0toa1hzNm43X09KYkJfSlBMNDRIdktZ?oc=5\" target=\"_blank\">港股延续下跌，恒生科技指数跌超2％</",
-          "source": "搜狐网",
-          "pubDate": "2026-02-20T02:18:04+00:00",
           "tag": "technology",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "imageAttribution": "Google News"
@@ -2066,31 +2086,11 @@
           "imageAttribution": "Google News"
         },
         {
-          "title": "2500架无人机点亮丰都夜空 科技光影演绎祈福文化 - 搜狐网",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMzdHUTVHUl9uRlgweFRUbm1abFlYemx0blNfM05DZW9ISnJvY0xXR2prV2Z2LXZyWkpDU3BqSEVuaGRYRTR0NU15aWQ0Z1hkNzRWckR4TUpXU2pqdVVONDdzT3FmVVc1TFRFQ0MwUjl6bEQ0M0l0T1VEM21reW1XaXBFUnp0WFZidTZLTE5R?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPMzdHUTVHUl9uRlgweFRUbm1abFlYemx0blNfM05DZW9ISnJvY0xXR2prV2Z2LXZyWkpDU3BqSEVuaGRYRTR0NU15aWQ0Z1hkNzRWckR4TUpXU2pqdVVONDdzT3FmVVc1TFRFQ0MwUjl6bEQ0M0l0T1VEM21reW1XaXBFUnp0WFZidTZLTE5R?oc=5\" target=\"_blank\">2500架无人机点亮丰都夜空 ",
-          "source": "搜狐网",
-          "pubDate": "2026-02-20T02:04:15+00:00",
-          "tag": "technology",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
-        },
-        {
           "title": "港股存储概念股走强 澜起科技涨超7% - 东方财富",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54N213YXYzc2JmZ3BiU2dZYi1iNmQwUFBpZFJnQVNIUE9hT2VHQzlsd0RFMExkTkxMNHlVQnN3Q0JBbG0ta3JpQWMtUi1nSUh2dVpsNElhYWpSNmhnMlp3cw?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE54N213YXYzc2JmZ3BiU2dZYi1iNmQwUFBpZFJnQVNIUE9hT2VHQzlsd0RFMExkTkxMNHlVQnN3Q0JBbG0ta3JpQWMtUi1nSUh2dVpsNElhYWpSNmhnMlp3cw?oc=5\" target=\"_blank\">港股存储概念股走强 澜起科技涨超7%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
           "source": "东方财富",
           "pubDate": "2026-02-20T02:00:40+00:00",
-          "tag": "technology",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
-        },
-        {
-          "title": "“年俗文化+科技”各地举办特色活动感受别样年味 - 中华网",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pREdlLXcxOU5TR05fcUZGenQ5SkNZR1czUWdzQVItNDRQR0VsaFJoa2ZCSVJYLXU3ZWJMYmZUZ1QyTGd1Y2t0WE5lZFVza0QzV1VRWXU0V2dyUWU4NnN6Z2JaMl81TlhNV0E?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9pREdlLXcxOU5TR05fcUZGenQ5SkNZR1czUWdzQVItNDRQR0VsaFJoa2ZCSVJYLXU3ZWJMYmZUZ1QyTGd1Y2t0WE5lZFVza0QzV1VRWXU0V2dyUWU4NnN6Z2JaMl81TlhNV0E?oc=5\" target=\"_blank\">“年俗文化+科技”各地举办特色活动感受别样年味</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中华网",
-          "source": "中华网",
-          "pubDate": "2026-02-20T01:53:49+00:00",
           "tag": "technology",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "imageAttribution": "Google News"
@@ -3064,16 +3064,6 @@
           "imageAttribution": "Google News"
         },
         {
-          "title": "游戏一打开就让你小心癫痫，真的有必要吗？ - 风闻",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVMFNYZUhRQkkyR1RIbC1qVHZJUG9WcU1hem1rdWRwQTNrZFBFYVV0ekwxX3MtNmxZVjRXdVZyMmlCOXdtMGh1bGdmTmNKcUowR3VhbFdTV2tUVGs?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVMFNYZUhRQkkyR1RIbC1qVHZJUG9WcU1hem1rdWRwQTNrZFBFYVV0ekwxX3MtNmxZVjRXdVZyMmlCOXdtMGh1bGdmTmNKcUowR3VhbFdTV2tUVGs?oc=5\" target=\"_blank\">游戏一打开就让你小心癫痫，真的有必要吗？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">风闻</font>",
-          "source": "风闻",
-          "pubDate": "2026-02-20T02:37:30+00:00",
-          "tag": "gaming",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
-        },
-        {
           "title": "RPG 游戏《仁王 3》发售两周销量破百万，系列总销量突破千万大关 - 新浪财经",
           "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRVRmVE5sUDVMajRMeDhNanFGUUpfT0dwa0JzTlp1UkVyMTJVNEtIcnFXX2FvSnpYdmZONUFzOGRodUZ3SW9TTTJfQUpiSVFBZG44THUtXzVHMjVLRHRIR1V1c1l4b2duOXE0Z3liSjFBeDFhdjNtaEZZWHR0Y1FoS3Rzd2tKMG0ydU1yN2l3SVB3Q29Mb1BOV0tPWVJEQldWYWdJTlVyT1JXX0hmejVFdE9PVEs1eFRtOTh0UDctb3dmZnNqbVc2dnlkSGJDTWRKWVV4RzVXRjJBdERhYmZEYkEteU5MSU05N1pyellCUlRfVEl2c2JJQkVuMWdXeHM?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRVRmVE5sUDVMajRMeDhNanFGUUpfT0dwa0JzTlp1UkVyMTJVNEtIcnFXX2FvSnpYdmZONUFzOGRodUZ3SW9TTTJfQUpiSVFBZG44THUtXzVHMjVLRHRIR1V1c1l4b2duOXE0Z3liSjFBeDFhdjNtaEZZWHR0Y1FoS3Rzd2tKMG0ydU1yN2l3SVB3Q29Mb1BOV0tPWVJEQldWYWdJTlVyT1JXX0",
@@ -3099,6 +3089,16 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVHhVMFNLX0pna01CXzlTRFBaNXFHQm5qZ3dJTlFHd1hiM1NjTWlkQnlyMWxESFJ5Ty1kUm1qay02SnEtRWtvSDNoa05YeGhiOHFORUtiQmJfRDBHdmtRbXRxUENwLXJPNkR4TXdCT1dWTk9uN0JKR0ZXaGh0cWZ2OFN4QXg3V0FMSTBudkU1Ykc4VVpBWUpYRk9NQ2pjc083UU90THNzbVZ5X2",
           "source": "新浪财经",
           "pubDate": "2026-02-20T02:07:41+00:00",
+          "tag": "gaming",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
+          "title": "电子游戏正在输掉吸引力大战 不敌博彩和成人内容 - 3DM",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55V0dLSFE2UFdaNUdCMFRwOUxtVUtBRl9xWXVQQTlVTzN0bUJzRmdZZm1FS3huVkVFNk50UjNUdjdZTlN6VFZLOHU3bVFNTmRwbnNiUUVWczhIVXY2?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE55V0dLSFE2UFdaNUdCMFRwOUxtVUtBRl9xWXVQQTlVTzN0bUJzRmdZZm1FS3huVkVFNk50UjNUdjdZTlN6VFZLOHU3bVFNTmRwbnNiUUVWczhIVXY2?oc=5\" target=\"_blank\">电子游戏正在输掉吸引力大战 不敌博彩和成人内容</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DM</font>",
+          "source": "3DM",
+          "pubDate": "2026-02-20T01:47:31+00:00",
           "tag": "gaming",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "imageAttribution": "Google News"
@@ -3139,6 +3139,16 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ocEtoNW5JaWJYSjFrdVJ0bmFBYml3ZmNzbjlwWVFIbk1qYkJWMEhyNlVhcFZmQUNOZU5namJmM3owZ0FtTUNHR1E2X2pBakxsWVdsM1VVZU0wRm1RU3c?oc=5\" target=\"_blank\">沪游观察｜创始人口述②外包工作室如何成为客户信赖的自己人</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thepaper.cn</f",
           "source": "thepaper.cn",
           "pubDate": "2026-02-20T00:10:00+00:00",
+          "tag": "gaming",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
+          "title": "高能，有呆萌年兽！玩游戏赢现金大奖+积分好礼>> - 广西新闻网",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OQWRQQnZvdnFwaGVYMGdmMmhNN0huelNQaC1UVi1LcDJHOTlGejQyTzRyYnZUTDZjM1lYQVRHbTU5QXFNQXJtQ2NUczNWMHlRUWVNMVdrVS0zRElNVVNqTTFyY19fRUh2QldqcGRwN0Z3SjdkQTg1dC1adm81TWs?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5OQWRQQnZvdnFwaGVYMGdmMmhNN0huelNQaC1UVi1LcDJHOTlGejQyTzRyYnZUTDZjM1lYQVRHbTU5QXFNQXJtQ2NUczNWMHlRUWVNMVdrVS0zRElNVVNqTTFyY19fRUh2QldqcGRwN0Z3SjdkQTg1dC1adm81TWs?oc=5\" target=\"_blank\">高能，有呆萌年兽！玩游戏赢现金大奖+积分好礼>></a>&nbsp;&n",
+          "source": "广西新闻网",
+          "pubDate": "2026-02-20T00:00:00+00:00",
           "tag": "gaming",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "imageAttribution": "Google News"
@@ -3274,6 +3284,16 @@
           "imageAttribution": "Google News"
         },
         {
+          "title": "游戏一打开就让你小心癫痫 真的有必要吗？ - 驱动之家",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52RndJd0VQN2RFakRhWUZJRE5xRVFWR0RNX0VrNUxQNDVjNnRTMklac2Zwa0RyVlZfUTI3U215M0FOVjhFaXFDYTZKU2ZCNXhjcW03Q0lSdGs?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE52RndJd0VQN2RFakRhWUZJRE5xRVFWR0RNX0VrNUxQNDVjNnRTMklac2Zwa0RyVlZfUTI3U215M0FOVjhFaXFDYTZKU2ZCNXhjcW03Q0lSdGs?oc=5\" target=\"_blank\">游戏一打开就让你小心癫痫 真的有必要吗？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">驱动之家</font>",
+          "source": "驱动之家",
+          "pubDate": "2026-02-19T16:04:00+00:00",
+          "tag": "gaming",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
           "title": "北宋风韵邂逅广府烟火，看这款游戏如何助力“数字新广货”出海→ - nfnews.com",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ud25KcWZJMm9rZi14eVpIUDMxWXMxYXlud1djRFEwV04yRGx0Q29IRnpGdWRJcGNtREhSeFdsUDdsUldzMHVndVh3V3BnWllnYUIzTUd2TjdQQQ?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ud25KcWZJMm9rZi14eVpIUDMxWXMxYXlud1djRFEwV04yRGx0Q29IRnpGdWRJcGNtREhSeFdsUDdsUldzMHVndVh3V3BnWllnYUIzTUd2TjdQQQ?oc=5\" target=\"_blank\">北宋风韵邂逅广府烟火，看这款游戏如何助力“数字新广货”出海→</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nfnews.com</font>",
@@ -3302,26 +3322,6 @@
           "tag": "gaming",
           "imageUrl": "",
           "imageAttribution": ""
-        },
-        {
-          "title": "冬海与谷歌深化合作以AI驱动创新 包括游戏 - Zaobao",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ldnhqSmtjTTRPM0MwR0VLSVlyOUIwc2EyTGg0Z2g5NmNmd1NXOFd1ZG9TcXZYeTJLQzFYbDhsczJJUF9iZmE4Q3V5SXdwdjhyVFktOGVjSlpoRHROczAtX0pjTHlfSG5lY18ybVNIOA?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1ldnhqSmtjTTRPM0MwR0VLSVlyOUIwc2EyTGg0Z2g5NmNmd1NXOFd1ZG9TcXZYeTJLQzFYbDhsczJJUF9iZmE4Q3V5SXdwdjhyVFktOGVjSlpoRHROczAtX0pjTHlfSG5lY18ybVNIOA?oc=5\" target=\"_blank\">冬海与谷歌深化合作以AI驱动创新 包括游戏</a>&nbsp;&nbsp;<font color=\"#6f6f6f",
-          "source": "Zaobao",
-          "pubDate": "2026-02-19T09:45:00+00:00",
-          "tag": "gaming",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
-        },
-        {
-          "title": "索尼新专利曝光：PS6有望实现PS1至PS3游戏原生兼容，解决Cell架构难题 - 新浪财经",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZVU5jcFM0UWVucDhzMXRyY05zMnM2YTZ0Yk9oeTJRM2o3VUJmbEhtc0l2aXJoaW9pSVc2am9INy1KUGJWTFcwaTNxS1FjT3VLNTNSbGt4Vm5oYllqLWNma3k5WGFRa2ZrWTRtaS1VaThWM0tZZlducg?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZVU5jcFM0UWVucDhzMXRyY05zMnM2YTZ0Yk9oeTJRM2o3VUJmbEhtc0l2aXJoaW9pSVc2am9INy1KUGJWTFcwaTNxS1FjT3VLNTNSbGt4Vm5oYllqLWNma3k5WGFRa2ZrWTRtaS1VaThWM0tZZlducg?oc=5\" target=\"_blank\">索尼新专利曝光：PS6有望实现PS1至PS3游戏原生兼容，解决Cell架构难题</a>&n",
-          "source": "新浪财经",
-          "pubDate": "2026-02-19T07:02:00+00:00",
-          "tag": "gaming",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
         }
       ],
       "sports": [
@@ -6046,6 +6046,16 @@
       ],
       "ai": [
         {
+          "title": "AI in development cooperation: Kofler warns of widening digital divide - Table.Briefings",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pb2ViNS1zTDZtMGpocGxESUl2N09fNEdDYkdoTTVOSXNGV3hwN2o5eTJzR0dDb0wzZ3Y5ZlJtcTRnTXlaVWtHWEVfSTFXYWFWRlVUVDlZZFRFYVZkNVZWYy1rS2tneDFWbVFr?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5pb2ViNS1zTDZtMGpocGxESUl2N09fNEdDYkdoTTVOSXNGV3hwN2o5eTJzR0dDb0wzZ3Y5ZlJtcTRnTXlaVWtHWEVfSTFXYWFWRlVUVDlZZFRFYVZkNVZWYy1rS2tneDFWbVFr?oc=5\" target=\"_blank\">AI in development cooperation: Kofler warns of widening digital",
+          "source": "Table.Briefings",
+          "pubDate": "2026-02-20T04:26:00+00:00",
+          "tag": "ai",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
           "title": "Modi pitches India as an artificial intelligence hub at the AI summit - AP News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjg5WmJxWWMtRGZ3M1Z2Zm8wS1E5YXY2a2Y0aHNqeTZ5X2F5ald1Q2FXMlR0TVZ0d1lCS1NNLVF3UGUwc2x0VFhweGFJZ0NRSHJ4NUN6NlVacUh5LXR5RFdHU1pzSkd1RnFjTVp6OTR6VnFhTnMtVzViTGNsdHpNS0JhV0x6VE9zMHk3MFdiQXVPa0hVSWpxTFo4S1E0bzlSVVB1RHJhVQ?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjg5WmJxWWMtRGZ3M1Z2Zm8wS1E5YXY2a2Y0aHNqeTZ5X2F5ald1Q2FXMlR0TVZ0d1lCS1NNLVF3UGUwc2x0VFhweGFJZ0NRSHJ4NUN6NlVacUh5LXR5RFdHU1pzSkd1RnFjTVp6OTR6VnFhTnMtVzViTGNsdHpNS0JhV0x6VE9zMHk3MFdiQXVPa0hVSWpxTFo4S1E0bzlSVVB1RHJhVQ?oc=",
@@ -6147,8 +6157,8 @@
         },
         {
           "title": "Fed’s Daly Says Policy ‘In a Good Place’ as Officials Assess AI’s Effect on Economy - The Wall Street Journal",
-          "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxPRGU5R3FwdVI5cHRmQnNRTU9LcWFLZGVrMXlXanVGdDJVbUdXeVB6ME11bnZ0RE1jTDJtcUgzbWNTbGp2UVA0YTZsZFBDQ2NjaHloZjFVQWxzVVMzWVVhMnhCeE12S3dwSkRFWVlYdjhWaHNZY1RBRWM0VkpWMm5hdTNrNlk3czJ1clVSSkxJdmcwWkhiZmp2V1BBR3FRdmZhQTBwVF9tWnBrcmY3NWlVYmVEeDlNT3dOUWlXaG9mRkx3dEgzaHRfMzZBZVFqblJKa05SaDY0VjY0ZUJMX0pMR1dCSVdiTTRVMXdIUzgtZFhpX0l5V0huLVpUVjljX3lUdU5CM2t5bjZYcmxLVmY2aGhFT0lkemRPSTdxSWdrUjYxZFpRMGZ0dUlVZWVsSk5abU1ZZnAzMXZBTjdkZ083bUw1WXpucmpEQTIyWTNNS25mQVpSSkduQ0hJQ3NpMF8tUDhHQkNtOGlNVkRGRzN6T2N5eW9QeEpjbV9XbkxFRWVJLWhuUUwxdi1EblZfRFVsdE1YSHNZOERVMXd6X0JnSk51cVpVSXBiTThZVmFncjRBeFJubzRsVzl5cG5POUVzd19fbU5hSFpEWlNkdWNEMVBB?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gNBVV95cUxPRGU5R3FwdVI5cHRmQnNRTU9LcWFLZGVrMXlXanVGdDJVbUdXeVB6ME11bnZ0RE1jTDJtcUgzbWNTbGp2UVA0YTZsZFBDQ2NjaHloZjFVQWxzVVMzWVVhMnhCeE12S3dwSkRFWVlYdjhWaHNZY1RBRWM0VkpWMm5hdTNrNlk3czJ1clVSSkxJdmcwWkhiZmp2V1BBR3FRdmZhQTBwVF9tWnBrcm",
+          "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNRnlCckRfSnE5X0JwdF9lUmozQnZRR0xUTlVYbmlGQUhWUVFtaU56Tl9KS1lnR2xpR3NSQUcySUVlTjN0WFE5ck1YUVFGSjFiZWV2X0Uxa3lNcHNMTVFiXzE5UGlpTDJRUkMwMFpYa0xpSlVoN19YREJzb3hVNV9hWlNlWHNoRWp3ektMMjBLQWRSV2lNQXJDcHlyRnFVcDY1eHRxZGY3Nk96Y0g3V1RoRUxPUG44LWpOeDF0ZUdWM0VQZU54dGVkV1MyTmZ2c2lweTdOZXU3bUZUMEVHZTcwNzYxdE9sRjdBeVBveUhCaTRLYkNkZXpIRk1KRmNCdW00REFBREs1WEV0WEE2Q2JQNmx6YldYb2ZNcEp0dm5QcURibUFZeWNfZEtTV29Cc1dCZlhlRG5FbXBySm1CZXhIQmx0b0ZGVElmWk0yd0s5RTF5YkFvN0xUa1o5dHNrRGNkUThqVHB1T21xcWs2dUY1eXlTcm90Wm9pVlNMMUZQUURUZXN2ZmJyM2tVZmhocC1NQWdFMlVRZmlCbHQxX3MzQ0JaeVlhRUVqUXFldThTTWp1WVJyRV91cmhfdUZUZnBHelBrZTFlWVllajE2OFl4WUdB?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMi0gNBVV95cUxNRnlCckRfSnE5X0JwdF9lUmozQnZRR0xUTlVYbmlGQUhWUVFtaU56Tl9KS1lnR2xpR3NSQUcySUVlTjN0WFE5ck1YUVFGSjFiZWV2X0Uxa3lNcHNMTVFiXzE5UGlpTDJRUkMwMFpYa0xpSlVoN19YREJzb3hVNV9hWlNlWHNoRWp3ektMMjBLQWRSV2lNQXJDcHlyRnFVcDY1eHRxZGY3Nk96Y0",
           "source": "The Wall Street Journal",
           "pubDate": "2026-02-20T01:05:37+00:00",
           "tag": "ai",
@@ -6176,10 +6186,10 @@
           "imageAttribution": "Google News"
         },
         {
-          "title": "Study shows AI technology helps doctors detect severe heart attacks faster, more accurately - WCPO 9 Cincinnati",
+          "title": "Study shows AI technology helps doctors detect severe heart attacks faster, more accurately - WCPO 9 News",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOFpESkxoMlhpZzcwY09kekJzNFhwV3lHbzhNck9qYUxyZFZpZWplb1pFM0otY2N6ajNxaE82Tmt0dEJNd0dXT2VYa0VwVUdQZTVnYUZKMEVJOHkzX3pYLW01dzJwSTJJZ1JNRTFXLV9mb0FnRDdfWEp0aXJHaE44amhEU2dDM012T1lrNjFuZmtqRzI1c2FuUF9aZGI4M3YtZnJmUkFoQWNpdURQN2s2amEzSDRBU0FweUpQOW9paGFRS2FoQk90UFl0SlU2ZUpyTnRSM0lVVmtSN3RnRkE?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOFpESkxoMlhpZzcwY09kekJzNFhwV3lHbzhNck9qYUxyZFZpZWplb1pFM0otY2N6ajNxaE82Tmt0dEJNd0dXT2VYa0VwVUdQZTVnYUZKMEVJOHkzX3pYLW01dzJwSTJJZ1JNRTFXLV9mb0FnRDdfWEp0aXJHaE44amhEU2dDM012T1lrNjFuZmtqRzI1c2FuUF9aZGI4M3YtZnJmUkFoQWNpdU",
-          "source": "WCPO 9 Cincinnati",
+          "source": "WCPO 9 News",
           "pubDate": "2026-02-20T00:38:20+00:00",
           "tag": "ai",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -6191,6 +6201,16 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNMlhCWUNVam9fb2dQZGN5X3RhdDNVUVRvSmdQeklyeU9YWUxGeVpETWEwS3k2R0I3QncyMVY4SGc4cGdTV01QTTgycFlrRWxSWWZnemU2bFNOTUFwQ2lHMXRPdVJld0NXb0tGcjBGQ3ZnOW0wRVBfUXhmemFtd0RrdDlZUUJLLTDSAYcBQVVfeXFMTTJYQllDVWpvX29nUGRjeV90YXQzVVFUb0",
           "source": "Newswise",
           "pubDate": "2026-02-20T00:35:00+00:00",
+          "tag": "ai",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
+          "title": "'A Big F*ck You to Big Tech': New Jersey Residents Defeat AI Data Center - Common Dreams",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zYUowUXg5SEtMbHdlMG1DbFhId0ZYYmZURzNPWTZCUGZEejRseWVzbHlPRi02eUFmWi1POGhZUmphS1ZZRmQ5UTdZVTJfRHYzUk83eVpnTkU5ZU1zNEE4N1p4ZkVObG5fZ2lJV19fYw?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9zYUowUXg5SEtMbHdlMG1DbFhId0ZYYmZURzNPWTZCUGZEejRseWVzbHlPRi02eUFmWi1POGhZUmphS1ZZRmQ5UTdZVTJfRHYzUk83eVpnTkU5ZU1zNEE4N1p4ZkVObG5fZ2lJV19fYw?oc=5\" target=\"_blank\">'A Big F*ck You to Big Tech': New Jersey Residents Defeat",
+          "source": "Common Dreams",
+          "pubDate": "2026-02-20T00:27:19+00:00",
           "tag": "ai",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "imageAttribution": "Google News"
@@ -6317,30 +6337,10 @@
         },
         {
           "title": "Opinion | H-1B Visas and the AI Race - The Wall Street Journal",
-          "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPTmU0S3VHdEdXdVZRcXM5REJuTkJPY2tKVFk5clRrUDVKd095d1JwSlpONzhJN3BPU2FiaGtyUnY0QmVZejdoWFZwX1RjdERCcEMtZGdKTnVOLUVqTlRkN3U0VE83Nk1tTVNpOU9tN25WS1NqdWFsRVl5SVBzMGU4c0ZyakRnRGtmcTFnMFJNQmliZEwteUNXaFpJNkxEZk44M3pvemlFMHI0cUwzSFNlRVJHOHFfeEZOZGdyM0tiVjBsdnFYUUdXZUlLT3NBdkRCUlVMbUlId1UzaTdEckY5eVdoSjQ3M3dJX2NUYWxjVFZMdFZYdmoyX1RRdl82REdGd01iamhTU1VhNGZhdm1XclVsNUtoa0pfWUY4Q0JFeXhwSzJ3a2tQYmpudWx0bkNqdVhGQ1dLajVDQzZpRmlHLW9GejUxb0xBd2xrSmhHd1cwRXp2WXJfUmlJRFl1VFg3a2hRWkFDaTNwSEFWOElGUlRpakNSZzR2U2lZLXdpLURwdmRYXzZsaGVNUzRNWnVlVktadzB0MW04cXFOM0pSbVlFYmJYUWxvTXk5N2RxOGVtdw?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMisgNBVV95cUxPTmU0S3VHdEdXdVZRcXM5REJuTkJPY2tKVFk5clRrUDVKd095d1JwSlpONzhJN3BPU2FiaGtyUnY0QmVZejdoWFZwX1RjdERCcEMtZGdKTnVOLUVqTlRkN3U0VE83Nk1tTVNpOU9tN25WS1NqdWFsRVl5SVBzMGU4c0ZyakRnRGtmcTFnMFJNQmliZEwteUNXaFpJNkxEZk44M3pvemlFMHI0cU",
+          "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQNTdDRU4tcEpLbEVoZ1VLckg3M21rRHphczkwV2txMjNQdUJ3clJMT3VKcm51ZWl3U3J1UFBQeXhiYWJCcE0zXzZNZkc2WHVHMFp5b3h4Tkl4NmJuYkt4UTF4cmc4ZDJOemVvbmM0eVhmSXdVYzJMNVRsUV9lUkRFMnIzYWplcVI5dWM3RW51cmwyaDZNOE1oOWJPTUtUM1VxSk00VDNSOEFOY0xvSlRoT3p2M2NiY0w2QjlpRUdCb1ByX1pDSWZoVTc5ZmNIQmZJRUhtY3Fhck5UT1B1QURmTzVqSUZNeFBTZ0ktcUpfUWpON1BZZkNJS1Nhck1mMF9tT2ZzYWFQY1dSRTl1RF9OVk5odzhRcGZ0NENkZjB5dGFLWkVKbWtpYWZRV1pLWnNFNkVndDMxNFhOaG5hN09sQ2YtMWpwRkhsM1daQURySC1LSW52Q3RFQzQyMGp6dm04Nkh6TW1hVWp2MGd3NllhazREMGtwczFGcEpjTGNzaUNKbllLLW11TERySVdKWU1nSVF0eHpreU93QnlCdVZvZXE0X3R2SUhRRDhnZ2cxaVdCUQ?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMisgNBVV95cUxQNTdDRU4tcEpLbEVoZ1VLckg3M21rRHphczkwV2txMjNQdUJ3clJMT3VKcm51ZWl3U3J1UFBQeXhiYWJCcE0zXzZNZkc2WHVHMFp5b3h4Tkl4NmJuYkt4UTF4cmc4ZDJOemVvbmM0eVhmSXdVYzJMNVRsUV9lUkRFMnIzYWplcVI5dWM3RW51cmwyaDZNOE1oOWJPTUtUM1VxSk00VDNSOEFOY0",
           "source": "The Wall Street Journal",
           "pubDate": "2026-02-19T22:44:00+00:00",
-          "tag": "ai",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
-        },
-        {
-          "title": "Targeted AI adoption can drive change, current and former officials say - Nextgov/FCW",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNFhjS093MWdFd2g5ZExTdkJkZFdRbGRUS2hab2N4Rl9XSnF0WFZwbmZTWXlvQkh2UXhRTU44MmZucEVEUWFCWjhrRWRVR2pNcFA5TFJUQkdZT1lkWk9OTEdsR1VDZ1BtRjBOMVBRd016MHlBOXFVV05adVVhbWJrS1VGMWFHVXdXbzQ3cGRJNmRXejF5MHk0XzY5VFFBNU5vWGdLOUxtZzRYNER5OU5raGRQLUVaTjVfSi0tQlpMUTVSLVZUTnRPT1p0ZWpkam1YNmhFU0RIRDd3SnNPN2Z6RGZpbHd3d3ZGaVlmSFh3?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNFhjS093MWdFd2g5ZExTdkJkZFdRbGRUS2hab2N4Rl9XSnF0WFZwbmZTWXlvQkh2UXhRTU44MmZucEVEUWFCWjhrRWRVR2pNcFA5TFJUQkdZT1lkWk9OTEdsR1VDZ1BtRjBOMVBRd016MHlBOXFVV05adVVhbWJrS1VGMWFHVXdXbzQ3cGRJNmRXejF5MHk0XzY5VFFBNU5vWGdLOUxtZzRYNE",
-          "source": "Nextgov/FCW",
-          "pubDate": "2026-02-19T22:07:00+00:00",
-          "tag": "ai",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
-        },
-        {
-          "title": "3 No-Brainer AI Stocks to Buy Right Now - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVFl1MjNzOVJkNFNaZzlNTGZtcV9aMTBzcS03NTdGOHF4TlZiejVZT3BpYWE5cFUwT0tUR0IzQWZpVHRwaGd3LS16X2YzUHZDcWJGOXZCWjZ6ZnYtdFMxRm1JNDRvTXl1RF84UHpUSFVZVElpcGc0aVA2dFFWS3BpRzNmaWhwWE1NY1E?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOVFl1MjNzOVJkNFNaZzlNTGZtcV9aMTBzcS03NTdGOHF4TlZiejVZT3BpYWE5cFUwT0tUR0IzQWZpVHRwaGd3LS16X2YzUHZDcWJGOXZCWjZ6ZnYtdFMxRm1JNDRvTXl1RF84UHpUSFVZVElpcGc0aVA2dFFWS3BpRzNmaWhwWE1NY1E?oc=5\" target=\"_blank\">3 No-Brainer AI Stoc",
-          "source": "The Motley Fool",
-          "pubDate": "2026-02-19T22:00:00+00:00",
           "tag": "ai",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "imageAttribution": "Google News"
@@ -7888,7 +7888,7 @@
           "imageAttribution": "News Source"
         },
         {
-          "title": "Roblox Hit With Multimillion-Dollar Suit By LA County Claiming Gaming Platform Leaves “Children Easy Prey For Pedophiles” - Deadline",
+          "title": "Roblox Hit With Multimillion-Dollar Suit By L.A. County Claiming Gaming Platform Leaves “Children Easy Prey For Pedophiles” - Deadline",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSDlYTXJpRmwxYk1GRWNfOF9sTm5Jc0E4dnVwTUNqdjMyX0NCYzhYTGtVb0lKcE9OckpIWVhSSjJXY1ZYYTJoeTJHSm10Wmx2aXdhOVdzZ0haY2N6UGxsVXlOOXhyUDlzbUNvSlhPVjFLOGxKNGJRWnZmZjFzck55M3B3?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNSDlYTXJpRmwxYk1GRWNfOF9sTm5Jc0E4dnVwTUNqdjMyX0NCYzhYTGtVb0lKcE9OckpIWVhSSjJXY1ZYYTJoeTJHSm10Wmx2aXdhOVdzZ0haY2N6UGxsVXlOOXhyUDlzbUNvSlhPVjFLOGxKNGJRWnZmZjFzck55M3B3?oc=5\" target=\"_blank\">Roblox Hit With Multimillion-Do",
           "source": "Deadline",
@@ -7926,6 +7926,16 @@
           "tag": "video",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/604d/live/7a842360-0dc3-11f1-b5e2-dd58fc65f0f6.jpg",
           "imageAttribution": "News Source"
+        },
+        {
+          "title": "VidSpotAI Launches AI Video Platform Supporting Multi-Model Generation and Extended-Length Content - markets.businessinsider.com",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM0Z3MkswcU91WGdyN09vUUlqc1pUWlJaRnJFRXk1LU1OcHZlTk5ROEtQelpDcUFZemEtLXNiNDRpODd2YVNJVkt0Vl9jbG5JRmZxQ0E5NmtHZkZ4N3laMXhYckl1ODF0dXliaGlDLVQzWXZhOU5CX05iNTVCNjdVMi01UDFaWV8wNnY1Y3ZaVC1CNmdXb0VMTTVSMUdGOU53MldWLVl1bVFBbkNBM1BJQVh1Y08zZnRUVk8zZkc3S2tPU3ZvTWxKcDdMTHp1QWEtd1NWRGFHSEJJNm9ON253NDBNc3ByTGV2MzRlQmVn?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM0Z3MkswcU91WGdyN09vUUlqc1pUWlJaRnJFRXk1LU1OcHZlTk5ROEtQelpDcUFZemEtLXNiNDRpODd2YVNJVkt0Vl9jbG5JRmZxQ0E5NmtHZkZ4N3laMXhYckl1ODF0dXliaGlDLVQzWXZhOU5CX05iNTVCNjdVMi01UDFaWV8wNnY1Y3ZaVC1CNmdXb0VMTTVSMUdGOU53MldWLVl1bVFBbk",
+          "source": "markets.businessinsider.com",
+          "pubDate": "2026-02-19T18:12:17+00:00",
+          "tag": "video",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
         },
         {
           "title": "Acquiring an early YouTube watch page and its first-ever video - Victoria and Albert Museum",
@@ -8088,6 +8098,16 @@
           "imageAttribution": "Google News"
         },
         {
+          "title": "YouTube down? Users report disruptions on video platform; netizens ask ‘how am I supposed to have dinner’ - MSN",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOLVRUbXkyb2Mtc1FuRlNMa1VUYjNiSjMtSGg1M3loRy04OGc0cWFYLW5ZRHJQV1RGckZQaGFZLTZHZnNjU1RFcEtvc3p3WS13Z1JsUnhlWlZVMzA3YS05aEM4VzdfSlFGZFZTSTBLaTV6bEZJUzRtU1ZtMnBmZjcxdExWMF9vcjdiUzdPS1lSdWhyNGM4NU5mYko2dGdNdzBkbHBZcGpWeFd6V0tEZmNubWhmV3Q1MVlTTVBDNkpMdHcyTVo5em1YLVh6NGJ3UlY1VmdraGQzZWp4bC1VcmJ2dzJ6MkFCQmVqc0NLQ19zNFo3amJJ?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOLVRUbXkyb2Mtc1FuRlNMa1VUYjNiSjMtSGg1M3loRy04OGc0cWFYLW5ZRHJQV1RGckZQaGFZLTZHZnNjU1RFcEtvc3p3WS13Z1JsUnhlWlZVMzA3YS05aEM4VzdfSlFGZFZTSTBLaTV6bEZJUzRtU1ZtMnBmZjcxdExWMF9vcjdiUzdPS1lSdWhyNGM4NU5mYko2dGdNdzBkbHBZcGpWeFd6V0",
+          "source": "MSN",
+          "pubDate": "2026-02-19T01:13:57+00:00",
+          "tag": "video",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
           "title": "PixelPanda Launches AI Platform for Ecommerce Product Photography and UGC Video Creation - USA Today",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWk5ORldwYjB3YW9CTkViSzBKQml2bjEyaEtoVEVVcUdTOVQwc1hlSm5LMmV6R3U0cWdudnJuOGVZbDBUWFpQVGRmR2R2UXpyeHVEdHpQYmR1RldoV3dOY0QzQ3NWemtkamNhcE4tblJyUTFyVGItb1E3TDNLdm9GVXl3c1A2RmxBTXZfUV8tMkxHU1N0ajRlbFM4Z0pndnlua1ZlMnN6ODlwYWpkQ0x3cWNRbnkyOXVYSGVwSlpPT2g5cDA4VjB1WGxLNk1nY1U5SU51eHFKQQ?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWk5ORldwYjB3YW9CTkViSzBKQml2bjEyaEtoVEVVcUdTOVQwc1hlSm5LMmV6R3U0cWdudnJuOGVZbDBUWFpQVGRmR2R2UXpyeHVEdHpQYmR1RldoV3dOY0QzQ3NWemtkamNhcE4tblJyUTFyVGItb1E3TDNLdm9GVXl3c1A2RmxBTXZfUV8tMkxHU1N0ajRlbFM4Z0pndnlua1ZlMnN6ODlwYW",
@@ -8136,26 +8156,6 @@
           "tag": "video",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "imageAttribution": "Google News"
-        },
-        {
-          "title": "YouTube outage cause revealed: Here's what we know - Mashable",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZlV0VURIcy1kUGg1aEt4RUdQSzVKZVh0ZTk4QVFpOGM2TllwODdkMTF6WDQ0WHN1b1RzaHN4Mld2ODBNamZzSDN6N3BtU3R4T2pEVklrZjBjbFAzdUQ3aFdLUGJpQU9tLVduQXprOHJPM0Q2Ml9UNVlpSWtQMGhILThn?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPZlV0VURIcy1kUGg1aEt4RUdQSzVKZVh0ZTk4QVFpOGM2TllwODdkMTF6WDQ0WHN1b1RzaHN4Mld2ODBNamZzSDN6N3BtU3R4T2pEVklrZjBjbFAzdUQ3aFdLUGJpQU9tLVduQXprOHJPM0Q2Ml9UNVlpSWtQMGhILThn?oc=5\" target=\"_blank\">YouTube outage cause revealed: ",
-          "source": "Mashable",
-          "pubDate": "2026-02-18T16:39:47+00:00",
-          "tag": "video",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
-        },
-        {
-          "title": "'I would sell a lung for a Hannah Montana tour': Fans react to 20th anniversary special announcement",
-          "link": "https://www.bbc.com/news/articles/c0k1xjm7463o?at_medium=RSS&at_campaign=rss",
-          "description": "Fans are gearing up for the \"Hannahversary\" - a special to mark the show's 20th anniversary.",
-          "source": "News Source",
-          "pubDate": "2026-02-18T15:32:17+00:00",
-          "tag": "video",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d007/live/3200d7d0-0cc6-11f1-8eb2-b590a831a663.jpg",
-          "imageAttribution": "News Source"
         }
       ],
       "movie": [
@@ -8522,10 +8522,10 @@
           "imageAttribution": "Google News"
         },
         {
-          "title": "Win Today - Beam Boys Song Parody (Official Music Video) - Sactown Sports",
+          "title": "Win Today - Beam Boys Song Parody (Official Music Video) - Sactown Sports 1140 AM",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWtLNHJKR1hyUFBVQnRYZi1ENXNWaEVPOUxiY29nSUJ6NkUxVjZGLVFaM0tJdEozUEdLXzFmbGI3SW9OcmZDYXRJNmdKeFI1MFliSkNNeER1aGdsWnRwcU16UWZMczlyeWc2eXpPUGcwQ3JONWlpWlg3Vm5mUDVHM1VlaHZ4QnZwdndOTkVYUUFiWWRKNjJZN0lMcHVnbFhuUzBwVW8tZ1NFSG8zRGJwMTRyTzd0TnpLTzYyckd3?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWtLNHJKR1hyUFBVQnRYZi1ENXNWaEVPOUxiY29nSUJ6NkUxVjZGLVFaM0tJdEozUEdLXzFmbGI3SW9OcmZDYXRJNmdKeFI1MFliSkNNeER1aGdsWnRwcU16UWZMczlyeWc2eXpPUGcwQ3JONWlpWlg3Vm5mUDVHM1VlaHZ4QnZwdndOTkVYUUFiWWRKNjJZN0lMcHVnbFhuUzBwVW8tZ1NFSG",
-          "source": "Sactown Sports",
+          "source": "Sactown Sports 1140 AM",
           "pubDate": "2026-02-20T03:11:55+00:00",
           "tag": "music",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -8537,6 +8537,16 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPOWNsMi1MYkJ3S3lFQ2R2Z1FNUnpISlhUOFU4S2toMUZzZzRTeFJWMzlaUlU5U0pJbnRWRzFMYzU3UkU1X0RhaWlXbjN4XzhGSW8yWEthQ003V1VNbGdhb1hkYVdLTlZHNzc1dTluVlNUVEFHMUZMVHJGVzhMQWt0U1ctSDE0eDhMWlhjQXJVOFRUOVAzV3VVczJrX0RZd9IBsgFBVV95cUxORW",
           "source": "WJHG",
           "pubDate": "2026-02-20T03:10:00+00:00",
+          "tag": "music",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
+          "title": "Hot Ticket: A weekend filled to the brim with music - galvnews.com",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdC1oeHZwWjlxaGhnNkhMNUhTUWxDM2RnZFRsQlhmekNfRFBKVjhWTGh4TnE0SjFqQjRxNnpEcURLR0p4VXRFdTRrcUpySTlxZ2ZlS0dyZnMxdjhvd2VvRnU4bWwtanNqN0ROU3FxTzA2UTUxTUxLS1praDc5YWtRcDJMM3NnNjcwVE1DT2xsY1JkUWJjX1pVTFhpZWhucDFaejkzejA5eEtwcVZtZzNxUzVjNzIzaTB5WnAwbldOZjFIVDNIclZiQWluYXhxRzZzT2RjNFd3?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdC1oeHZwWjlxaGhnNkhMNUhTUWxDM2RnZFRsQlhmekNfRFBKVjhWTGh4TnE0SjFqQjRxNnpEcURLR0p4VXRFdTRrcUpySTlxZ2ZlS0dyZnMxdjhvd2VvRnU4bWwtanNqN0ROU3FxTzA2UTUxTUxLS1praDc5YWtRcDJMM3NnNjcwVE1DT2xsY1JkUWJjX1pVTFhpZWhucDFaejkzejA5eEtwcV",
+          "source": "galvnews.com",
+          "pubDate": "2026-02-20T03:00:00+00:00",
           "tag": "music",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "imageAttribution": "Google News"
@@ -8582,16 +8592,6 @@
           "imageAttribution": "Google News"
         },
         {
-          "title": "Live Music at Townline Trucks with Wade Waters - Aspen Daily News",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOemszNHRJYloyTFJrZHlUM2s0S0RSa0lCM2xEOEl3NHQtV1pqVmt3NVZKcDhwMThxd1ZCcmE2OFdlOExRSW1UWDd5N1hjQndleGZfWTQxeVNlSmFEeGc1ZEZDYzJEUGJTTVVEck9TcGY1UWRBc0w3Y1VrdExGVE02TWtrWmtsNzZEYWlKOGw4c1hBa3hXZDhxQlgyd3NKUXJCTWFhREpvY3RHWkE5N1l0N3lMUDhEZFhhVlkyUw?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOemszNHRJYloyTFJrZHlUM2s0S0RSa0lCM2xEOEl3NHQtV1pqVmt3NVZKcDhwMThxd1ZCcmE2OFdlOExRSW1UWDd5N1hjQndleGZfWTQxeVNlSmFEeGc1ZEZDYzJEUGJTTVVEck9TcGY1UWRBc0w3Y1VrdExGVE02TWtrWmtsNzZEYWlKOGw4c1hBa3hXZDhxQlgyd3NKUXJCTWFhREpvY3RHWk",
-          "source": "Aspen Daily News",
-          "pubDate": "2026-02-20T02:35:42+00:00",
-          "tag": "music",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
-        },
-        {
           "title": "New Music Roundup: Charli xcx, Noah Kahan, Bleachers, and Lana Del Rey - The Ringer",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWnE0dDRVbGFPaFU0dkRlQy0wYzBuZ2JtWkxaMzJ6U21GZVBUdUtfVGc1b01mWHlOV0x6NGhGTmFfZDE5R1BZajBzMi1VVlc2aVY0UEpVYS1maHJIaTZ3b29Uc1k3SDU0ZGp3blJoSjM0dGRnUktzcnZNOHVFbm5nd0hkZGlQNm1Qd2gzdjEwXzNodEFpblBETDBZbktMYjNUWEJkMHlTb21OMTVySm1IQ2JrdVdUd2tWM3FtNmxzN2dfTVFwTDJpb1Z1dw?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOWnE0dDRVbGFPaFU0dkRlQy0wYzBuZ2JtWkxaMzJ6U21GZVBUdUtfVGc1b01mWHlOV0x6NGhGTmFfZDE5R1BZajBzMi1VVlc2aVY0UEpVYS1maHJIaTZ3b29Uc1k3SDU0ZGp3blJoSjM0dGRnUktzcnZNOHVFbm5nd0hkZGlQNm1Qd2gzdjEwXzNodEFpblBETDBZbktMYjNUWEJkMHlTb21OMT",
@@ -8607,6 +8607,16 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNN1hicXNQX2wzaWFzTUE2eWo2NHVVS1U3UnBzYnRuQTNnTXFEeHpHajdvZ1A3c2pUNWFTVWNnRFJ6QmpyS3JIbE9vMWpRTEtJbkVoRUliN1RTc3dhWUx1LTlMdnJ2ZWdOV2RDTC1YaDZ4dlJnN1g1Y1I1Q1BfUnhvNzJIUGllMWpjdkJaSGp3S0trSTBvNmdWeFhETFQxVVBnbE8zVXlzT0pEZH",
           "source": "KRQE",
           "pubDate": "2026-02-20T02:10:13+00:00",
+          "tag": "music",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
+          "title": "Google’s Gemini Launches New AI Music Model, Lyria 3 - Billboard",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BVXF0N0ZzUXdqN3RTNXlyZTltTEYxUHh6WFlSMy1NNTZ6QzZVaTgzaTVxYXpGUWJ0ZXREcEJUM09SV2pHYnE3bTJ1VGdUcGZJYlgtVDhQbEhqT2p0UjFqU0xTZml4UFhOY1ktNkxMMF9RVFJUSFJOdWluTQ?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1BVXF0N0ZzUXdqN3RTNXlyZTltTEYxUHh6WFlSMy1NNTZ6QzZVaTgzaTVxYXpGUWJ0ZXREcEJUM09SV2pHYnE3bTJ1VGdUcGZJYlgtVDhQbEhqT2p0UjFqU0xTZml4UFhOY1ktNkxMMF9RVFJUSFJOdWluTQ?oc=5\" target=\"_blank\">Google’s Gemini Launches New AI Music Mod",
+          "source": "Billboard",
+          "pubDate": "2026-02-20T02:06:41+00:00",
           "tag": "music",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "imageAttribution": "Google News"
@@ -8677,16 +8687,6 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOVVpHd0hPNHFFR3ZudUtkVjZXay0xeFJXOU1OcjUtNDdlazJXYzdtVkhWRGt6eWZsXzRLM2Fjb2I4OC1HVHV3RDZ6U3d5aUhwaWIzaGFyY2kyNjNTVzlHQUxUOXliaGxvQURMdnZEaS1oakc4YkhIazdLSjZyNExGdnBORQ?oc=5\" target=\"_blank\">Local musician keeps the musi",
           "source": "Discover Our Coast",
           "pubDate": "2026-02-20T00:43:21+00:00",
-          "tag": "music",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
-        },
-        {
-          "title": "When Music is More Than Music: Ruby Ruth George’s Road to Nashville - Lost Coast Outpost",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORHZoMWpMV3JqT0FMZXUwLVdVNm0xMGVDVUVzWFkxblV2LUhCTmdXdlh3X1E0bzl1eWdLR2oyck5vdHVDbjdELWNwSmt4ODhhRGZhcW43ODBaR0tLelkyS291YlM4ZWtRVWRNVC1zaVBrOXViZXBkWGgySmlBbnZHd1k2SXRIRHJNNFNrRVFuWlBUTlZPNmFzbHVmZ2NPaG8?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxORHZoMWpMV3JqT0FMZXUwLVdVNm0xMGVDVUVzWFkxblV2LUhCTmdXdlh3X1E0bzl1eWdLR2oyck5vdHVDbjdELWNwSmt4ODhhRGZhcW43ODBaR0tLelkyS291YlM4ZWtRVWRNVC1zaVBrOXViZXBkWGgySmlBbnZHd1k2SXRIRHJNNFNrRVFuWlBUTlZPNmFzbHVmZ2NPaG8?oc=5\" target=\"",
-          "source": "Lost Coast Outpost",
-          "pubDate": "2026-02-20T00:42:38+00:00",
           "tag": "music",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "imageAttribution": "Google News"
@@ -9740,6 +9740,16 @@
           "imageAttribution": "Google News"
         },
         {
+          "title": "FIRST ALERT: Snow creates slick travel overnight - KCRG",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WaU9DNXQ3ZHFScm9NRGpJcWt5MTFKcGZUb0dxWGZwSDl0MDVZVmtmZndXVE0tS0hWb2J3QUhWdE54YTlBc200S0tHUkZtblJXaTY4SVNXRGxhNTJkSUJNdTJiZl94V3FUMkdpRWNnS0NXNTJTdWRJdzlSLU8?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9WaU9DNXQ3ZHFScm9NRGpJcWt5MTFKcGZUb0dxWGZwSDl0MDVZVmtmZndXVE0tS0hWb2J3QUhWdE54YTlBc200S0tHUkZtblJXaTY4SVNXRGxhNTJkSUJNdTJiZl94V3FUMkdpRWNnS0NXNTJTdWRJdzlSLU8?oc=5\" target=\"_blank\">FIRST ALERT: Snow creates slick travel o",
+          "source": "KCRG",
+          "pubDate": "2026-02-20T00:08:00+00:00",
+          "tag": "travel",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
           "title": "Portable Changing Mat - Foldable, Waterproof Diaper Pad For Babies & Toddlers, Travel & Outdoors (Ivory) - umlconnector.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN09OLTBoOC1WZHBTTGwyak14akttbVcybUdLand2UlBZa29ydlZOLTZ6ay1PVzR0bGFQcVY3aHdDYzRiVm5NSHhVb0Izblo3LXlXNi1DZEttSUhwa0JmUDBVc0FaaXFJLXRvYnVoWUw1VHpRdEhISXVpRTVkUjB0UnkwM2Q2cTlna0ppQTB3Q01Rd3NoWVNDMg?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPN09OLTBoOC1WZHBTTGwyak14akttbVcybUdLand2UlBZa29ydlZOLTZ6ay1PVzR0bGFQcVY3aHdDYzRiVm5NSHhVb0Izblo3LXlXNi1DZEttSUhwa0JmUDBVc0FaaXFJLXRvYnVoWUw1VHpRdEhISXVpRTVkUjB0UnkwM2Q2cTlna0ppQTB3Q01Rd3NoWVNDMg?oc=5\" target=\"_blank\">P",
@@ -9835,16 +9845,6 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPSlduVEZaWm1lX2xqeWRKSk1id3dyZklGelNsb21RejIyQUpQRmJLOFlpTTVTOXN2QjBONWhxVkxzbVlnbzN2SzMtRi1zUUtXUFhUMnRfLWdZQVd5WGJtMHZDbDdaZ21waXhEZE1fczdqNW5rU2NZdW5yRnJzRl9ZUndBal9wR1JKZTRzTTZfcTJzXzZwZEtJYWpaZTBuVXpjTks4?oc=5\" tar",
           "source": "Eastern Michigan University Athletics",
           "pubDate": "2026-02-19T23:11:06+00:00",
-          "tag": "travel",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
-        },
-        {
-          "title": "Baseball Travels to Southeastern Louisiana for Three-Game Set - siuecougars.com",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcml1LTVuOGNwZWFNTjVZcTlGWFEzeDltTXYtSlZWTmQ5NUZsYVdITEctUjFCOE1ZNVNJZ2swcnl0WmZmSWZrSl9ERmZqaFJTenl4bkZyc25rUzExTVp2QkZPMnEzWnlENjVINjgtSzlqOVhiWkVfSmNZWUFDdzk1Wi05NkFpWmNUMzF2OFM5UGZKcElYdEdxU1EzaXYzVmhoVXlfaVJ0akg?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcml1LTVuOGNwZWFNTjVZcTlGWFEzeDltTXYtSlZWTmQ5NUZsYVdITEctUjFCOE1ZNVNJZ2swcnl0WmZmSWZrSl9ERmZqaFJTenl4bkZyc25rUzExTVp2QkZPMnEzWnlENjVINjgtSzlqOVhiWkVfSmNZWUFDdzk1Wi05NkFpWmNUMzF2OFM5UGZKcElYdEdxU1EzaXYzVmhoVXlfaVJ0akg?oc",
-          "source": "siuecougars.com",
-          "pubDate": "2026-02-19T23:04:45+00:00",
           "tag": "travel",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "imageAttribution": "Google News"
@@ -9992,17 +9992,17 @@
           "imageAttribution": "Google News"
         },
         {
-          "title": "House Ag Committee to revisit Farm, Food, and National Security Act of 2026 - KCBD.com",
+          "title": "House Ag Committee to revisit Farm, Food, and National Security Act of 2026 - KCBD",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUFBJVnU2dnlLUG9jWmFrZjFNb1dOQTJMNVBCT2tOVEEzcXlkbkZ4Rm0zdWM1eUVPLXBmSnFFZml0MmRyTzFXYTVuUllEMGhDbkhkbnh5WW5RMzRvSktGc01xM2Nsc0pQa2pIWmhOSFEzUUdEZUJSLTVoVTR2LTRTc09ta0NwVThPa2pTTG0zc2tGT19iSDJoSERMeGppcXNVTUg3bg?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNUFBJVnU2dnlLUG9jWmFrZjFNb1dOQTJMNVBCT2tOVEEzcXlkbkZ4Rm0zdWM1eUVPLXBmSnFFZml0MmRyTzFXYTVuUllEMGhDbkhkbnh5WW5RMzRvSktGc01xM2Nsc0pQa2pIWmhOSFEzUUdEZUJSLTVoVTR2LTRTc09ta0NwVThPa2pTTG0zc2tGT19iSDJoSERMeGppcXNVTUg3bg?oc=5\" t",
-          "source": "KCBD.com",
+          "source": "KCBD",
           "pubDate": "2026-02-20T03:24:00+00:00",
           "tag": "food",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "imageAttribution": "Google News"
         },
         {
-          "title": "Refugees, advocates seek to restore food aid lost under new fed rules - Nebraska Examiner",
+          "title": "Refugees, advocates seek to restore food aid lost under new federal rules - Nebraska Examiner",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcGprMnlCbkc2TlJ1MUZBbWZuWGlEUTEzUUJ3emZBVkw2WWR0VEh6QjNtMlo2RzdyV3JUZ3cxdlVmc3FzRjV4djduYXhyNE5nTEtiU0JSbWhTYnU3Sm1BdGJaMVNGUGZHTERtNHJIWDNnQk9FLVYtU2lsZzZjTTF1SzA2dVRKR25VZm5yQzlEd3BmQldjb0xpcDNCVXFRR2FzZ1NCbHd0MWNfZTVqNElRUm95ZnJaU3FZ?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcGprMnlCbkc2TlJ1MUZBbWZuWGlEUTEzUUJ3emZBVkw2WWR0VEh6QjNtMlo2RzdyV3JUZ3cxdlVmc3FzRjV4djduYXhyNE5nTEtiU0JSbWhTYnU3Sm1BdGJaMVNGUGZHTERtNHJIWDNnQk9FLVYtU2lsZzZjTTF1SzA2dVRKR25VZm5yQzlEd3BmQldjb0xpcDNCVXFRR2FzZ1NCbHd0MWNfZT",
           "source": "Nebraska Examiner",
@@ -10012,10 +10012,10 @@
           "imageAttribution": "Google News"
         },
         {
-          "title": "Food for Thought: Live pests reported in food prep areas - KCBD.com",
+          "title": "Food for Thought: Live pests reported in food prep areas - KCBD",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNejZOUTk0Y2pJTzBldUZSUXF0em9US1Q1RHJOek42YWVOR3g2TThycTRoZU1HYkVPNmlveVlXRk1PTm9IdlR5UVYyTDhnT2tzTHVqQW5fRzBmRUZ1Q2dxZ3VzLWh2czh6OThoc1dkSUJtQ0l1b2UxWlFVWEw5RndSdmxyM1AzSkQ00gGcAUFVX3lxTE1DVWl5OHVSc3Z3YzRiUDFCclpLYlpHZnozOFRNVmhRdW1EM3VuQVV6MEFWNGVWRUZfS0lETWxMTWxrRjNSSGg0dGpXQXM5SVFBVE5TX0ZWNXVsUFdQQUNrNmFoUEJnSWd6SHhvX0lEaHI0TnFHdXN3SFp1ZC1JMXNrWmVzSkp1bWppWS04c0J1WS1EVWZSaE04RjlidA?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNejZOUTk0Y2pJTzBldUZSUXF0em9US1Q1RHJOek42YWVOR3g2TThycTRoZU1HYkVPNmlveVlXRk1PTm9IdlR5UVYyTDhnT2tzTHVqQW5fRzBmRUZ1Q2dxZ3VzLWh2czh6OThoc1dkSUJtQ0l1b2UxWlFVWEw5RndSdmxyM1AzSkQ00gGcAUFVX3lxTE1DVWl5OHVSc3Z3YzRiUDFCclpLYlpHZn",
-          "source": "KCBD.com",
+          "source": "KCBD",
           "pubDate": "2026-02-20T02:30:00+00:00",
           "tag": "food",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -10242,16 +10242,6 @@
           "imageAttribution": "Google News"
         },
         {
-          "title": "Baltimore Banner: YMCA employees got food pantry rather than pay raises - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEN3bkZ0ZVBaa3ctd0xqQm96UnNLYjV0anBMd3h5dnpDSjAwYnEwMUk3eUl1Z2V2MVk2UW53R1V4YVFQTVd6c2dzaVFyaW9GQTAzTFJ5TU1penctRFJlS3BNNUVDTjlfZ1ZWT2R0WFRzZzlYZUdITTVRTFJnbW5iVUpyZ3E3Ui1xaTJ3TXZFT2psRkxra3FEUzBKamRqSG1zMlFrc1dnQXJxOWpfbURjTw?oc=5",
-          "description": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEN3bkZ0ZVBaa3ctd0xqQm96UnNLYjV0anBMd3h5dnpDSjAwYnEwMUk3eUl1Z2V2MVk2UW53R1V4YVFQTVd6c2dzaVFyaW9GQTAzTFJ5TU1penctRFJlS3BNNUVDTjlfZ1ZWT2R0WFRzZzlYZUdITTVRTFJnbW5iVUpyZ3E3Ui1xaTJ3TXZFT2psRkxra3FEUzBKamRqSG1zMlFrc1dnQXJxOW",
-          "source": "CBS News",
-          "pubDate": "2026-02-19T23:20:00+00:00",
-          "tag": "food",
-          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "imageAttribution": "Google News"
-        },
-        {
           "title": "The last of these Peruvian food trucks is closing - OregonLive.com",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQm5DU1E5anpmMmpOU2FJLWNKRFlIYW9kX2M1dVpTZnVySEdqV2Y0N1dDclhIZGg2WDIzdXdMTlRpU1NRX0NHSGRPVGRQbzEwbW8zUVIycHZWajB2U2hQMjBWZWQzai1uSk1LRktTQnA3VzNjdUtxdFFrNXlQNUtUdDg5VlZ2U1pReGprOWRvWHhRYThnTlMyZlBkTDPSAbABQVVfeXFMTmZfQkdGeU1KNHl0VUdOb1g1anhNdi1wZE12SzBNanpPQ0RfQURrX0RCN3NwV3hIOTFiQnB1VmxlSHhyTzZNLWJUTmZyRWpTTmF0RlJXYU9IcXphT2o1TEpJNWtDUlFrTjJNS3hUS3ZuaTh3RmdjaUZKTUx1XzY1MTBMakZ0QXpXbW5qUFRaRTRjd1E3SnNDa0R6RUFEQndNMEZtWjFjTXc0MU9rZDNmdmQ?oc=5",
           "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQQm5DU1E5anpmMmpOU2FJLWNKRFlIYW9kX2M1dVpTZnVySEdqV2Y0N1dDclhIZGg2WDIzdXdMTlRpU1NRX0NHSGRPVGRQbzEwbW8zUVIycHZWajB2U2hQMjBWZWQzai1uSk1LRktTQnA3VzNjdUtxdFFrNXlQNUtUdDg5VlZ2U1pReGprOWRvWHhRYThnTlMyZlBkTDPSAbABQVVfeXFMTmZfQk",
@@ -10267,6 +10257,16 @@
           "description": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY3VhcFRhXzhnbkRpT2xqYktKOWFmYmd5RVFzTXVMT2o2N1RHUHhZRFh2N3BVSkFHQUpQXzktZEdKM2FDR0x5UEgtYW1UQVhtckFIdHVGWGtBSzM5RnVsaWMxUlRaTUxZUGdHRnlJcW9WcFVLVE1pQm5iTERBMHlKa3NWekNjUTVVYVBlNGpvSURMWlpOZGtUTU4zbXNmNFRsaUQ1d0FfVmtqUH",
           "source": "WTXL ABC 27 Tallahassee News",
           "pubDate": "2026-02-19T23:08:26+00:00",
+          "tag": "food",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "imageAttribution": "Google News"
+        },
+        {
+          "title": "Tampa soul food spot reopens after hurricanes - FOX 13 Tampa Bay",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAySzRsWkFYb3FfTzhFSk4zX0dyYlIyT0c1SzNTSzdYenQza055NGE3UWxMeUJFTG1QcVUwTDVFMkRyRXpYeGNmdlYxbTlueVY1S2ZxWTVxRzBwX05UWDN4RHJ30gFnQVVfeXFMTVViYWI1WktyRmxXUS0xQWNDYWJZcXVTQW5DWUN0dTkzbmR2SVVXUWpHaGJnWURwM0RNX2lQYlhYd3E4cnE4VE1xNlFLWFdRWWFndEVET0tCejlTc093Q2VaalVWNXQwNA?oc=5",
+          "description": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFAySzRsWkFYb3FfTzhFSk4zX0dyYlIyT0c1SzNTSzdYenQza055NGE3UWxMeUJFTG1QcVUwTDVFMkRyRXpYeGNmdlYxbTlueVY1S2ZxWTVxRzBwX05UWDN4RHJ30gFnQVVfeXFMTVViYWI1WktyRmxXUS0xQWNDYWJZcXVTQW5DWUN0dTkzbmR2SVVXUWpHaGJnWURwM0RNX2lQYlhYd3E4cnE4VE",
+          "source": "FOX 13 Tampa Bay",
+          "pubDate": "2026-02-19T23:06:00+00:00",
           "tag": "food",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "imageAttribution": "Google News"
